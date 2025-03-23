@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ankara Emlak Fiyat Tahmini - Mustafa YİĞİTBAŞI</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.1.3/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <style>
+        :root {
+            --primary-color: #2c3e50;
+            --secondary-color: #1abc9c;
+            --accent-color: #e74c3c;
+            --light-color: #ecf0f1;
+            --dark-color: #34495e;
+            --border-radius: 10px;
+        }
+
+        body {
+            background-color: var(--light-color);
+            font-family: 'Segoe UI', Arial, sans-serif;
+            color: var(--primary-color);
+        }
+
+        .container {
+            max-width: 900px;
+            padding: 20px;
+        }
+
+        .page-header {
+            background: linear-gradient(135deg, var(--primary-color), var(--dark-color));
+            color: white;
+            padding: 2rem;
+            border-radius: var(--border-radius);
+            box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
+            margin-bottom: 2rem;
+        }
+
+        .page-header h1 {
+            margin: 0;
+            font-weight: 700;
+            text-align: center;
+        }
+
+        .page-header p {
+            margin-top: 1rem;
+            opacity: 0.9;
+            text-align: center;
+        }
+
+        .card {
+            border: none;
+            border-radius: var(--border-radius);
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            margin-bottom: 1.5rem;
+            overflow: hidden;
+        }
+
+        .card-header {
+            background-color: var(--secondary-color);
+            color: white;
+            font-weight: 600;
+            padding: 1rem;
+            border: none;
+        }
+
+        .btn-primary {
+            background-color: var(--secondary-color);
+            border-color: var(--secondary-color);
+            border-radius: var(--border-radius);
+            padding: 12px 20px;
+            font-weight: 600;
+            transition: all 0.3s ease;
+        }
+
+        .btn-primary:hover {
+            background-color: #16a085;
+            border-color: #16a085;
+            transform: translateY(-2px);
+        }
+
+        .form-control, .form-select {
+            border-radius: var(--border-radius);
+            padding: 10px 15px;
+            border: 1px solid #ddd;
+        }
+
+        .form-control:focus, .form-select:focus {
+            border-color: var(--secondary-color);
+            box-shadow: 0 0 0 0.25rem rgba(26, 188, 156, 0.25);
+        }
+
+        #prediction-result {
+            color: var(--secondary-color);
+            font-weight: 700;
+            margin: 1.5rem 0;
+        }
+
+        .result-card .card-header {
+            background-color: var(--secondary-color);
+        }
+
+        .error-box {
+            background-color: var(--accent-color);
+            color: white;
+            border-radius: var(--border-radius);
+        }
+
+        .form-label {
+            font-weight: 500;
+            color: var(--primary-color);
+        }
+
+        .icon-input {
+            position: relative;
+        }
+
+        .icon-input i {
+            position: absolute;
+            top: 50%;
+            left: 15px;
+            transform: translateY(-50%);
+            color: #aaa;
+        }
+
+        .icon-input input, .icon-input select {
+            padding-left: 40px;
+        }
+
+        footer {
+            margin-top: 2rem;
+            text-align: center;
+            color: var(--dark-color);
+            font-size: 0.9rem;
+        }
+
+        @media (max-width: 768px) {
+            .row {
+                margin-bottom: 0;
+            }
+
+            .col-md-4, .col-md-6 {
+                margin-bottom: 1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="page-header">
+            <h1>Ankara Emlak Fiyat Tahmini</h1>
+            <p class="lead">Mustafa YİĞİTBAŞI</p>
+        </div>
+
+        <div class="row">
+            <div class="col-md-10 offset-md-1">
+                <div class="card mb-4">
+                    <div class="card-header d-flex align-items-center">
+                        <i class="fas fa-home me-2"></i>
+                        <h5 class="mb-0">Emlak Bilgileri</h5>
+                    </div>
+                    <div class="card-body p-4">
+                        <form id="prediction-form">
+                            <div class="row mb-4">
+                                <div class="col-md-6 mb-3 mb-md-0">
+                                    <label for="district" class="form-label">İlçe</label>
+                                    <div class="icon-input">
+                                        <i class="fas fa-map-marker-alt"></i>
+                                        <select class="form-select" id="district" name="district" required>
+                                            <option value="">İlçe Seçin</option>
+                                            {% for district in districts %}
+                                            <option value="{{ district }}">{{ district }}</option>
+                                            {% endfor %}
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <label for="neighborhood" class="form-label">Mahalle</label>
+                                    <div class="icon-input">
+                                        <i class="fas fa-city"></i>
+                                        <select class="form-select" id="neighborhood" name="neighborhood" required>
+                                            <option value="">Mahalle Seçin</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="row mb-4">
+                                <div class="col-md-4 mb-3 mb-md-0">
+                                    <label for="size" class="form-label">Metrekare</label>
+                                    <div class="icon-input">
+                                        <i class="fas fa-ruler-combined"></i>
+                                        <input type="number" class="form-control" id="size" name="size" min="20" max="400" placeholder="m²" required>
+                                    </div>
+                                </div>
+                                <div class="col-md-4 mb-3 mb-md-0">
+                                    <label for="room_count" class="form-label">Oda Sayısı</label>
+                                    <div class="icon-input">
+                                        <i class="fas fa-door-open"></i>
+                                        <select class="form-select" id="room_count" name="room_count" required>
+                                            <option value="">Oda+Salon</option>
+                                            <option value="1">1+0</option>
+                                            <option value="2">1+1</option>
+                                            <option value="3">2+1</option>
+                                            <option value="4">3+1</option>
+                                            <option value="5">4+1</option>
+                                            <option value="6">5+1</option>
+                                            <option value="7">6+1</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <label for="building_age" class="form-label">Bina Yaşı</label>
+                                    <div class="icon-input">
+                                        <i class="fas fa-calendar-alt"></i>
+                                        <input type="number" class="form-control" id="building_age" name="building_age" min="0" max="70" placeholder="Yıl" required>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="d-grid mt-4">
+                                <button type="submit" class="btn btn-primary">
+                                    <i class="fas fa-calculator me-2"></i>Fiyat Tahmin Et
+                                </button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+
+                <div id="result-container" class="d-none">
+                    <div class="card result-card">
+                        <div class="card-header d-flex align-items-center">
+                            <i class="fas fa-tags me-2"></i>
+                            <h5 class="mb-0">Fiyat Tahmini</h5>
+                        </div>
+                        <div class="card-body text-center p-4">
+                            <p class="lead mb-2">Tahmini fiyat:</p>
+                            <h2 id="prediction-result" class="display-4 mb-3"></h2>
+                            <p class="text-muted">Bu tahmin, makine öğrenmesi algoritması ile yaptığımız hesaplamalara dayanmaktadır.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div id="error-box" class="alert error-box mt-3 d-none">
+                    <i class="fas fa-exclamation-triangle me-2"></i>
+                    <span id="error-message">Bir hata oluştu. Lütfen tüm alanları doğru şekilde doldurup tekrar deneyin.</span>
+                </div>
+            </div>
+        </div>
+
+        <footer>
+            <p>© 2025 Mustafa YİĞİTBAŞI | Ankara Emlak Fiyat Tahmini Uygulaması</p>
+        </footer>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.1.3/js/bootstrap.bundle.min.js"></script>
+    <script>
+        $(document).ready(function() {
+
+            $('#district').change(function() {
+                const selectedDistrict = $(this).val();
+
+
+                $('#neighborhood').empty();
+                $('#neighborhood').append('<option value="">Mahalle Seçin</option>');
+
+                if (selectedDistrict) {
+
+                    $('#neighborhood').append('<option value="" disabled>Yükleniyor...</option>');
+
+
+                    $.ajax({
+                        url: '/get_neighborhoods/' + selectedDistrict,
+                        type: 'GET',
+                        dataType: 'json',
+                        success: function(data) {
+
+                            $('#neighborhood option[disabled]').remove();
+
+                            if (data && data.neighborhoods) {
+
+                                const neighborhoods = data.neighborhoods.sort();
+
+
+                                neighborhoods.forEach(function(neighborhood) {
+                                    $('#neighborhood').append(
+                                        $('<option></option>').val(neighborhood).text(neighborhood)
+                                    );
+                                });
+                            }
+                        },
+                        error: function(xhr, status, error) {
+
+                            $('#neighborhood option[disabled]').remove();
+                            $('#neighborhood').append('<option value="" disabled>Hata oluştu</option>');
+
+                            console.error("AJAX hatası:", error);
+                        }
+                    });
+                }
+            });
+
+
+            $('#prediction-form').submit(function(e) {
+                e.preventDefault();
+
+
+                $('#result-container').addClass('d-none');
+                $('#error-box').addClass('d-none');
+
+
+                const formData = $(this).serialize();
+
+
+                const submitBtn = $(this).find('button[type="submit"]');
+                const originalBtnText = submitBtn.html();
+                submitBtn.prop('disabled', true).html('<i class="fas fa-spinner fa-spin me-2"></i>Hesaplanıyor...');
+
+
+                $.ajax({
+                    type: 'POST',
+                    url: '/predict',
+                    data: formData,
+                    dataType: 'json',
+                    success: function(response) {
+
+                        submitBtn.prop('disabled', false).html(originalBtnText);
+
+                        if (response.success) {
+
+                            $('#prediction-result').text(response.prediction);
+                            $('#result-container').removeClass('d-none');
+
+
+                            $('html, body').animate({
+                                scrollTop: $('#result-container').offset().top - 20
+                            }, 500);
+                        } else {
+
+                            $('#error-message').text(response.error || "Bir hata oluştu");
+                            $('#error-box').removeClass('d-none');
+                        }
+                    },
+                    error: function(xhr, status, error) {
+
+                        submitBtn.prop('disabled', false).html(originalBtnText);
+
+
+                        $('#error-message').text("Sunucu ile iletişim kurulamadı. Lütfen daha sonra tekrar deneyin.");
+                        $('#error-box').removeClass('d-none');
+
+                        console.error("AJAX hatası:", error);
+                    }
+                });
+            });
+        });
+    </script>
+</body>
+</html>

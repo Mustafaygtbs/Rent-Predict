@@ -1,0 +1,59 @@
+body {
+    background-color: #f8f9fa;
+    font-family: 'Segoe UI', Arial, sans-serif;
+}
+
+.container {
+    max-width: 900px;
+}
+
+header {
+    padding: 2rem 0;
+}
+
+header h1 {
+    color: #212529;
+    font-weight: 700;
+}
+
+.card {
+    border: none;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom: 1.5rem;
+}
+
+.card-header {
+    font-weight: 600;
+}
+
+.btn-success {
+    padding: 10px 20px;
+    font-weight: 600;
+}
+
+#prediction-result {
+    color: #198754;
+    font-weight: 700;
+    margin: 1.5rem 0;
+}
+
+.form-control:focus, .form-select:focus {
+    border-color: #8bbafe;
+    box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.25);
+}
+
+
+#district, #neighborhood {
+    cursor: pointer;
+}
+
+
+@media (max-width: 768px) {
+    .row {
+        margin-bottom: 0;
+    }
+
+    .col-md-4, .col-md-6 {
+        margin-bottom: 1rem;
+    }
+}
