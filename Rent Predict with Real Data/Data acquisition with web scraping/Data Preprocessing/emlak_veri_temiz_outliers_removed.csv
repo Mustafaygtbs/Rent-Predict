@@ -1,0 +1,3394 @@
+Price (TL),Room,Size (m²),Building Age,IL,ILCE,Neighborhood
+26000,3+1,120,17.0,Ankara,Altındağ,Aydınlıkevler Mah.
+32000,3+1,135,47.0,Ankara,Çankaya,Çankaya Mah.
+42000,3+1,135,35.0,Ankara,Çankaya,Kavaklıdere Mah.
+55000,4+1,240,5.0,Ankara,Çankaya,Büyükesat Mah.
+30000,2+1,95,21.0,Ankara,Çankaya,İlkadım Mah.
+60000,4+1,190,15.0,Ankara,Çankaya,Koru Mah.
+36000,2+1,110,,Ankara,Çankaya,Yukarı Dikmen Mah.
+45000,3+1,160,9.0,Ankara,Çankaya,İlkbahar Mah.
+33000,3+1,130,25.0,Ankara,Çankaya,Harbiye Mah.
+50000,3+1,173,,Ankara,Çankaya,İlkbahar Mah.
+21000,2+1,100,12.0,Ankara,Etimesgut,Piyade Mah.
+12000,3+1,130,30.0,Ankara,Polatlı,Cumhuriyet Mah.
+42000,3+1,145,35.0,Ankara,Çankaya,Aziziye Mah.
+39000,3+1,115,45.0,Ankara,Çankaya,Güvenevler Mah.
+30000,2+1,67,,Ankara,Çankaya,Emek Mah.
+15000,3+1,140,21.0,Ankara,Gölbaşı,Tulumtaş Mah.
+14000,3+1,120,30.0,Ankara,Yenimahalle,Demetgül Mah.
+36500,2+1,105,6.0,Ankara,Gölbaşı,Hacılar Mah.
+49000,1+1,90,1.0,Ankara,Yenimahalle,Emniyet Mah.
+24000,1+1,70,3.0,Ankara,Çankaya,Aziziye Mah.
+13000,1+1,60,20.0,Ankara,Çankaya,Emek Mah.
+68000,5+1,235,,Ankara,Çankaya,Alacaatlı Mah.
+24000,2+1,90,12.0,Ankara,Çankaya,Seyranbağları Mah.
+16500,3+1,110,18.0,Ankara,Etimesgut,Atakent Mah.
+32000,2+1,85,12.0,Ankara,Çankaya,Emek Mah.
+50000,4+1,230,8.0,Ankara,Çankaya,Birlik Mah.
+39500,2+1,90,5.0,Ankara,Çankaya,İlkbahar Mah.
+2900,1+1,60,1.0,Ankara,Çankaya,Çamlıtepe Mah.
+19500,3+1,125,30.0,Ankara,Keçiören,Güçlükaya Mah.
+15000,2+1,105,30.0,Ankara,Keçiören,Şefkat Mah.
+15000,11+1,85,30.0,Ankara,Keçiören,Şenlik Mah.
+13500,3+1,110,30.0,Ankara,Keçiören,Güçlükaya Mah.
+26000,3+1,125,30.0,Ankara,Çankaya,Bahçelievler Mah.
+15000,2+1,90,40.0,Ankara,Çankaya,Ertuğrulgazi Mah.
+26000,5+1,180,16.0,Ankara,Çankaya,Öveçler Mah.
+32000,1+1,75,,Ankara,Gölbaşı,Seğmenler Mah.
+28500,2+1,85,4.0,Ankara,Gölbaşı,Seğmenler Mah.
+30000,2+1,90,5.0,Ankara,Çankaya,Hilal Mah.
+30000,3+1,135,20.0,Ankara,Çankaya,Cevizlidere Mah.
+13650,3+1,130,25.0,Ankara,Polatlı,Zafer Mah.
+30000,2+1,90,55.0,Ankara,Çankaya,Yukarı Bahçelievler Mah.
+25000,1+1,60,1.0,Ankara,Çankaya,Büyükesat Mah.
+16500,3+1,110,30.0,Ankara,Keçiören,Emrah Mah.
+47000,3+1,160,7.0,Ankara,Çankaya,Bahçelievler Mah.
+1250,2+1,170,1.0,Ankara,Çankaya,Çamlıtepe Mah.
+28000,3+1,135,17.0,Ankara,Çankaya,Öveçler Mah.
+35000,2+1,95,29.0,Ankara,Çankaya,Güzeltepe Mah.
+42000,3+1,140,20.0,Ankara,Çankaya,Emek Mah.
+20000,3+1,125,40.0,Ankara,Altındağ,Aydınlıkevler Mah.
+29000,1+1,55,,Ankara,Çankaya,Emek Mah.
+19000,1+1,49,1.0,Ankara,Gölbaşı,İncek Mah.
+30000,3+1,150,22.0,Ankara,Çankaya,Oğuzlar Mah.
+22000,2+1,70,1.0,Ankara,Gölbaşı,İncek Mah.
+20000,1+1,52,,Ankara,Gölbaşı,İncek Mah.
+25000,3+1,115,40.0,Ankara,Çankaya,Cebeci Mah.
+22000,2+1,105,21.0,Ankara,Etimesgut,Göksu Mah.
+12500,Stüdyo,50,40.0,Ankara,Çankaya,100. Yıl Mah.
+27500,3+1,135,26.0,Ankara,Çankaya,Aşağı Öveçler Mah.
+25000,2+1,85,18.0,Ankara,Çankaya,Gökkuşağı Mah.
+21000,1+1,65,1.0,Ankara,Çankaya,Çamlıtepe Mah.
+25500,3+1,120,28.0,Ankara,Çankaya,Oğuzlar Mah.
+15000,3+1,100,15.0,Ankara,Mamak,Fahri Korutürk Mah.
+42000,2+1,130,10.0,Ankara,Gölbaşı,Hacılar Mah.
+17000,3+1,115,25.0,Ankara,Çankaya,Ata Mah.
+25000,3+1,130,20.0,Ankara,Çankaya,Ata Mah.
+21000,1+1,70,,Ankara,Çankaya,Büyükesat Mah.
+53000,3+1,160,7.0,Ankara,Yenimahalle,Mehmet Akif Ersoy Mah.
+30000,3+1,140,18.0,Ankara,Çankaya,Ata Mah.
+50000,2+1,134,,Ankara,Gölbaşı,Kızılcaşar Mah.
+27000,1+1,65,4.0,Ankara,Gölbaşı,Kızılcaşar Mah.
+35000,1+1,60,3.0,Ankara,Çankaya,Kültür Mah.
+35000,1+1,60,3.0,Ankara,Çankaya,Kültür Mah.
+75000,1+1,150,,Ankara,Çankaya,Barbaros Mah.
+15000,2+1,95,30.0,Ankara,Çankaya,Ertuğrulgazi Mah.
+30750,3+1,135,25.0,Ankara,Çankaya,Sancak Mah.
+55000,4+1,270,25.0,Ankara,Çankaya,Bayraktar Mah.
+27000,3+1,150,3.0,Ankara,Çankaya,Akpınar Mah.
+21500,3+1,120,28.0,Ankara,Çankaya,Aydınlar Mah.
+20000,2+1,100,25.0,Ankara,Çankaya,Mimar Sinan Mah.
+25000,3+1,120,25.0,Ankara,Çankaya,Yukarı Bahçelievler Mah.
+86000,4+1,240,15.0,Ankara,Çankaya,Yıldızevler Mah.
+24000,3+1,100,35.0,Ankara,Çankaya,Harbiye Mah.
+30000,3+1,160,12.0,Ankara,Yenimahalle,Pamuklar Mah.
+20900,3+1,135,5.0,Ankara,Keçiören,Şehit Kubilay Mah.
+32000,1+1,48,1.0,Ankara,Gölbaşı,Taşpınar Mah.
+15000,3+1,125,20.0,Ankara,Sincan,Osmanlı Mah.
+35000,4+1,150,24.0,Ankara,Yenimahalle,Kentkoop Mah.
+28000,2+1,95,18.0,Ankara,Etimesgut,Elvan Mah.
+22000,1+1,55,4.0,Ankara,Gölbaşı,Bahçelievler Mah.
+41000,4+1,220,4.0,Ankara,Keçiören,Atapark Mah.
+35000,5+1,280,12.0,Ankara,Altındağ,Aydınlıkevler Mah.
+22500,3+1,115,20.0,Ankara,Keçiören,Emrah Mah.
+14000,3+1,117,15.0,Ankara,Etimesgut,Yapracık Mah.
+26000,3+1,120,8.0,Ankara,Mamak,Mehtap Mah.
+32000,3+1,120,31.0,Ankara,Çankaya,Ayrancı Mah.
+14000,2+1,75,2.0,Ankara,Çubuk,Esenboğa Merkez Mah.
+8500,1+1,55,10.0,Ankara,Sincan,Hürriyet Mah.
+16000,3+1,125,16.0,Ankara,Pursaklar,Fatih Mah.
+27000,3+1,170,19.0,Ankara,Çankaya,Birlik Mah.
+22000,2+1,85,25.0,Ankara,Çankaya,Metin Oktay Mah.
+25000,2+1,80,45.0,Ankara,Çankaya,Seyranbağları Mah.
+20500,2+1,100,20.0,Ankara,Gölbaşı,Bahçelievler Mah.
+22500,3+1,110,35.0,Ankara,Keçiören,Aşağı Eğlence Mah.
+13000,3+1,105,10.0,Ankara,Keçiören,Bademlik Mah.
+28000,3+1,105,30.0,Ankara,Çankaya,Balgat Mah.
+17000,3+1,140,26.0,Ankara,Yenimahalle,Demetlale Mah.
+22000,3+1,110,45.0,Ankara,Çankaya,Tınaztepe Mah.
+20000,3+1,130,21.0,Ankara,Keçiören,Aşağı Eğlence Mah.
+30000,3+1,120,12.0,Ankara,Çankaya,Seyranbağları Mah.
+10000,3+1,145,15.0,Ankara,Nallıhan,Çayırhan Mah.
+14000,3+1,128,30.0,Ankara,Sincan,Osmanlı Mah.
+33000,1+1,55,25.0,Ankara,Çankaya,Büyükesat Mah.
+16000,3+1,130,15.0,Ankara,Keçiören,Etlik Mah.
+27500,3+1,135,19.0,Ankara,Etimesgut,Ahi Mesut Mah.
+8500,1+1,45,10.0,Ankara,Sincan,Hürriyet Mah.
+22500,3+1,120,16.0,Ankara,Etimesgut,30 Ağustos Mah.
+33000,2+1,55,25.0,Ankara,Çankaya,Büyükesat Mah.
+21500,2+1,110,,Ankara,Etimesgut,Topçu Mah.
+30000,2+1,100,40.0,Ankara,Çankaya,Yücetepe Mah.
+23000,1+1,60,10.0,Ankara,Etimesgut,Şehit Osman Avcı Mah.
+25000,3+1,110,25.0,Ankara,Çankaya,Naci Çakır Mah.
+40000,6+1,225,19.0,Ankara,Çankaya,Gökkuşağı Mah.
+62000,5+2,325,11.0,Ankara,Yenimahalle,Yeni Batı Mah.
+36000,4+1,155,24.0,Ankara,Çankaya,İşçi Blokları Mah.
+15000,3+1,125,18.0,Ankara,Mamak,Şahintepe Mah.
+19000,2+1,90,10.0,Ankara,Altındağ,Aydınlıkevler Mah.
+16500,3+1,120,26.0,Ankara,Sincan,Mareşal Çakmak Mah.
+28000,1+1,60,2.0,Ankara,Çankaya,Anıttepe Mah.
+14500,2+1,95,25.0,Ankara,Sincan,Mareşal Çakmak Mah.
+21000,3+1,120,28.0,Ankara,Keçiören,Etlik Mah.
+27000,3+1,150,3.0,Ankara,Çankaya,Akpınar Mah.
+58000,4+1,186,2.0,Ankara,Çankaya,Konutkent Mah.
+20000,3+1,120,48.0,Ankara,Keçiören,Basınevleri Mah.
+19000,2+1,85,25.0,Ankara,Çankaya,Tınaztepe Mah.
+19500,2+1,100,25.0,Ankara,Çankaya,Ata Mah.
+50000,2+1,70,,Ankara,Çankaya,Kazım Özalp Mah.
+22000,3+1,100,30.0,Ankara,Keçiören,Adnan Menderes Mah.
+17400,2+1,90,15.0,Ankara,Etimesgut,Alsancak Mah.
+16000,3+1,135,35.0,Ankara,Yenimahalle,Demetevler Mah.
+35000,4+1,150,24.0,Ankara,Yenimahalle,Kentkoop Mah.
+30000,1+1,55,10.0,Ankara,Çankaya,Prof. Dr. Ahmet Taner Kışlalı Mah.
+22000,3+1,150,4.0,Ankara,Sincan,Menderes Mah.
+33000,3+1,115,27.0,Ankara,Çankaya,Göktürk Mah.
+18000,3+1,125,15.0,Ankara,Keçiören,Esertepe Mah.
+28500,3+1,120,42.0,Ankara,Çankaya,Gaziosmanpaşa Mah.
+35000,5+1,285,21.0,Ankara,Çankaya,Gökkuşağı Mah.
+22500,3+1,110,17.0,Ankara,Çankaya,Keklik Pınarı Mah.
+39000,4+2,280,30.0,Ankara,Yenimahalle,Uğur Mumcu Mah.
+26000,3+1,130,35.0,Ankara,Çankaya,Aziziye Mah.
+22500,3+1,130,25.0,Ankara,Çankaya,Harbiye Mah.
+18500,3+1,110,25.0,Ankara,Yenimahalle,Demetlale Mah.
+15250,3+1,120,18.0,Ankara,Mamak,Peyami Safa Mah.
+38000,5+1,325,15.0,Ankara,Çankaya,Öveçler Mah.
+32000,4+1,187,24.0,Ankara,Çankaya,Birlik Mah.
+30000,3+1,140,15.0,Ankara,Etimesgut,Ahi Mesut Mah.
+12000,2+1,85,28.0,Ankara,Altındağ,Örnek Mah.
+13000,2+1,90,15.0,Ankara,Etimesgut,Piyade Mah.
+19000,3+1,115,30.0,Ankara,Çankaya,Harbiye Mah.
+40000,4+1,160,50.0,Ankara,Çankaya,Emek Mah.
+25000,1+1,55,7.0,Ankara,Etimesgut,Piyade Mah.
+24500,1+1,65,8.0,Ankara,Etimesgut,Altay Mah.
+31000,3+1,125,30.0,Ankara,Çankaya,Büyükesat Mah.
+28000,3+1,150,6.0,Ankara,Yenimahalle,Pamuklar Mah.
+26000,1+1,60,3.0,Ankara,Etimesgut,Devlet Mah.
+28000,1+1,55,1.0,Ankara,Yenimahalle,İnönü Mah.
+30000,3+1,155,10.0,Ankara,Yenimahalle,Kayalar Mah.
+21000,3+1,148,15.0,Ankara,Etimesgut,Alsancak Mah.
+23000,3+1,115,29.0,Ankara,Keçiören,Aşağı Eğlence Mah.
+24000,3+1,120,26.0,Ankara,Yenimahalle,Demetgül Mah.
+63000,3+1,204,1.0,Ankara,Çankaya,Beytepe Mah.
+15000,1+1,95,,Ankara,Polatlı,Gülveren Mah.
+32000,3+1,150,8.0,Ankara,Altındağ,Aydınlıkevler Mah.
+28000,3+1,135,,Ankara,Keçiören,Şehit Kubilay Mah.
+24500,3+1,100,45.0,Ankara,Çankaya,Barbaros Mah.
+18500,3+1,110,45.0,Ankara,Çankaya,Tınaztepe Mah.
+24000,1+1,60,12.0,Ankara,Etimesgut,Tunahan Mah.
+16000,2+1,95,30.0,Ankara,Çankaya,Umut Mah.
+17000,3+1,135,3.0,Ankara,Mamak,Dutluk Mah.
+17000,3+1,105,22.0,Ankara,Mamak,Gülveren Mah.
+30000,2+1,110,,Ankara,Gölbaşı,Taşpınar Mah.
+28000,4+1,170,7.0,Ankara,Yenimahalle,Avcılar Mah.
+28000,4+1,170,5.0,Ankara,Keçiören,Sancaktepe Mah.
+34000,4+1,200,7.0,Ankara,Keçiören,Etlik Mah.
+18500,3+1,125,15.0,Ankara,Mamak,Akşemsettin Mah.
+22500,2+1,105,,Ankara,Etimesgut,Atayurt Mah.
+35000,3+1,164,10.0,Ankara,Yenimahalle,Kayalar Mah.
+16500,3+1,115,8.0,Ankara,Mamak,Fahri Korutürk Mah.
+19500,3+1,130,30.0,Ankara,Keçiören,Tepebaşı Mah.
+12450,2+1,95,26.0,Ankara,Mamak,Abidinpaşa Mah.
+43000,3+1,135,16.0,Ankara,Çankaya,Çiğdem Mah.
+21000,3+1,150,16.0,Ankara,Etimesgut,Elvan Mah.
+25000,4+1,168,1.0,Ankara,Yenimahalle,Kuzey Yıldızı Mah.
+11000,3+1,109,35.0,Ankara,Keçiören,Kavacık Subayevleri Mah.
+25000,1+1,58,5.0,Ankara,Yenimahalle,Ergazi Mah.
+24000,1+1,50,1.0,Ankara,Yenimahalle,Yeni Batı Mah.
+25000,3+1,150,18.0,Ankara,Çankaya,Kırkkonaklar Mah.
+16500,3+1,115,12.0,Ankara,Keçiören,Esertepe Mah.
+18000,3+1,110,35.0,Ankara,Çankaya,Ertuğrulgazi Mah.
+43000,3+1,140,5.0,Ankara,Etimesgut,Eryaman Mah.
+37500,2+1,132,,Ankara,Gölbaşı,Kızılcaşar Mah.
+25000,4+1,130,12.0,Ankara,Keçiören,19 Mayıs Mah.
+14000,3+1,115,16.0,Ankara,Keçiören,Etlik Mah.
+22500,3+1,100,1.0,Ankara,Gölbaşı,İncek Mah.
+15500,3+1,110,15.0,Ankara,Altındağ,Battalgazi Mah.
+30000,3+1,150,20.0,Ankara,Çankaya,Harbiye Mah.
+25000,3+1,140,15.0,Ankara,Çankaya,Şehit Cengiz Karaca Mah.
+10000,3+1,155,2.0,Ankara,Sincan,Alcı Mah.
+60000,1+1,75,,Ankara,Çankaya,Çukurambar Mah.
+23750,2+1,75,15.0,Ankara,Etimesgut,Göksu Mah.
+51500,4+1,185,5.0,Ankara,Çankaya,Ata Mah.
+32000,3+1,140,35.0,Ankara,Çankaya,Çankaya Mah.
+10000,1+1,20,15.0,Ankara,Sincan,Pınarbaşı Mah.
+33000,2+1,120,25.0,Ankara,Çankaya,Prof. Dr. Ahmet Taner Kışlalı Mah.
+21000,2+1,120,40.0,Ankara,Çankaya,Esatoğlu Mah.
+10000,2+1,80,15.0,Ankara,Mamak,Zirvekent Mah.
+27000,3+1,145,27.0,Ankara,Çankaya,Harbiye Mah.
+23000,3+1,130,25.0,Ankara,Yenimahalle,Batı Sitesi Mah.
+17000,3+1,115,25.0,Ankara,Mamak,Bahçelerüstü Mah.
+18250,3+1,125,8.0,Ankara,Etimesgut,30 Ağustos Mah.
+52000,4+1,165,20.0,Ankara,Çankaya,Emek Mah.
+18500,3+1,110,15.0,Ankara,Etimesgut,Topçu Mah.
+30000,2+1,96,60.0,Ankara,Çankaya,Yücetepe Mah.
+27500,3+1,125,45.0,Ankara,Çankaya,Ayrancı Mah.
+17000,3+1,110,8.0,Ankara,Mamak,Durali Alıç Mah.
+29500,2+1,170,12.0,Ankara,Etimesgut,Alsancak Mah.
+15000,3+1,115,10.0,Ankara,Keçiören,Aktepe Mah.
+25000,1+1,70,1.0,Ankara,Çankaya,Tınaztepe Mah.
+46000,3+1,150,40.0,Ankara,Çankaya,Yukarı Bahçelievler Mah.
+40000,4+1,160,45.0,Ankara,Çankaya,Emek Mah.
+60000,4+1,210,5.0,Ankara,Çankaya,Birlik Mah.
+16000,3+1,125,16.0,Ankara,Pursaklar,Fatih Mah.
+30000,1+1,70,1.0,Ankara,Çankaya,Büyükesat Mah.
+16000,3+1,115,40.0,Ankara,Sincan,Ulubatlı Hasan Mah.
+17500,3+1,130,15.0,Ankara,Mamak,Diriliş Mah.
+30000,1+1,86,,Ankara,Yenimahalle,Emniyet Mah.
+20000,2+1,90,40.0,Ankara,Çankaya,Kültür Mah.
+8500,3+1,125,20.0,Ankara,Polatlı,Cumhuriyet Mah.
+25000,3+1,130,23.0,Ankara,Çankaya,Mürsel Uluç Mah.
+14000,3+1,120,30.0,Ankara,Keçiören,Şenlik Mah.
+30000,1+1,70,5.0,Ankara,Çankaya,İlkbahar Mah.
+30000,1+1,70,5.0,Ankara,Çankaya,İlkbahar Mah.
+35000,1+1,70,5.0,Ankara,Çankaya,Aşağı Öveçler Mah.
+17000,2+1,85,15.0,Ankara,Etimesgut,Kazım Karabekir Mah.
+39000,4+1,160,28.0,Ankara,Çankaya,Çankaya Mah.
+32000,3+1,115,1.0,Ankara,Altındağ,Aydınlıkevler Mah.
+16000,3+1,135,25.0,Ankara,Yenimahalle,Demetgül Mah.
+20000,1+1,95,15.0,Ankara,Çankaya,Aşıkpaşa Mah.
+25000,3+1,135,28.0,Ankara,Çankaya,Çiğdem Mah.
+17000,3+1,105,30.0,Ankara,Etimesgut,30 Ağustos Mah.
+21000,1+1,75,6.0,Ankara,Çankaya,Mürsel Uluç Mah.
+29500,3+1,135,17.0,Ankara,Çankaya,Dodurga Mah.
+14000,2+1,95,30.0,Ankara,Mamak,General Zeki Doğan Mah.
+20000,2+1,95,30.0,Ankara,Çankaya,Murat Mah.
+15500,2+1,95,11.0,Ankara,Etimesgut,Yapracık Mah.
+20000,3+1,122,25.0,Ankara,Çankaya,Yukarı Öveçler Mah.
+38000,2+1,100,45.0,Ankara,Çankaya,Barbaros Mah.
+20000,1+1,40,30.0,Ankara,Çankaya,Birlik Mah.
+35000,3+1,140,25.0,Ankara,Çankaya,Ümit Mah.
+40000,3+1,120,30.0,Ankara,Çankaya,Güvenevler Mah.
+20000,3+1,137,14.0,Ankara,Etimesgut,Yukarıyurtçu Mah.
+34000,2+1,82,4.0,Ankara,Etimesgut,Altay Mah.
+17000,3+1,110,8.0,Ankara,Altındağ,Doğantepe Mah.
+12500,2+1,90,6.0,Ankara,Keçiören,Yükseltepe Mah.
+18000,3+1,130,30.0,Ankara,Keçiören,Şenlik Mah.
+15000,3+1,115,25.0,Ankara,Keçiören,Aşağı Eğlence Mah.
+55000,3+1,110,,Ankara,Çankaya,Kazım Özalp Mah.
+19000,2+1,95,15.0,Ankara,Çankaya,Aşıkpaşa Mah.
+38000,5+1,320,14.0,Ankara,Çankaya,Şehit Cengiz Karaca Mah.
+42500,3+1,115,3.0,Ankara,Etimesgut,Yeşilova Mah.
+24000,1+1,55,50.0,Ankara,Çankaya,Meşrutiyet Mah.
+25000,3+1,115,22.0,Ankara,Yenimahalle,Mehmet Akif Ersoy Mah.
+22250,3+1,120,9.0,Ankara,Mamak,Peyami Safa Mah.
+21500,3+1,120,18.0,Ankara,Çankaya,Akpınar Mah.
+43000,5+1,210,,Ankara,Keçiören,Ovacık Mah.
+28500,2+1,85,12.0,Ankara,Etimesgut,Altay Mah.
+21000,3+1,145,16.0,Ankara,Keçiören,Esertepe Mah.
+22000,3+1,125,17.0,Ankara,Çankaya,Keklik Pınarı Mah.
+20000,2+1,75,45.0,Ankara,Çankaya,Yücetepe Mah.
+14000,3+1,117,15.0,Ankara,Etimesgut,Yapracık Mah.
+40000,1+1,55,1.0,Ankara,Yenimahalle,İnönü Mah.
+20500,2+1,100,20.0,Ankara,Gölbaşı,Bahçelievler Mah.
+15000,2+1,95,16.0,Ankara,Sincan,Akşemsettin Mah.
+24000,3+1,110,25.0,Ankara,Yenimahalle,Yeniçağ Mah.
+20500,3+1,130,15.0,Ankara,Etimesgut,İstasyon Mah.
+40000,4+1,150,20.0,Ankara,Çankaya,Yukarı Öveçler Mah.
+9300,1+1,55,12.0,Ankara,Sincan,Hürriyet Mah.
+17500,2+1,60,1.0,Ankara,Gölbaşı,Kızılcaşar Mah.
+37000,2+1,110,5.0,Ankara,Çankaya,Bahçelievler Mah.
+27500,1+1,50,,Ankara,Çankaya,Kırkkonaklar Mah.
+14500,3+1,100,30.0,Ankara,Keçiören,Şenlik Mah.
+29500,1+1,60,8.0,Ankara,Gölbaşı,Hacılar Mah.
+24000,3+1,120,35.0,Ankara,Çankaya,Topraklık Mah.
+32000,3+1,125,22.0,Ankara,Çankaya,Emek Mah.
+26000,2+1,99,39.0,Ankara,Çankaya,İşçi Blokları Mah.
+15000,1+1,55,40.0,Ankara,Altındağ,Aydınlıkevler Mah.
+15000,2+1,55,3.0,Ankara,Çubuk,Esenboğa Merkez Mah.
+30000,1+1,70,25.0,Ankara,Çankaya,Oğuzlar Mah.
+29000,3+1,160,20.0,Ankara,Çankaya,Cevizlidere Mah.
+32000,3+1,135,36.0,Ankara,Çankaya,Ayrancı Mah.
+13900,3+1,120,25.0,Ankara,Keçiören,Ayvalı Mah.
+24500,2+1,115,39.0,Ankara,Çankaya,Küçükesat Mah.
+30000,3+1,130,25.0,Ankara,Çankaya,Birlik Mah.
+15000,3+1,110,20.0,Ankara,Mamak,General Zeki Doğan Mah.
+20000,1+1,65,27.0,Ankara,Etimesgut,Altay Mah.
+23000,2+1,100,45.0,Ankara,Çankaya,Bahçelievler Mah.
+14000,3+1,135,7.0,Ankara,Keçiören,Bademlik Mah.
+21000,3+1,110,25.0,Ankara,Çankaya,Osman Temiz Mah.
+11000,2+1,95,16.0,Ankara,Etimesgut,Elvan Mah.
+25250,3+1,110,11.0,Ankara,Çankaya,Kırkkonaklar Mah.
+34000,2+1,105,,Ankara,Çankaya,Kültür Mah.
+26000,5+1,180,13.0,Ankara,Yenimahalle,Ragıp Tüzün Mah.
+50000,4+1,170,20.0,Ankara,Çankaya,Çukurambar Mah.
+35000,1+1,80,8.0,Ankara,Çankaya,İlkbahar Mah.
+25500,1+1,70,8.0,Ankara,Etimesgut,Altay Mah.
+55000,3+1,165,20.0,Ankara,Çankaya,Üniversiteler Mah.
+17000,3+1,115,14.0,Ankara,Sincan,Pınarbaşı Mah.
+18000,2+1,86,28.0,Ankara,Etimesgut,Şeyh Şamil Mah.
+14000,3+1,90,45.0,Ankara,Altındağ,Aydınlıkevler Mah.
+32000,3+1,150,10.0,Ankara,Etimesgut,Elvan Mah.
+31000,3+1,130,28.0,Ankara,Yenimahalle,Beştepe Mah.
+17000,3+1,130,40.0,Ankara,Keçiören,Tepebaşı Mah.
+32000,4+1,120,10.0,Ankara,Çankaya,Kırkkonaklar Mah.
+28500,2+1,120,50.0,Ankara,Çankaya,Muhsin Ertuğrul Mah.
+28000,3+1,135,20.0,Ankara,Yenimahalle,Yeni Batı Mah.
+25000,3+1,110,33.0,Ankara,Mamak,Balkiraz Mah.
+17500,1+1,52,30.0,Ankara,Etimesgut,Şeyh Şamil Mah.
+14500,3+1,110,27.0,Ankara,Sincan,Tandoğan Mah.
+20000,1+1,45,1.0,Ankara,Yenimahalle,Emniyet Mah.
+22000,3+1,115,15.0,Ankara,Çankaya,Mürsel Uluç Mah.
+27000,2+1,110,40.0,Ankara,Çankaya,Kavaklıdere Mah.
+25000,3+1,130,24.0,Ankara,Çankaya,Sancak Mah.
+23000,3+1,140,20.0,Ankara,Çankaya,Birlik Mah.
+33000,3+1,115,40.0,Ankara,Çankaya,Yukarı Bahçelievler Mah.
+18000,4+0,100,35.0,Ankara,Çankaya,Ön Cebeci Mah.
+32000,2+1,85,5.0,Ankara,Çankaya,Anıttepe Mah.
+45000,1+1,65,,Ankara,Çankaya,Yukarı Bahçelievler Mah.
+45000,1+1,65,,Ankara,Çankaya,Yukarı Bahçelievler Mah.
+15000,3+1,115,20.0,Ankara,Keçiören,Aşağı Eğlence Mah.
+33000,3+1,130,2.0,Ankara,Altındağ,Güneşevler Mah.
+15000,2+1,95,40.0,Ankara,Keçiören,Güçlükaya Mah.
+15500,2+1,95,35.0,Ankara,Çankaya,Ertuğrulgazi Mah.
+17500,3+1,125,6.0,Ankara,Keçiören,Yükseltepe Mah.
+30000,3+1,170,20.0,Ankara,Çankaya,Sancak Mah.
+32000,3+1,125,29.0,Ankara,Keçiören,Etlik Mah.
+22000,3+1,132,11.0,Ankara,Gölbaşı,Eymir Mah.
+31000,3+1,150,15.0,Ankara,Çankaya,Cevizlidere Mah.
+21000,3+1,110,30.0,Ankara,Çankaya,İlkadım Mah.
+12000,3+1,145,3.0,Ankara,Sincan,Alcı Mah.
+19000,2+1,92,24.0,Ankara,Etimesgut,Tunahan Mah.
+19500,2+1,120,8.0,Ankara,Etimesgut,Süvari Mah.
+25000,3+0,165,20.0,Ankara,Altındağ,Hacettepe Mah.
+15000,3+1,120,15.0,Ankara,Keçiören,Etlik Mah.
+24000,3+1,125,25.0,Ankara,Çankaya,Bahçelievler Mah.
+17500,3+1,135,8.0,Ankara,Mamak,Fahri Korutürk Mah.
+23750,2+1,73,2.0,Ankara,Gölbaşı,İncek Mah.
+21000,3+1,130,25.0,Ankara,Keçiören,Aşağı Eğlence Mah.
+35000,2+1,90,1.0,Ankara,Çankaya,Büyükesat Mah.
+28000,2+1,95,45.0,Ankara,Çankaya,Aziziye Mah.
+18500,3+1,125,15.0,Ankara,Etimesgut,İstasyon Mah.
+30000,2+1,85,,Ankara,Çankaya,Güvenevler Mah.
+22000,2+1,78,19.0,Ankara,Yenimahalle,Gazi Mah.
+29000,1+1,60,6.0,Ankara,Etimesgut,Şehit Osman Avcı Mah.
+17000,1+1,45,15.0,Ankara,Etimesgut,İstasyon Mah.
+32000,3+1,135,36.0,Ankara,Çankaya,Ayrancı Mah.
+25000,3+1,80,30.0,Ankara,Çankaya,Emek Mah.
+43500,3+1,164,11.0,Ankara,Gölbaşı,İncek Mah.
+24000,3+1,115,52.0,Ankara,Çankaya,Kültür Mah.
+20000,3+1,105,26.0,Ankara,Çankaya,Huzur Mah.
+55000,2+1,132,,Ankara,Yenimahalle,Emniyet Mah.
+18000,3+1,100,36.0,Ankara,Çankaya,Umut Mah.
+32000,3+1,120,35.0,Ankara,Çankaya,Yukarı Bahçelievler Mah.
+22000,2+1,85,45.0,Ankara,Çankaya,Yücetepe Mah.
+18000,3+1,135,35.0,Ankara,Yenimahalle,Demetgül Mah.
+35000,2+1,85,40.0,Ankara,Çankaya,Güvenevler Mah.
+15000,3+1,130,15.0,Ankara,Mamak,General Zeki Doğan Mah.
+17000,2+1,75,40.0,Ankara,Çankaya,Yıldızevler Mah.
+32000,3+1,140,14.0,Ankara,Çankaya,Öveçler Mah.
+16000,3+1,110,23.0,Ankara,Sincan,Selçuklu Mah.
+18500,3+1,125,13.0,Ankara,Etimesgut,Topçu Mah.
+12000,2+1,95,20.0,Ankara,Mamak,Bahçelerüstü Mah.
+25000,2+1,120,55.0,Ankara,Çankaya,Ayrancı Mah.
+13000,2+1,95,11.0,Ankara,Etimesgut,Yapracık Mah.
+30000,3+1,125,32.0,Ankara,Çankaya,Bahçelievler Mah.
+28000,2+1,110,23.0,Ankara,Çankaya,100. Yıl Mah.
+30000,4+1,180,11.0,Ankara,Çankaya,Aşıkpaşa Mah.
+15750,3+1,135,6.0,Ankara,Keçiören,Şehit Kubilay Mah.
+38000,3+1,130,49.0,Ankara,Çankaya,Güvenevler Mah.
+47000,4+1,165,25.0,Ankara,Çankaya,Çukurambar Mah.
+10000,3+1,105,38.0,Ankara,Yenimahalle,Karşıyaka Mah.
+30000,2+1,55,,Ankara,Çankaya,Fakülteler Mah.
+16500,1+1,55,,Ankara,Gölbaşı,İncek Mah.
+24000,3+1,120,35.0,Ankara,Çankaya,Ön Cebeci Mah.
+31500,3+1,145,15.0,Ankara,Etimesgut,Bağlıca Mah.
+35000,1+1,125,35.0,Ankara,Çankaya,Büyükesat Mah.
+30000,3+1,155,19.0,Ankara,Yenimahalle,Demetgül Mah.
+18000,2+1,110,40.0,Ankara,Altındağ,Aydınlıkevler Mah.
+18000,2+1,110,35.0,Ankara,Keçiören,Aşağı Eğlence Mah.
+13000,3+1,105,10.0,Ankara,Keçiören,Bademlik Mah.
+18000,3+1,115,29.0,Ankara,Keçiören,Ayvalı Mah.
+12000,3+1,145,3.0,Ankara,Sincan,Alcı Mah.
+32000,3+1,100,38.0,Ankara,Çankaya,Emek Mah.
+20000,2+1,89,29.0,Ankara,Çankaya,Cebeci Mah.
+13000,2+1,90,20.0,Ankara,Keçiören,Kuşcağız Mah.
+32000,3+1,135,36.0,Ankara,Çankaya,Remzi Oğuz Arık Mah.
+21500,3+1,135,15.0,Ankara,Etimesgut,İstasyon Mah.
+23500,3+1,100,26.0,Ankara,Çankaya,Şehit Cevdet Özdemir Mah.
+28500,3+1,130,50.0,Ankara,Çankaya,Küçükesat Mah.
+28500,3+1,130,50.0,Ankara,Çankaya,Küçükesat Mah.
+25000,2+1,80,45.0,Ankara,Çankaya,Yücetepe Mah.
+31000,3+1,120,35.0,Ankara,Çankaya,Emek Mah.
+24750,1+1,80,3.0,Ankara,Çankaya,Alacaatlı Mah.
+28000,3+1,135,28.0,Ankara,Çankaya,Aşağı Öveçler Mah.
+30000,3+1,125,40.0,Ankara,Çankaya,Bahçelievler Mah.
+28000,2+1,85,35.0,Ankara,Çankaya,Emek Mah.
+22500,3+1,135,30.0,Ankara,Altındağ,Hacettepe Mah.
+29500,1+1,50,2.0,Ankara,Çankaya,Beytepe Mah.
+27000,1+1,70,1.0,Ankara,Çankaya,Büyükesat Mah.
+21000,3+1,130,17.0,Ankara,Etimesgut,Topçu Mah.
+30000,3+10,110,45.0,Ankara,Çankaya,Emek Mah.
+18000,3+1,120,38.0,Ankara,Yenimahalle,Demetevler Mah.
+20000,2+1,75,30.0,Ankara,Çankaya,Emek Mah.
+20000,3+1,125,35.0,Ankara,Çankaya,Sokullu Mehmet Paşa Mah.
+25000,3+1,140,8.0,Ankara,Çankaya,Karapınar Mah.
+25000,2+1,80,35.0,Ankara,Çankaya,Bahçelievler Mah.
+21500,3+1,135,19.0,Ankara,Etimesgut,Piyade Mah.
+13250,2+1,85,25.0,Ankara,Keçiören,Hasköy Mah.
+20500,3+1,130,7.0,Ankara,Altındağ,Güneşevler Mah.
+22000,3+1,110,25.0,Ankara,Çankaya,Mürsel Uluç Mah.
+17000,3+1,140,26.0,Ankara,Yenimahalle,Demetlale Mah.
+18000,3+1,115,21.0,Ankara,Yenimahalle,Demetgül Mah.
+32000,3+1,130,45.0,Ankara,Çankaya,Ayrancı Mah.
+23000,1+1,45,5.0,Ankara,Yenimahalle,Gazi Mah.
+28000,3+1,150,21.0,Ankara,Çankaya,Birlik Mah.
+25000,3+1,110,30.0,Ankara,Mamak,Demirlibahçe Mah.
+26000,2+1,85,50.0,Ankara,Çankaya,Emek Mah.
+17500,3+1,100,24.0,Ankara,Altındağ,Aydınlıkevler Mah.
+25000,2+1,90,45.0,Ankara,Çankaya,Yücetepe Mah.
+24000,3+1,110,27.0,Ankara,Çankaya,Oğuzlar Mah.
+18500,2+1,100,30.0,Ankara,Çankaya,Seyranbağları Mah.
+15000,3+1,105,25.0,Ankara,Keçiören,Tepebaşı Mah.
+16500,3+1,110,17.0,Ankara,Etimesgut,Topçu Mah.
+27000,3+1,135,17.0,Ankara,Yenimahalle,İlkyerleşim Mah.
+33000,3+1,125,15.0,Ankara,Çankaya,Bahçelievler Mah.
+25000,3+1,130,24.0,Ankara,Çankaya,Birlik Mah.
+19500,1+1,60,7.0,Ankara,Çankaya,Ahlatlıbel Mah.
+20000,3+1,125,35.0,Ankara,Yenimahalle,Demetlale Mah.
+15500,2+1,90,15.0,Ankara,Etimesgut,Alsancak Mah.
+36000,4+1,200,4.0,Ankara,Altındağ,Güneşevler Mah.
+45000,3+1,140,30.0,Ankara,Çankaya,Yukarı Bahçelievler Mah.
+25000,3+1,125,30.0,Ankara,Çankaya,Sokullu Mehmet Paşa Mah.
+22000,3+1,115,22.0,Ankara,Çankaya,Naci Çakır Mah.
+25500,4+1,160,20.0,Ankara,Çankaya,Birlik Mah.
+23000,1+1,70,4.0,Ankara,Çankaya,Büyükesat Mah.
+15000,3+1,100,27.0,Ankara,Keçiören,Aşağı Eğlence Mah.
+12000,1+1,45,25.0,Ankara,Çankaya,Osman Temiz Mah.
+23000,3+1,110,40.0,Ankara,Mamak,Balkiraz Mah.
+28000,3+1,100,40.0,Ankara,Çankaya,Emek Mah.
+14000,3+1,135,12.0,Ankara,Etimesgut,Yapracık Mah.
+23000,2+1,100,45.0,Ankara,Çankaya,Bahçelievler Mah.
+30000,4+1,150,25.0,Ankara,Çankaya,Hilal Mah.
+13500,3+1,105,25.0,Ankara,Keçiören,19 Mayıs Mah.
+14500,2+1,75,17.0,Ankara,Etimesgut,Topçu Mah.
+32000,1+1,90,15.0,Ankara,Çankaya,Emek Mah.
+30000,1+1,55,31.0,Ankara,Çankaya,Meşrutiyet Mah.
+19000,2+1,120,35.0,Ankara,Çankaya,Sokullu Mehmet Paşa Mah.
+29000,4+4,150,28.0,Ankara,Çankaya,İlkadım Mah.
+16000,2+1,85,16.0,Ankara,Etimesgut,Alsancak Mah.
+20000,3+1,112,14.0,Ankara,Gölbaşı,Eymir Mah.
+17500,2+1,110,14.0,Ankara,Mamak,Cengizhan Mah.
+32000,3+1,130,26.0,Ankara,Keçiören,Aşağı Eğlence Mah.
+16500,2+1,120,19.0,Ankara,Keçiören,Esertepe Mah.
+30000,3+1,130,19.0,Ankara,Yenimahalle,Esentepe Mah.
+28000,3+1,110,25.0,Ankara,Çankaya,Umut Mah.
+20500,3+1,125,30.0,Ankara,Çankaya,Aydınlar Mah.
+19000,3+1,120,30.0,Ankara,Mamak,Demirlibahçe Mah.
+75000,5+1,265,21.0,Ankara,Çankaya,Oran Mah.
+20350,3+1,120,23.0,Ankara,Mamak,General Zeki Doğan Mah.
+18000,3+1,125,15.0,Ankara,Keçiören,Çiçekli Mah.
+25000,3+1,125,35.0,Ankara,Keçiören,Aşağı Eğlence Mah.
+18000,3+1,125,15.0,Ankara,Keçiören,Çiçekli Mah.
+15500,2+1,97,13.0,Ankara,Sincan,Akşemsettin Mah.
+47500,5+1,230,45.0,Ankara,Çankaya,Aziziye Mah.
+22500,3+1,105,18.0,Ankara,Keçiören,Ayvalı Mah.
+26000,1+1,55,6.0,Ankara,Yenimahalle,Ergazi Mah.
+18000,2+1,100,40.0,Ankara,Mamak,Balkiraz Mah.
+20000,1+1,55,1.0,Ankara,Gölbaşı,İncek Mah.
+14500,2+1,110,48.0,Ankara,Altındağ,Aydınlıkevler Mah.
+20000,3+1,105,29.0,Ankara,Mamak,Saimekadın Mah.
+30000,2+1,70,,Ankara,Gölbaşı,Taşpınar Mah.
+17000,1+1,75,,Ankara,Çankaya,Mürsel Uluç Mah.
+40000,3+1,125,2.0,Ankara,Yenimahalle,Yeni Batı Mah.
+24000,1+1,55,,Ankara,Çankaya,Metin Oktay Mah.
+13000,2+1,96,11.0,Ankara,Etimesgut,Yapracık Mah.
+25000,3+1,145,20.0,Ankara,Yenimahalle,Pamuklar Mah.
+18000,3+1,110,20.0,Ankara,Keçiören,Uyanış Mah.
+18500,3+1,120,25.0,Ankara,Gölbaşı,Seğmenler Mah.
+13750,3+1,120,28.0,Ankara,Keçiören,Şenlik Mah.
+34000,4+1,130,1.0,Ankara,Gölbaşı,İncek Mah.
+22500,2+1,85,30.0,Ankara,Altındağ,Aydınlıkevler Mah.
+29500,3+1,135,25.0,Ankara,Çankaya,Osman Temiz Mah.
+14500,3+1,120,25.0,Ankara,Keçiören,Etlik Mah.
+28500,2+1,120,15.0,Ankara,Keçiören,Tepebaşı Mah.
+22500,3+1,125,20.0,Ankara,Keçiören,Şenlik Mah.
+25000,3+1,135,15.0,Ankara,Yenimahalle,Barıştepe Mah.
+40000,3+1,105,,Ankara,Çankaya,Emek Mah.
+21000,3+1,145,8.0,Ankara,Mamak,Üreğil Mah.
+20000,3+1,135,25.0,Ankara,Yenimahalle,Çarşı Mah.
+25000,2+1,95,12.0,Ankara,Etimesgut,Tunahan Mah.
+26000,2+1,110,28.0,Ankara,Etimesgut,Atakent Mah.
+21000,3+1,135,15.0,Ankara,Keçiören,Bağlarbaşı Mah.
+72000,4+1,230,3.0,Ankara,Çankaya,Beytepe Mah.
+15000,3+1,120,35.0,Ankara,Yenimahalle,Demetgül Mah.
+25000,3+1,130,25.0,Ankara,Yenimahalle,Demetevler Mah.
+60000,4+1,210,15.0,Ankara,Çankaya,Çukurambar Mah.
+20000,3+1,140,33.0,Ankara,Yenimahalle,Demetevler Mah.
+21500,3+1,90,27.0,Ankara,Etimesgut,Tunahan Mah.
+30000,3+1,110,30.0,Ankara,Çankaya,100. Yıl Mah.
+30000,3+1,143,,Ankara,Mamak,Türközü Mah.
+55000,2+1,80,1.0,Ankara,Çankaya,Güvenevler Mah.
+59000,4+1,230,4.0,Ankara,Çankaya,Alacaatlı Mah.
+45000,2+1,145,14.0,Ankara,Çankaya,İşçi Blokları Mah.
+45000,4+1,180,4.0,Ankara,Gölbaşı,Seğmenler Mah.
+40000,2+1,120,10.0,Ankara,Çankaya,Yaşamkent Mah.
+35000,3+1,135,15.0,Ankara,Çankaya,Akpınar Mah.
+18000,3+1,130,14.0,Ankara,Mamak,General Zeki Doğan Mah.
+31000,3+1,130,25.0,Ankara,Yenimahalle,Beştepe Mah.
+31000,3+1,130,25.0,Ankara,Yenimahalle,Beştepe Mah.
+45000,4+1,180,20.0,Ankara,Çankaya,Çukurambar Mah.
+15000,2+1,95,,Ankara,Sincan,Fevzi Çakmak Mah.
+45000,3+1,140,3.0,Ankara,Yenimahalle,Turgut Özal Mah.
+25000,3+1,125,10.0,Ankara,Keçiören,Kanuni Mah.
+18000,3+1,120,30.0,Ankara,Keçiören,Ayvalı Mah.
+20000,1+1,80,,Ankara,Keçiören,Aşağı Eğlence Mah.
+19000,1+1,50,,Ankara,Gölbaşı,Taşpınar Mah.
+21000,2+1,95,,Ankara,Gölbaşı,İncek Mah.
+20000,2+1,110,10.0,Ankara,Keçiören,Yükseltepe Mah.
+31000,1+1,100,15.0,Ankara,Çankaya,İlkbahar Mah.
+30000,1+1,60,25.0,Ankara,Çankaya,Yukarı Bahçelievler Mah.
+24000,3+1,130,25.0,Ankara,Çankaya,Huzur Mah.
+20000,3+1,130,30.0,Ankara,Yenimahalle,Demetlale Mah.
+17000,2+1,79,29.0,Ankara,Yenimahalle,Emniyet Mah.
+60000,4+1,180,35.0,Ankara,Yenimahalle,Mehmet Akif Ersoy Mah.
+23000,1+1,65,10.0,Ankara,Etimesgut,Şehit Osman Avcı Mah.
+16100,3+1,115,45.0,Ankara,Keçiören,Şenlik Mah.
+20000,4+1,224,8.0,Ankara,Polatlı,Şehitlik Mah.
+32000,5+1,250,20.0,Ankara,Çankaya,Aşıkpaşa Mah.
+25000,2+1,110,33.0,Ankara,Yenimahalle,Demetlale Mah.
+25000,4+1,155,15.0,Ankara,Çankaya,Karapınar Mah.
+35000,3+1,120,28.0,Ankara,Çankaya,Keklik Pınarı Mah.
+21000,3+1,145,14.0,Ankara,Yenimahalle,Çiğdemtepe Mah.
+21000,3+1,145,14.0,Ankara,Yenimahalle,Çiğdemtepe Mah.
+18000,3+1,120,25.0,Ankara,Sincan,Mareşal Çakmak Mah.
+29000,3+1,140,10.0,Ankara,Keçiören,Kuşcağız Mah.
+16000,3+1,120,10.0,Ankara,Altındağ,Karapürçek Mah.
+19000,3+1,130,15.0,Ankara,Etimesgut,Topçu Mah.
+20000,2+1,96,10.0,Ankara,Mamak,Altınevler Mah.
+19000,2+1,85,20.0,Ankara,Etimesgut,Elvan Mah.
+23000,3+1,110,35.0,Ankara,Çankaya,Çamlıtepe Mah.
+25500,3+1,100,30.0,Ankara,Yenimahalle,Demetgül Mah.
+41000,4+1,230,4.0,Ankara,Keçiören,Atapark Mah.
+23500,3+1,120,7.0,Ankara,Keçiören,Yükseltepe Mah.
+15000,1+1,78,30.0,Ankara,Altındağ,Aydınlıkevler Mah.
+22000,3+1,145,10.0,Ankara,Altındağ,Güneşevler Mah.
+26500,1+1,85,,Ankara,Çankaya,Ertuğrulgazi Mah.
+17000,3+1,125,30.0,Ankara,Sincan,Ulubatlı Hasan Mah.
+20000,1+1,55,,Ankara,Gölbaşı,İncek Mah.
+27000,3+1,145,30.0,Ankara,Altındağ,Zübeyde Hanım Mah.
+20000,3+1,135,3.0,Ankara,Mamak,Akşemsettin Mah.
+40000,6+1,200,15.0,Ankara,Keçiören,Ayvalı Mah.
+18000,3+1,120,15.0,Ankara,Mamak,Akdere Mah.
+40000,4+1,190,,Ankara,Yenimahalle,Ata Mah.
+25000,3+1,135,20.0,Ankara,Çankaya,Mürsel Uluç Mah.
+30000,3+1,110,25.0,Ankara,Keçiören,Aşağı Eğlence Mah.
+26000,3+1,160,16.0,Ankara,Çankaya,Kırkkonaklar Mah.
+19000,3+1,145,6.0,Ankara,Mamak,Kutlu Mah.
+17500,3+1,128,15.0,Ankara,Çankaya,Kırkkonaklar Mah.
+21000,3+1,140,25.0,Ankara,Çankaya,İncesu Mah.
+30000,3+1,170,15.0,Ankara,Çankaya,Hilal Mah.
+20500,1+1,50,,Ankara,Çankaya,Metin Oktay Mah.
+20000,3+1,129,25.0,Ankara,Keçiören,Tepebaşı Mah.
+25000,3+1,110,25.0,Ankara,Etimesgut,Güzelkent Mah.
+25500,2+1,95,30.0,Ankara,Yenimahalle,Kentkoop Mah.
+26000,3+1,130,30.0,Ankara,Keçiören,Aşağı Eğlence Mah.
+47500,2+1,106,1.0,Ankara,Yenimahalle,İnönü Mah.
+18000,3+1,110,10.0,Ankara,Sincan,Pınarbaşı Mah.
+20000,3+1,150,1.0,Ankara,Sincan,Mustafa Kemal Mah.
+22000,3+1,110,20.0,Ankara,Çankaya,Huzur Mah.
+20000,2+1,100,40.0,Ankara,Çankaya,Fakülteler Mah.
+17500,1+1,100,14.0,Ankara,Mamak,Peyami Safa Mah.
+81000,2+1,126,6.0,Ankara,Çankaya,Söğütözü Mah.
+24000,3+1,150,1.0,Ankara,Mamak,Yeşilbayır Mah.
+40000,3+1,95,35.0,Ankara,Çankaya,Maltepe Mah.
+13000,2+1,86,13.0,Ankara,Etimesgut,Atayurt Mah.
+30000,3+1,120,25.0,Ankara,Çankaya,Muhsin Ertuğrul Mah.
+17000,3+1,135,10.0,Ankara,Mamak,Fahri Korutürk Mah.
+23000,2+1,95,32.0,Ankara,Yenimahalle,Uğur Mumcu Mah.
+21000,3+1,115,20.0,Ankara,Mamak,Aşık Veysel Mah.
+41000,4+1,180,9.0,Ankara,Etimesgut,Yeni Bağlıca Mah.
+17500,3+1,135,8.0,Ankara,Sincan,Mustafa Kemal Mah.
+20000,3+1,120,25.0,Ankara,Etimesgut,Oğuzlar Mah.
+38000,3+1,165,13.0,Ankara,Yenimahalle,Turgut Özal Mah.
+27000,3+1,135,15.0,Ankara,Mamak,Ege Mah.
+26500,3+1,125,10.0,Ankara,Gölbaşı,Karşıyaka Mah.
+32000,3+1,100,26.0,Ankara,Yenimahalle,İlkyerleşim Mah.
+47500,4+1,210,18.0,Ankara,Çankaya,Alacaatlı Mah.
+14000,3+1,118,12.0,Ankara,Etimesgut,Yapracık Mah.
+40000,3+1,150,26.0,Ankara,Çankaya,Büyükesat Mah.
+18500,3+1,145,5.0,Ankara,Altındağ,Başpınar Mah.
+19000,3+1,135,10.0,Ankara,Mamak,Durali Alıç Mah.
+23000,3+1,125,30.0,Ankara,Keçiören,Şenlik Mah.
+17500,3+1,125,14.0,Ankara,Etimesgut,Süvari Mah.
+16500,2+1,100,35.0,Ankara,Yenimahalle,Demetlale Mah.
+18000,3+1,125,35.0,Ankara,Çankaya,Korkutreis Mah.
+18000,3+1,125,30.0,Ankara,Keçiören,Ayvalı Mah.
+35000,2+1,115,45.0,Ankara,Çankaya,Güzeltepe Mah.
+21500,3+1,100,35.0,Ankara,Çankaya,Balgat Mah.
+19500,1+1,50,25.0,Ankara,Etimesgut,Tunahan Mah.
+22000,3+1,125,20.0,Ankara,Yenimahalle,Batı Sitesi Mah.
+17500,2+1,95,,Ankara,Yenimahalle,Güventepe Mah.
+20000,3+1,120,20.0,Ankara,Keçiören,Etlik Mah.
+69000,4+1,220,15.0,Ankara,Çankaya,Söğütözü Mah.
+50000,3+1,180,16.0,Ankara,Çankaya,Yaşamkent Mah.
+24000,1+1,55,10.0,Ankara,Yenimahalle,Ergazi Mah.
+18500,2+1,85,35.0,Ankara,Mamak,Balkiraz Mah.
+25900,3+1,128,29.0,Ankara,Çankaya,Oğuzlar Mah.
+28500,3+1,180,25.0,Ankara,Yenimahalle,Varlık Mah.
+22000,3+1,155,7.0,Ankara,Sincan,Menderes Mah.
+35000,3+1,160,25.0,Ankara,Çankaya,Emek Mah.
+45000,4+1,200,6.0,Ankara,Çankaya,Emek Mah.
+33000,2+1,116,2.0,Ankara,Etimesgut,Devlet Mah.
+17000,3+1,121,27.0,Ankara,Sincan,Fatih Mah.
+27000,3+1,105,30.0,Ankara,Çankaya,Keklik Pınarı Mah.
+25000,2+1,90,32.0,Ankara,Çankaya,Emek Mah.
+18000,3+1,120,30.0,Ankara,Keçiören,Ayvalı Mah.
+24300,3+1,125,20.0,Ankara,Çankaya,Bademlidere Mah.
+32500,2+1,115,3.0,Ankara,Yenimahalle,Emniyet Mah.
+27000,3+1,140,42.0,Ankara,Çankaya,Kültür Mah.
+15000,3+1,130,32.0,Ankara,Keçiören,Güçlükaya Mah.
+15500,1+1,50,,Ankara,Gölbaşı,İncek Mah.
+19000,4+1,190,8.0,Ankara,Polatlı,Fatih Mah.
+21500,1+1,48,,Ankara,Gölbaşı,Taşpınar Mah.
+25850,3+1,140,15.0,Ankara,Etimesgut,Yavuz Selim Mah.
+32000,2+1,105,37.0,Ankara,Çankaya,Kavaklıdere Mah.
+16500,2+1,95,8.0,Ankara,Etimesgut,Atayurt Mah.
+30000,2+1,75,28.0,Ankara,Yenimahalle,Varlık Mah.
+31000,4+1,160,20.0,Ankara,Çankaya,Karapınar Mah.
+26000,3+1,140,25.0,Ankara,Keçiören,Güçlükaya Mah.
+27500,4+1,180,26.0,Ankara,Çankaya,Malazgirt Mah.
+34000,2+1,55,,Ankara,Çankaya,100. Yıl Mah.
+16500,3+1,125,15.0,Ankara,Etimesgut,Süvari Mah.
+30000,3+1,135,35.0,Ankara,Çankaya,Maltepe Mah.
+32000,1+1,45,,Ankara,Çankaya,Kazım Özalp Mah.
+55000,3+1,185,15.0,Ankara,Çankaya,Yıldızevler Mah.
+35000,1+1,70,5.0,Ankara,Çankaya,İlkbahar Mah.
+29000,3+1,160,20.0,Ankara,Keçiören,Ayvalı Mah.
+13000,3+1,100,35.0,Ankara,Çankaya,İncesu Mah.
+42000,2+1,110,30.0,Ankara,Çankaya,Barbaros Mah.
+20000,3+1,115,26.0,Ankara,Yenimahalle,Demetevler Mah.
+30000,3+1,135,30.0,Ankara,Çankaya,İlkbahar Mah.
+23000,3+1,117,25.0,Ankara,Çankaya,Keklik Pınarı Mah.
+40000,1+1,64,,Ankara,Yenimahalle,İnönü Mah.
+30000,4+1,170,15.0,Ankara,Çankaya,Karapınar Mah.
+63000,4+1,190,15.0,Ankara,Yenimahalle,Beştepe Mah.
+26500,3+1,110,25.0,Ankara,Altındağ,Zübeyde Hanım Mah.
+15000,3+1,105,40.0,Ankara,Mamak,Demirlibahçe Mah.
+40000,4+1,175,18.0,Ankara,Etimesgut,Göksu Mah.
+23000,3+1,135,24.0,Ankara,Çankaya,Huzur Mah.
+33950,1+1,82,,Ankara,Çankaya,Beytepe Mah.
+18000,3+1,110,30.0,Ankara,Keçiören,Kavacık Subayevleri Mah.
+25500,3+1,135,27.0,Ankara,Yenimahalle,Ergazi Mah.
+42000,5+1,230,28.0,Ankara,Çankaya,Umut Mah.
+37000,3+1,135,25.0,Ankara,Çankaya,Ehlibeyt Mah.
+35000,4+1,165,40.0,Ankara,Çankaya,Yukarı Bahçelievler Mah.
+18500,2+1,75,1.0,Ankara,Sincan,Andiçen Mah.
+30000,4+1,260,10.0,Ankara,Mamak,Durali Alıç Mah.
+20000,3+1,115,35.0,Ankara,Çankaya,Küçükesat Mah.
+15500,3+1,110,16.0,Ankara,Çankaya,Aşağı Öveçler Mah.
+19000,2+1,90,20.0,Ankara,Etimesgut,Tunahan Mah.
+32000,3+1,120,35.0,Ankara,Çankaya,Bahçelievler Mah.
+19500,1+1,120,35.0,Ankara,Keçiören,Aşağı Eğlence Mah.
+20000,3+1,148,35.0,Ankara,Çankaya,Metin Oktay Mah.
+29000,3+1,135,50.0,Ankara,Çankaya,Ayrancı Mah.
+23000,1+1,65,4.0,Ankara,Çankaya,Alacaatlı Mah.
+25000,3+1,115,25.0,Ankara,Yenimahalle,Ergazi Mah.
+18000,1+1,71,25.0,Ankara,Etimesgut,Tunahan Mah.
+26000,3+1,125,15.0,Ankara,Çankaya,Ata Mah.
+67000,6+1,254,,Ankara,Gölbaşı,Kızılcaşar Mah.
+15500,1+1,70,1.0,Ankara,Pursaklar,Saray Fatih Mah.
+25000,3+1,145,16.0,Ankara,Çankaya,Huzur Mah.
+22500,3+1,140,10.0,Ankara,Altındağ,Karapürçek Mah.
+22000,3+1,140,10.0,Ankara,Mamak,Cengizhan Mah.
+25000,3+1,110,25.0,Ankara,Çankaya,Oğuzlar Mah.
+32000,2+1,95,8.0,Ankara,Yenimahalle,Yeni Batı Mah.
+54000,4+1,196,8.0,Ankara,Çankaya,İlkbahar Mah.
+22000,2+1,90,30.0,Ankara,Çankaya,Büyükesat Mah.
+35000,4+1,175,12.0,Ankara,Yenimahalle,Turgut Özal Mah.
+20000,3+1,145,5.0,Ankara,Mamak,Şahintepe Mah.
+70000,4+1,200,12.0,Ankara,Çankaya,Ayrancı Mah.
+40000,3+1,110,,Ankara,Çankaya,Anıttepe Mah.
+40000,4+1,185,5.0,Ankara,Mamak,Ege Mah.
+23000,2+1,100,25.0,Ankara,Yenimahalle,İlkyerleşim Mah.
+55000,4+1,170,24.0,Ankara,Çankaya,Büyükesat Mah.
+22000,4+1,185,10.0,Ankara,Keçiören,Yayla Mah.
+17000,3+1,125,21.0,Ankara,Keçiören,Kuşcağız Mah.
+19000,3+1,115,5.0,Ankara,Mamak,Mehtap Mah.
+45000,2+1,75,8.0,Ankara,Çankaya,Güvenevler Mah.
+20000,4+1,200,6.0,Ankara,Polatlı,Fatih Mah.
+12500,3+1,120,27.0,Ankara,Keçiören,Pınarbaşı Mah.
+32000,2+1,100,6.0,Ankara,Etimesgut,Şeker Mah.
+25000,2+1,80,,Ankara,Gölbaşı,Karşıyaka Mah.
+23000,3+1,135,18.0,Ankara,Sincan,Törekent Mah.
+18000,2+1,100,30.0,Ankara,Keçiören,Tepebaşı Mah.
+40000,4+1,180,14.0,Ankara,Yenimahalle,Turgut Özal Mah.
+26500,2+1,79,,Ankara,Çankaya,İlkadım Mah.
+20000,1+1,55,27.0,Ankara,Etimesgut,Şeyh Şamil Mah.
+34000,2+1,75,5.0,Ankara,Çankaya,Mebusevleri Mah.
+55000,5+1,210,19.0,Ankara,Çankaya,Mutlukent Mah.
+20000,3+1,120,34.0,Ankara,Çankaya,Tınaztepe Mah.
+16000,3+1,110,25.0,Ankara,Etimesgut,Oğuzlar Mah.
+22000,2+1,75,40.0,Ankara,Çankaya,Emek Mah.
+15500,2+1,115,22.0,Ankara,Etimesgut,Oğuzlar Mah.
+40000,3+1,130,30.0,Ankara,Çankaya,100. Yıl Mah.
+37000,3+1,110,30.0,Ankara,Çankaya,Yukarı Bahçelievler Mah.
+27000,3+1,120,4.0,Ankara,Gölbaşı,Şafak Mah.
+17500,3+1,145,20.0,Ankara,Keçiören,İncirli Mah.
+29000,3+1,120,42.0,Ankara,Çankaya,Ayrancı Mah.
+16250,3+1,120,7.0,Ankara,Mamak,Altıağaç Mah.
+14500,3+1,120,20.0,Ankara,Keçiören,Bağlarbaşı Mah.
+25000,3+1,135,12.0,Ankara,Altındağ,Gültepe Mah.
+22000,3+1,110,25.0,Ankara,Altındağ,Aydınlıkevler Mah.
+25000,3+1,125,24.0,Ankara,Çankaya,Harbiye Mah.
+16000,1+1,57,,Ankara,Gölbaşı,İncek Mah.
+35000,3+1,140,10.0,Ankara,Çankaya,Birlik Mah.
+24000,3+1,90,37.0,Ankara,Çankaya,Emek Mah.
+25000,3+1,110,25.0,Ankara,Çankaya,Ertuğrulgazi Mah.
+17250,2+1,95,13.0,Ankara,Etimesgut,Turkuaz Mah.
+37500,4+1,170,20.0,Ankara,Çankaya,Cevizlidere Mah.
+13000,2+1,105,45.0,Ankara,Keçiören,Yakacık Mah.
+45000,3+1,160,22.0,Ankara,Çankaya,Yıldızevler Mah.
+29000,3+1,129,30.0,Ankara,Çankaya,İşçi Blokları Mah.
+22000,2+1,90,25.0,Ankara,Etimesgut,Eryaman Mah.
+24500,1+1,50,,Ankara,Gölbaşı,Taşpınar Mah.
+20000,3+1,110,25.0,Ankara,Etimesgut,Atakent Mah.
+45000,1+1,80,13.0,Ankara,Çankaya,Aziziye Mah.
+25000,3+1,120,45.0,Ankara,Çankaya,Fakülteler Mah.
+32000,3+1,115,30.0,Ankara,Yenimahalle,Beştepe Mah.
+39000,4+1,200,30.0,Ankara,Çankaya,Oran Mah.
+25000,3+1,130,11.0,Ankara,Etimesgut,Erler Mah.
+44000,1+1,75,12.0,Ankara,Çankaya,Oran Mah.
+20000,3+1,140,6.0,Ankara,Mamak,Cengizhan Mah.
+40000,3+1,140,3.0,Ankara,Etimesgut,Devlet Mah.
+27000,3+1,130,25.0,Ankara,Keçiören,Etlik Mah.
+11250,1+1,65,15.0,Ankara,Mamak,Zirvekent Mah.
+35000,4+1,210,12.0,Ankara,Yenimahalle,Pamuklar Mah.
+20000,2+1,100,30.0,Ankara,Mamak,Balkiraz Mah.
+12750,2+1,105,48.0,Ankara,Altındağ,Aydınlıkevler Mah.
+30000,3+1,155,24.0,Ankara,Altındağ,Güneşevler Mah.
+20000,3+1,140,13.0,Ankara,Sincan,Pınarbaşı Mah.
+13000,3+1,100,30.0,Ankara,Keçiören,İncirli Mah.
+20000,3+1,130,28.0,Ankara,Çankaya,Sokullu Mehmet Paşa Mah.
+53000,5+1,173,20.0,Ankara,Çankaya,Prof. Dr. Ahmet Taner Kışlalı Mah.
+13000,2+1,96,11.0,Ankara,Etimesgut,Yukarıyurtçu Mah.
+16000,2+1,100,40.0,Ankara,Keçiören,Esertepe Mah.
+33900,2+1,90,6.0,Ankara,Yenimahalle,Ergazi Mah.
+22000,3+1,140,1.0,Ankara,Mamak,Derbent Mah.
+20000,3+1,135,25.0,Ankara,Keçiören,Aşağı Eğlence Mah.
+30000,4+2,180,20.0,Ankara,Mamak,Kutlu Mah.
+19000,3+1,90,27.0,Ankara,Etimesgut,Tunahan Mah.
+22000,2+1,95,15.0,Ankara,Sincan,Atatürk Mah.
+15000,3+1,115,30.0,Ankara,Yenimahalle,Ergenekon Mah.
+25250,1+1,55,1.0,Ankara,Gölbaşı,Taşpınar Mah.
+19000,2+1,120,26.0,Ankara,Çankaya,Ata Mah.
+20000,4+1,180,10.0,Ankara,Mamak,Akşemsettin Mah.
+58000,4+1,290,5.0,Ankara,Çankaya,Alacaatlı Mah.
+30000,1+1,70,6.0,Ankara,Çankaya,Alacaatlı Mah.
+18500,1+1,55,28.0,Ankara,Etimesgut,Şeyh Şamil Mah.
+41750,2+1,155,5.0,Ankara,Gölbaşı,Taşpınar Mah.
+33000,2+1,100,1.0,Ankara,Gölbaşı,İncek Mah.
+19000,3+1,125,20.0,Ankara,Keçiören,Yayla Mah.
+22750,1+1,60,3.0,Ankara,Etimesgut,Devlet Mah.
+24500,4+1,180,12.0,Ankara,Etimesgut,Alsancak Mah.
+15500,2+1,95,25.0,Ankara,Etimesgut,Alsancak Mah.
+45000,3+1,145,30.0,Ankara,Çankaya,Büyükesat Mah.
+13750,2+1,100,10.0,Ankara,Keçiören,Bağlarbaşı Mah.
+16000,2+1,95,18.0,Ankara,Sincan,Mareşal Çakmak Mah.
+13500,3+1,100,36.0,Ankara,Keçiören,Bağlarbaşı Mah.
+36500,2+1,130,1.0,Ankara,Çankaya,Kırkkonaklar Mah.
+19000,3+1,145,2.0,Ankara,Mamak,Dutluk Mah.
+60000,4+1,180,20.0,Ankara,Etimesgut,Erler Mah.
+25000,3+1,130,25.0,Ankara,Çankaya,Huzur Mah.
+30000,3+1,130,40.0,Ankara,Çankaya,Oğuzlar Mah.
+21000,3+1,135,35.0,Ankara,Keçiören,Kanuni Mah.
+21000,3+1,125,20.0,Ankara,Etimesgut,Topçu Mah.
+40000,3+1,140,35.0,Ankara,Çankaya,Prof. Dr. Ahmet Taner Kışlalı Mah.
+37000,3+1,140,25.0,Ankara,Çankaya,Büyükesat Mah.
+37500,2+1,130,5.0,Ankara,Çankaya,İlkbahar Mah.
+20250,1+1,55,10.0,Ankara,Etimesgut,Altay Mah.
+17500,3+1,130,30.0,Ankara,Çankaya,Ertuğrulgazi Mah.
+35000,3+1,160,18.0,Ankara,Çankaya,Birlik Mah.
+21000,3+1,115,16.0,Ankara,Mamak,Cengizhan Mah.
+28000,1+1,55,1.0,Ankara,Yenimahalle,İnönü Mah.
+25000,3+1,155,6.0,Ankara,Mamak,General Zeki Doğan Mah.
+30000,2+1,110,20.0,Ankara,Çankaya,İlkadım Mah.
+25000,3+1,145,18.0,Ankara,Keçiören,Esertepe Mah.
+14000,3+1,100,15.0,Ankara,Çankaya,Malazgirt Mah.
+38000,4+1,180,11.0,Ankara,Etimesgut,Yeni Bağlıca Mah.
+27000,3+1,130,20.0,Ankara,Çankaya,Cevizlidere Mah.
+42500,2+1,90,4.0,Ankara,Çankaya,Anıttepe Mah.
+17000,3+1,125,25.0,Ankara,Altındağ,Güneşevler Mah.
+20500,3+1,135,,Ankara,Sincan,Mustafa Kemal Mah.
+21000,3+1,170,7.0,Ankara,Mamak,Akşemsettin Mah.
+15000,2+1,95,25.0,Ankara,Keçiören,Ayvalı Mah.
+32000,3+1,130,,Ankara,Keçiören,Yükseltepe Mah.
+22000,3+1,140,1.0,Ankara,Çankaya,Mimar Sinan Mah.
+24500,3+1,150,10.0,Ankara,Yenimahalle,Çiğdemtepe Mah.
+27000,3+1,135,30.0,Ankara,Çankaya,Maltepe Mah.
+18000,3+1,120,15.0,Ankara,Etimesgut,Kazım Karabekir Mah.
+15000,3+1,135,20.0,Ankara,Polatlı,Şehitlik Mah.
+26500,3+1,125,6.0,Ankara,Yenimahalle,Demetlale Mah.
+20000,3+1,110,30.0,Ankara,Keçiören,Pınarbaşı Mah.
+29000,2+1,65,30.0,Ankara,Çankaya,Yukarı Bahçelievler Mah.
+45000,4+1,190,8.0,Ankara,Etimesgut,Bağlıca Mah.
+19000,3+1,115,30.0,Ankara,Keçiören,Emrah Mah.
+32000,4+1,145,17.0,Ankara,Çankaya,Akpınar Mah.
+16000,3+1,140,22.0,Ankara,Mamak,Mehtap Mah.
+24000,3+1,105,42.0,Ankara,Çankaya,Muhsin Ertuğrul Mah.
+25000,3+1,130,30.0,Ankara,Yenimahalle,Demetgül Mah.
+29000,3+1,115,45.0,Ankara,Çankaya,Güzeltepe Mah.
+14500,3+1,120,10.0,Ankara,Keçiören,Güzelyurt Mah.
+34000,1+1,50,,Ankara,Gölbaşı,İncek Mah.
+17000,1+1,55,25.0,Ankara,Etimesgut,Tunahan Mah.
+55000,3+1,160,11.0,Ankara,Çankaya,Aziziye Mah.
+16500,3+1,110,15.0,Ankara,Mamak,General Zeki Doğan Mah.
+20000,1+1,100,10.0,Ankara,Etimesgut,Piyade Mah.
+18000,3+1,125,27.0,Ankara,Sincan,Gazi Osmanpaşa Mah.
+17000,3+1,140,15.0,Ankara,Keçiören,Etlik Mah.
+42000,4+1,180,17.0,Ankara,Etimesgut,Göksu Mah.
+22000,3+1,90,30.0,Ankara,Etimesgut,Tunahan Mah.
+32000,3+1,125,25.0,Ankara,Çankaya,Sokullu Mehmet Paşa Mah.
+25000,1+1,58,5.0,Ankara,Yenimahalle,Ergazi Mah.
+50000,3+1,135,35.0,Ankara,Çankaya,Söğütözü Mah.
+24000,3+1,160,25.0,Ankara,Yenimahalle,Tepealtı Mah.
+25000,3+1,110,26.0,Ankara,Yenimahalle,Kardelen Mah.
+21000,2+1,95,30.0,Ankara,Çankaya,Erzurum Mah.
+25000,1+1,60,,Ankara,Çankaya,Metin Oktay Mah.
+34000,3+1,160,15.0,Ankara,Etimesgut,Bağlıca Mah.
+22000,2+1,70,18.0,Ankara,Yenimahalle,Varlık Mah.
+31500,3+1,135,30.0,Ankara,Çankaya,Çiğdem Mah.
+13500,1+1,70,31.0,Ankara,Altındağ,Aydınlıkevler Mah.
+30000,5+1,230,20.0,Ankara,Etimesgut,Kazım Karabekir Mah.
+73000,6+1,363,,Ankara,Gölbaşı,Kızılcaşar Mah.
+55000,4+1,175,18.0,Ankara,Çankaya,Çukurambar Mah.
+21000,3+1,140,8.0,Ankara,Sincan,Mareşal Çakmak Mah.
+20000,3+1,130,37.0,Ankara,Keçiören,Tepebaşı Mah.
+25000,3+1,120,36.0,Ankara,Çankaya,Çamlıtepe Mah.
+32000,3+1,115,35.0,Ankara,Çankaya,Yukarı Bahçelievler Mah.
+18000,3+1,110,35.0,Ankara,Altındağ,Zübeyde Hanım Mah.
+47500,2+1,110,2.0,Ankara,Çankaya,Alacaatlı Mah.
+35500,2+1,97,6.0,Ankara,Etimesgut,Şehit Osman Avcı Mah.
+28000,3+1,125,20.0,Ankara,Keçiören,Sancaktepe Mah.
+24000,3+3,120,18.0,Ankara,Yenimahalle,Yeniçağ Mah.
+30000,3+1,120,5.0,Ankara,Çankaya,İlkbahar Mah.
+21000,3+1,110,30.0,Ankara,Yenimahalle,Barış Mah.
+25250,2+1,95,40.0,Ankara,Çankaya,Mebusevleri Mah.
+50000,4+13,170,20.0,Ankara,Çankaya,Çukurambar Mah.
+37000,3+1,140,30.0,Ankara,Çankaya,Birlik Mah.
+42000,2+1,85,,Ankara,Çankaya,Bahçelievler Mah.
+22000,4+1,192,15.0,Ankara,Etimesgut,Turkuaz Mah.
+20000,3+1,125,30.0,Ankara,Keçiören,Tepebaşı Mah.
+54000,4+1,220,5.0,Ankara,Gölbaşı,Kızılcaşar Mah.
+19500,2+1,90,20.0,Ankara,Çankaya,İlkadım Mah.
+18000,3+1,115,20.0,Ankara,Etimesgut,Topçu Mah.
+15000,2+1,120,35.0,Ankara,Çankaya,Sokullu Mehmet Paşa Mah.
+18500,3+1,85,37.0,Ankara,Çankaya,Harbiye Mah.
+14000,3+1,110,35.0,Ankara,Keçiören,Pınarbaşı Mah.
+23000,2+1,95,30.0,Ankara,Altındağ,Aydınlıkevler Mah.
+22000,3+1,140,21.0,Ankara,Sincan,Atatürk Mah.
+34500,3+1,120,20.0,Ankara,Çankaya,Hilal Mah.
+28000,2+1,75,45.0,Ankara,Çankaya,Bahçelievler Mah.
+18000,3+1,120,32.0,Ankara,Yenimahalle,Demetlale Mah.
+22000,2+1,90,45.0,Ankara,Çankaya,Remzi Oğuz Arık Mah.
+20000,3+1,125,13.0,Ankara,Etimesgut,İstasyon Mah.
+15000,2+1,120,40.0,Ankara,Mamak,Demirlibahçe Mah.
+25000,2+1,90,,Ankara,Gölbaşı,İncek Mah.
+27500,3+1,145,11.0,Ankara,Çankaya,Kırkkonaklar Mah.
+15500,3+1,90,35.0,Ankara,Mamak,Şafaktepe Mah.
+34850,2+1,100,5.0,Ankara,Yenimahalle,Yeni Batı Mah.
+16000,Stüdyo,30,6.0,Ankara,Etimesgut,Şehit Osman Avcı Mah.
+15000,3+1,140,15.0,Ankara,Polatlı,Cumhuriyet Mah.
+40000,3+1,125,31.0,Ankara,Çankaya,Çankaya Mah.
+33000,1+1,80,2.0,Ankara,Çankaya,Güvenevler Mah.
+24500,1+1,55,,Ankara,Gölbaşı,Taşpınar Mah.
+22000,Stüdyo,50,15.0,Ankara,Çankaya,Emek Mah.
+24000,3+1,110,39.0,Ankara,Çankaya,Kavaklıdere Mah.
+23000,3+1,115,45.0,Ankara,Çankaya,Çamlıtepe Mah.
+27500,3+1,130,32.0,Ankara,Çankaya,Gaziosmanpaşa Mah.
+28000,3+1,115,35.0,Ankara,Çankaya,Harbiye Mah.
+20000,3+1,110,18.0,Ankara,Çankaya,Osman Temiz Mah.
+32000,2+1,105,4.0,Ankara,Etimesgut,Eryaman Mah.
+24999,1+1,86,3.0,Ankara,Yenimahalle,Yeni Batı Mah.
+60000,4+1,179,14.0,Ankara,Çankaya,Birlik Mah.
+29500,3+1,120,30.0,Ankara,Çankaya,Keklik Pınarı Mah.
+20000,2+1,80,6.0,Ankara,Mamak,Diriliş Mah.
+15500,2+1,90,10.0,Ankara,Mamak,Karaağaç Mah.
+22000,1+1,50,,Ankara,Gölbaşı,Taşpınar Mah.
+34000,2+1,78,35.0,Ankara,Çankaya,Yukarı Bahçelievler Mah.
+25500,3+1,135,27.0,Ankara,Yenimahalle,Ergazi Mah.
+26000,1+1,60,3.0,Ankara,Çankaya,Güzeltepe Mah.
+28000,3+1,150,17.0,Ankara,Çankaya,Mürsel Uluç Mah.
+17000,3+1,95,30.0,Ankara,Mamak,Saimekadın Mah.
+22000,3+1,130,11.0,Ankara,Yenimahalle,Yeşilevler Mah.
+19000,3+1,117,20.0,Ankara,Keçiören,Basınevleri Mah.
+35000,3+1,155,26.0,Ankara,Çankaya,Çayyolu Mah.
+28000,3+1,135,24.0,Ankara,Yenimahalle,Kentkoop Mah.
+24000,3+1,132,16.0,Ankara,Gölbaşı,Örencik Mah.
+49000,3+1,170,20.0,Ankara,Çankaya,Çukurambar Mah.
+18500,1+1,73,19.0,Ankara,Etimesgut,Göksu Mah.
+14500,2+1,105,31.0,Ankara,Yenimahalle,25 Mart Mah.
+25000,3+1,125,20.0,Ankara,Yenimahalle,Kardelen Mah.
+17000,2+1,100,18.0,Ankara,Keçiören,Sancaktepe Mah.
+27000,3+1,110,35.0,Ankara,Çankaya,Birlik Mah.
+18500,2+1,93,38.0,Ankara,Altındağ,Aydınlıkevler Mah.
+30000,1+1,65,31.0,Ankara,Çankaya,Balgat Mah.
+25000,3+1,130,40.0,Ankara,Çankaya,İlkadım Mah.
+18000,3+1,120,33.0,Ankara,Çankaya,Ertuğrulgazi Mah.
+24500,2+1,100,40.0,Ankara,Yenimahalle,Gazi Mah.
+20000,3+1,130,21.0,Ankara,Keçiören,Aşağı Eğlence Mah.
+35000,3+1,150,35.0,Ankara,Çankaya,Anıttepe Mah.
+18000,3+0,130,30.0,Ankara,Keçiören,Şenlik Mah.
+20500,3+1,110,30.0,Ankara,Yenimahalle,Ergazi Mah.
+22000,3+1,125,22.0,Ankara,Çankaya,Osman Temiz Mah.
+13000,3+1,105,28.0,Ankara,Mamak,Şafaktepe Mah.
+25000,2+1,100,25.0,Ankara,Mamak,Şafaktepe Mah.
+16500,3+1,120,20.0,Ankara,Keçiören,19 Mayıs Mah.
+30000,2+1,140,30.0,Ankara,Çankaya,Anıttepe Mah.
+26000,1+1,55,5.0,Ankara,Çankaya,Yukarı Bahçelievler Mah.
+15000,3+1,110,20.0,Ankara,Sincan,Ertuğrulgazi Mah.
+30000,3+1,130,20.0,Ankara,Altındağ,Aydınlıkevler Mah.
+34000,5+1,220,18.0,Ankara,Çankaya,Kırkkonaklar Mah.
+40000,1+1,90,1.0,Ankara,Yenimahalle,Emniyet Mah.
+20000,2+1,95,40.0,Ankara,Çankaya,Sağlık Mah.
+24000,3+1,110,1.0,Ankara,Altındağ,Doğantepe Mah.
+15000,Stüdyo,55,30.0,Ankara,Çankaya,Emek Mah.
+20000,2+1,90,30.0,Ankara,Altındağ,Aydınlıkevler Mah.
+30000,3+1,150,18.0,Ankara,Çankaya,Şehit Cengiz Karaca Mah.
+45000,3+1,120,35.0,Ankara,Çankaya,Büyükesat Mah.
+22000,3+1,120,27.0,Ankara,Keçiören,İncirli Mah.
+25000,2+1,80,22.0,Ankara,Çankaya,Korkutreis Mah.
+31000,2+1,95,12.0,Ankara,Yenimahalle,Ragıp Tüzün Mah.
+18000,2+1,85,26.0,Ankara,Çankaya,İleri Mah.
+30000,2+1,100,40.0,Ankara,Çankaya,Anıttepe Mah.
+20000,3+1,110,35.0,Ankara,Çankaya,Cebeci Mah.
+23000,2+1,95,23.0,Ankara,Çankaya,Naci Çakır Mah.
+20000,2+1,70,35.0,Ankara,Yenimahalle,Varlık Mah.
+20600,1+1,67,6.0,Ankara,Yenimahalle,Serhat Mah.
+14000,3+1,95,30.0,Ankara,Mamak,Demirlibahçe Mah.
+12500,3+1,105,30.0,Ankara,Keçiören,Tepebaşı Mah.
+24000,3+1,110,40.0,Ankara,Keçiören,Aşağı Eğlence Mah.
+15500,2+1,84,12.0,Ankara,Etimesgut,Atayurt Mah.
+8000,1+1,65,20.0,Ankara,Mamak,Gülveren Mah.
+47500,3+0,170,25.0,Ankara,Çankaya,Mutlukent Mah.
+21000,3+1,125,35.0,Ankara,Altındağ,Hacettepe Mah.
+24000,1+1,60,6.0,Ankara,Etimesgut,Şehit Osman Avcı Mah.
+15500,3+1,125,18.0,Ankara,Sincan,Pınarbaşı Mah.
+35000,3+1,165,33.0,Ankara,Keçiören,Aşağı Eğlence Mah.
+17500,3+1,135,32.0,Ankara,Keçiören,Şenlik Mah.
+34000,3+1,135,16.0,Ankara,Yenimahalle,Işınlar Mah.
+22000,2+1,90,2.0,Ankara,Yenimahalle,Emniyet Mah.
+30000,3+1,100,30.0,Ankara,Çankaya,Emek Mah.
+30000,3+1,150,5.0,Ankara,Etimesgut,Güzelkent Mah.
+37500,3+1,155,45.0,Ankara,Çankaya,Güvenevler Mah.
+35000,3+1,150,32.0,Ankara,Çankaya,Oğuzlar Mah.
+20000,2+1,80,25.0,Ankara,Mamak,Mehtap Mah.
+60000,7+1,300,20.0,Ankara,Çankaya,Hilal Mah.
+15000,3+1,120,20.0,Ankara,Keçiören,Güçlükaya Mah.
+28500,3+1,110,43.0,Ankara,Çankaya,Güzeltepe Mah.
+23000,2+1,100,45.0,Ankara,Çankaya,İşçi Blokları Mah.
+42000,3+1,125,8.0,Ankara,Çankaya,Anıttepe Mah.
+25000,3+1,130,25.0,Ankara,Çankaya,Osman Temiz Mah.
+13000,2+1,105,6.0,Ankara,Sincan,Mareşal Çakmak Mah.
+28000,3+1,130,12.0,Ankara,Etimesgut,Eryaman Mah.
+31000,3+1,160,10.0,Ankara,Yenimahalle,Burç Mah.
+36000,4+1,150,20.0,Ankara,Çankaya,Kırkkonaklar Mah.
+10000,2+1,90,15.0,Ankara,Etimesgut,Piyade Mah.
+15000,3+1,115,21.0,Ankara,Mamak,General Zeki Doğan Mah.
+25000,1+1,45,,Ankara,Pursaklar,Tevfik İleri Mah.
+25000,3+1,95,,Ankara,Gölbaşı,İncek Mah.
+20000,3+2,210,15.0,Ankara,Sincan,Pınarbaşı Mah.
+15000,2+1,105,16.0,Ankara,Etimesgut,Piyade Mah.
+22000,3+1,140,15.0,Ankara,Yenimahalle,Ata Mah.
+17500,3+1,95,42.0,Ankara,Altındağ,Aydınlıkevler Mah.
+20000,3+1,125,20.0,Ankara,Keçiören,Aşağı Eğlence Mah.
+28000,3+1,140,25.0,Ankara,Çankaya,Aşağı Öveçler Mah.
+27000,2+1,90,30.0,Ankara,Mamak,Balkiraz Mah.
+19000,3+1,120,23.0,Ankara,Keçiören,Aşağı Eğlence Mah.
+27000,3+1,135,18.0,Ankara,Çankaya,Şehit Cengiz Karaca Mah.
+62000,3+1,171,1.0,Ankara,Yenimahalle,Emniyet Mah.
+25000,3+1,125,30.0,Ankara,Keçiören,Etlik Mah.
+52000,4+1,240,5.0,Ankara,Çankaya,Alacaatlı Mah.
+18000,3+1,110,30.0,Ankara,Mamak,Balkiraz Mah.
+25900,1+1,55,5.0,Ankara,Yenimahalle,Ergazi Mah.
+15250,3+1,140,15.0,Ankara,Mamak,Mutlu Mah.
+27500,2+1,95,16.0,Ankara,Etimesgut,Eryaman Mah.
+25000,3+1,120,25.0,Ankara,Yenimahalle,Ragıp Tüzün Mah.
+54000,2+1,125,12.0,Ankara,Çankaya,Yıldızevler Mah.
+55000,3+1,110,,Ankara,Çankaya,Kazım Özalp Mah.
+44000,2+1,105,10.0,Ankara,Çankaya,Beytepe Mah.
+14500,Stüdyo,40,,Ankara,Etimesgut,Bağlıca Mah.
+17000,2+1,110,20.0,Ankara,Çankaya,Şehit Cengiz Karaca Mah.
+14900,3+1,100,45.0,Ankara,Keçiören,Tepebaşı Mah.
+11250,2+1,85,15.0,Ankara,Mamak,Zirvekent Mah.
+16000,3+1,125,20.0,Ankara,Sincan,Ertuğrulgazi Mah.
+35000,3+1,140,17.0,Ankara,Çankaya,Mustafa Kemal Mah.
+12500,2+1,100,23.0,Ankara,Keçiören,23 Nisan Mah.
+13500,3+1,120,26.0,Ankara,Sincan,Selçuklu Mah.
+19500,3+1,145,15.0,Ankara,Keçiören,Yayla Mah.
+15000,3+1,145,16.0,Ankara,Mamak,Kutlu Mah.
+25000,2+1,105,25.0,Ankara,Keçiören,Aşağı Eğlence Mah.
+16000,3+1,130,6.0,Ankara,Mamak,Akşemsettin Mah.
+22000,3+1,110,15.0,Ankara,Çankaya,Göktürk Mah.
+14000,3+1,150,5.0,Ankara,Altındağ,Başpınar Mah.
+45000,3+1,130,,Ankara,Çankaya,Anıttepe Mah.
+20000,3+1,120,15.0,Ankara,Etimesgut,Topçu Mah.
+15000,3+1,110,10.0,Ankara,Mamak,Cengizhan Mah.
+31000,3+1,135,28.0,Ankara,Çankaya,Harbiye Mah.
+40000,1+1,55,1.0,Ankara,Yenimahalle,İnönü Mah.
+20000,3+1,125,15.0,Ankara,Etimesgut,Piyade Mah.
+28000,3+1,160,18.0,Ankara,Çankaya,Birlik Mah.
+15000,3+1,130,35.0,Ankara,Yenimahalle,Demetgül Mah.
+16000,2+1,75,55.0,Ankara,Çankaya,Yıldızevler Mah.
+35000,2+1,92,,Ankara,Çankaya,Maltepe Mah.
+19250,2+1,105,4.0,Ankara,Keçiören,Yükseltepe Mah.
+35000,4+1,160,7.0,Ankara,Yenimahalle,Çarşı Mah.
+16000,3+1,120,25.0,Ankara,Sincan,Selçuklu Mah.
+29000,2+1,100,35.0,Ankara,Yenimahalle,Varlık Mah.
+18000,3+1,110,30.0,Ankara,Çankaya,Ertuğrulgazi Mah.
+23000,3+1,110,26.0,Ankara,Yenimahalle,Demetgül Mah.
+35000,3+1,175,14.0,Ankara,Keçiören,Kavacık Subayevleri Mah.
+19000,3+1,120,30.0,Ankara,Keçiören,Etlik Mah.
+18000,3+1,140,25.0,Ankara,Altındağ,Aydınlıkevler Mah.
+17000,3+1,120,22.0,Ankara,Etimesgut,Kazım Karabekir Mah.
+22000,3+1,120,30.0,Ankara,Keçiören,Tepebaşı Mah.
+27500,4+1,140,15.0,Ankara,Yenimahalle,Turgut Özal Mah.
+25000,4+1,170,8.0,Ankara,Mamak,Durali Alıç Mah.
+55000,3+1,170,11.0,Ankara,Çankaya,Aziziye Mah.
+24000,3+1,125,30.0,Ankara,Keçiören,Emrah Mah.
+14000,3+1,121,30.0,Ankara,Sincan,Gazi Osmanpaşa Mah.
+22000,1+1,50,,Ankara,Çankaya,Yukarı Dikmen Mah.
+18000,1+1,50,28.0,Ankara,Etimesgut,Şeyh Şamil Mah.
+15000,3+1,110,20.0,Ankara,Mamak,Abidinpaşa Mah.
+56000,4+1,196,6.0,Ankara,Çankaya,İlkbahar Mah.
+45500,4+0,200,10.0,Ankara,Etimesgut,Yeni Bağlıca Mah.
+28000,3+1,125,35.0,Ankara,Çankaya,Çamlıtepe Mah.
+16250,3+1,125,15.0,Ankara,Mamak,Mutlu Mah.
+26000,3+1,125,20.0,Ankara,Yenimahalle,Ergazi Mah.
+30000,1+1,64,8.0,Ankara,Çankaya,İşçi Blokları Mah.
+20000,2+1,90,15.0,Ankara,Mamak,Hürel Mah.
+19000,3+1,115,25.0,Ankara,Çankaya,Mürsel Uluç Mah.
+27000,3+1,130,30.0,Ankara,Yenimahalle,Demetgül Mah.
+20000,2+1,100,38.0,Ankara,Çankaya,Arka Topraklık Mah.
+16500,3+1,100,12.0,Ankara,Etimesgut,Elvan Mah.
+72000,4+1,189,19.0,Ankara,Çankaya,Prof. Dr. Ahmet Taner Kışlalı Mah.
+26000,3+1,120,17.0,Ankara,Altındağ,Aydınlıkevler Mah.
+32000,3+1,150,6.0,Ankara,Yenimahalle,Avcılar Mah.
+28000,3+1,150,7.0,Ankara,Yenimahalle,Çiğdemtepe Mah.
+25000,2+1,74,18.0,Ankara,Etimesgut,Tunahan Mah.
+25000,2+1,50,,Ankara,Gölbaşı,Taşpınar Mah.
+18000,3+1,115,35.0,Ankara,Keçiören,Şenlik Mah.
+28000,2+1,95,33.0,Ankara,Çankaya,Büyükesat Mah.
+17500,3+1,125,18.0,Ankara,Etimesgut,Atakent Mah.
+40000,3+1,145,15.0,Ankara,Çankaya,Çiğdem Mah.
+14000,3+1,130,,Ankara,Yenimahalle,Yakacık Mah.
+25000,3+1,110,35.0,Ankara,Çankaya,Oran Mah.
+43000,38+1,150,10.0,Ankara,Çankaya,Balgat Mah.
+24000,3+1,100,28.0,Ankara,Etimesgut,Şeyh Şamil Mah.
+22000,3+1,115,30.0,Ankara,Sincan,Fatih Mah.
+45000,4+1,180,25.0,Ankara,Çankaya,Üniversiteler Mah.
+30000,3+1,130,25.0,Ankara,Çankaya,İşçi Blokları Mah.
+25000,3+1,160,19.0,Ankara,Etimesgut,Şeyh Şamil Mah.
+13500,3+1,158,28.0,Ankara,Polatlı,Şehitlik Mah.
+41000,3+1,110,25.0,Ankara,Çankaya,Koru Mah.
+25500,3+1,125,20.0,Ankara,Etimesgut,Şeyh Şamil Mah.
+17500,3+1,125,5.0,Ankara,Altındağ,Karapürçek Mah.
+21000,3+1,120,11.0,Ankara,Gölbaşı,Seğmenler Mah.
+28000,2+1,90,50.0,Ankara,Çankaya,Yukarı Bahçelievler Mah.
+20000,3+1,135,15.0,Ankara,Etimesgut,Topçu Mah.
+16000,3+1,110,35.0,Ankara,Sincan,Ulubatlı Hasan Mah.
+36000,3+1,160,25.0,Ankara,Etimesgut,Fatih Sultan Mah.
+36000,3+1,130,37.0,Ankara,Çankaya,Güvenevler Mah.
+22500,3+1,135,21.0,Ankara,Çankaya,Aydınlar Mah.
+22000,4+1,180,10.0,Ankara,Polatlı,Şehitlik Mah.
+15000,3+1,105,35.0,Ankara,Mamak,Abidinpaşa Mah.
+14500,3+1,130,15.0,Ankara,Polatlı,Gazi Mah.
+26000,4+1,160,26.0,Ankara,Çankaya,Kırkkonaklar Mah.
+14500,2+1,90,10.0,Ankara,Etimesgut,Atayurt Mah.
+20000,2+1,95,40.0,Ankara,Çankaya,Bayraktar Mah.
+26000,3+1,130,45.0,Ankara,Çankaya,Anıttepe Mah.
+16500,3+1,110,13.0,Ankara,Keçiören,Uyanış Mah.
+21000,4+1,170,30.0,Ankara,Keçiören,Etlik Mah.
+20000,3+1,120,30.0,Ankara,Çankaya,Metin Oktay Mah.
+28000,3+1,145,20.0,Ankara,Çankaya,Ata Mah.
+32000,3+1,120,25.0,Ankara,Çankaya,Balgat Mah.
+30000,1+1,60,,Ankara,Çankaya,Yukarı Bahçelievler Mah.
+20000,3+1,120,35.0,Ankara,Çankaya,Sokullu Mehmet Paşa Mah.
+10000,2+1,80,30.0,Ankara,Altındağ,Örnek Mah.
+13000,2+1,70,30.0,Ankara,Sincan,Fatih Mah.
+17250,3+1,115,18.0,Ankara,Etimesgut,Atakent Mah.
+24000,2+1,85,,Ankara,Gölbaşı,İncek Mah.
+17500,3+1,118,30.0,Ankara,Sincan,Akşemsettin Mah.
+27500,3+1,160,25.0,Ankara,Yenimahalle,Kentkoop Mah.
+13250,1+1,55,2.0,Ankara,Çubuk,Esenboğa Merkez Mah.
+28000,2+1,60,,Ankara,Yenimahalle,Gazi Mah.
+42000,2+1,100,5.0,Ankara,Çankaya,Yukarı Bahçelievler Mah.
+21000,3+1,100,35.0,Ankara,Çankaya,Harbiye Mah.
+30000,3+1,130,13.0,Ankara,Çankaya,Keklik Pınarı Mah.
+25000,3+1,120,15.0,Ankara,Çankaya,Öveçler Mah.
+17250,3+1,120,28.0,Ankara,Keçiören,Güçlükaya Mah.
+18500,2+1,100,15.0,Ankara,Çankaya,Kırkkonaklar Mah.
+18000,2+1,100,60.0,Ankara,Çankaya,Kavaklıdere Mah.
+28000,1+1,80,25.0,Ankara,Çankaya,Beytepe Mah.
+36500,3+1,130,50.0,Ankara,Çankaya,Güvenevler Mah.
+35000,2+1,90,,Ankara,Çankaya,Yukarı Bahçelievler Mah.
+27000,3+1,130,22.0,Ankara,Yenimahalle,Demetlale Mah.
+20000,3+1,120,20.0,Ankara,Keçiören,Aşağı Eğlence Mah.
+25000,3+1,120,20.0,Ankara,Yenimahalle,Demetevler Mah.
+24000,1+1,69,5.0,Ankara,Gölbaşı,Kızılcaşar Mah.
+55000,2+1,170,29.0,Ankara,Çankaya,100. Yıl Mah.
+30000,1+1,100,1.0,Ankara,Gölbaşı,İncek Mah.
+25250,1+1,70,70.0,Ankara,Etimesgut,Şehit Osman Avcı Mah.
+30000,2+1,90,40.0,Ankara,Çankaya,100. Yıl Mah.
+21000,3+1,125,15.0,Ankara,Keçiören,İncirli Mah.
+15000,2+1,120,45.0,Ankara,Mamak,Demirlibahçe Mah.
+32000,1+1,65,,Ankara,Çankaya,Çankaya Mah.
+24000,2+1,150,50.0,Ankara,Çankaya,Esatoğlu Mah.
+21000,3+1,112,15.0,Ankara,Gölbaşı,Eymir Mah.
+23000,3+1,120,25.0,Ankara,Yenimahalle,Kentkoop Mah.
+20000,3+1,140,5.0,Ankara,Polatlı,Şehitlik Mah.
+18000,3+1,140,32.0,Ankara,Keçiören,Yakacık Mah.
+27500,3+1,105,40.0,Ankara,Yenimahalle,Emniyet Mah.
+21000,3+1,120,15.0,Ankara,Keçiören,İncirli Mah.
+26000,3+1,135,25.0,Ankara,Çankaya,Ata Mah.
+20000,3+1,120,30.0,Ankara,Çankaya,Fakülteler Mah.
+15000,3+1,115,30.0,Ankara,Keçiören,Yakacık Mah.
+22500,1+1,60,6.0,Ankara,Çankaya,Kırkkonaklar Mah.
+21000,3+1,105,25.0,Ankara,Çankaya,Osman Temiz Mah.
+18000,3+1,120,40.0,Ankara,Keçiören,Yakacık Mah.
+29500,3+1,120,20.0,Ankara,Altındağ,Aydınlıkevler Mah.
+39000,3+1,115,38.0,Ankara,Çankaya,Mebusevleri Mah.
+20000,3+1,109,35.0,Ankara,Çankaya,Oğuzlar Mah.
+36000,2+1,75,,Ankara,Çankaya,Emek Mah.
+22500,1+1,75,25.0,Ankara,Etimesgut,Tunahan Mah.
+17000,2+1,110,11.0,Ankara,Keçiören,Esertepe Mah.
+15500,4+1,165,26.0,Ankara,Sincan,Mareşal Çakmak Mah.
+27000,3+1,130,18.0,Ankara,Çankaya,Aşağı Öveçler Mah.
+18000,2+1,100,30.0,Ankara,Keçiören,Pınarbaşı Mah.
+16000,3+1,115,19.0,Ankara,Mamak,General Zeki Doğan Mah.
+26000,2+1,95,,Ankara,Gölbaşı,İncek Mah.
+27000,3+1,135,25.0,Ankara,Çankaya,Osman Temiz Mah.
+21000,3+1,155,15.0,Ankara,Sincan,Pınarbaşı Mah.
+25000,3+1,150,14.0,Ankara,Etimesgut,Süvari Mah.
+35000,4+1,220,4.0,Ankara,Keçiören,Yükseltepe Mah.
+36000,4+1,170,18.0,Ankara,Çankaya,Ata Mah.
+15000,3+1,120,18.0,Ankara,Keçiören,Etlik Mah.
+27000,3+1,120,12.0,Ankara,Etimesgut,Eryaman Mah.
+16000,3+1,110,19.0,Ankara,Etimesgut,Elvan Mah.
+36000,5+1,300,20.0,Ankara,Çankaya,Bağcılar Mah.
+32500,1+1,109,35.0,Ankara,Altındağ,Aydınlıkevler Mah.
+40000,2+1,70,,Ankara,Çankaya,Kazım Özalp Mah.
+50000,2+1,75,,Ankara,Çankaya,Kazım Özalp Mah.
+12000,2+1,105,35.0,Ankara,Yenimahalle,Karşıyaka Mah.
+26000,3+1,115,35.0,Ankara,Çankaya,Kültür Mah.
+26500,1+1,55,6.0,Ankara,Yenimahalle,Ergazi Mah.
+52500,4+1,185,4.0,Ankara,Gölbaşı,Taşpınar Mah.
+43000,4+1,160,30.0,Ankara,Çankaya,Barbaros Mah.
+23000,2+1,100,30.0,Ankara,Mamak,Balkiraz Mah.
+18500,3+1,110,30.0,Ankara,Çankaya,Metin Oktay Mah.
+37000,3+1,105,40.0,Ankara,Çankaya,Gaziosmanpaşa Mah.
+14000,2+1,85,28.0,Ankara,Mamak,Tuzluçayır Mah.
+39000,3+1,125,25.0,Ankara,Çankaya,Yıldızevler Mah.
+18000,3+1,120,10.0,Ankara,Keçiören,Esertepe Mah.
+21000,2+1,100,20.0,Ankara,Etimesgut,Şeyh Şamil Mah.
+36500,4+1,135,40.0,Ankara,Çankaya,Güvenevler Mah.
+28000,3+1,150,8.0,Ankara,Mamak,Ege Mah.
+12000,2+1,125,20.0,Ankara,Mamak,General Zeki Doğan Mah.
+45000,3+1,120,,Ankara,Çankaya,Mebusevleri Mah.
+40000,2+1,82,1.0,Ankara,Yenimahalle,İnönü Mah.
+17500,3+1,115,20.0,Ankara,Etimesgut,Süvari Mah.
+14000,3+1,130,35.0,Ankara,Keçiören,Ayvalı Mah.
+25000,3+1,125,25.0,Ankara,Çankaya,Şehit Cengiz Karaca Mah.
+18000,3+1,115,15.0,Ankara,Altındağ,Gültepe Mah.
+18250,3+1,130,16.0,Ankara,Keçiören,İncirli Mah.
+51000,2+1,95,2.0,Ankara,Çankaya,Anıttepe Mah.
+25000,3+1,120,25.0,Ankara,Yenimahalle,Demetevler Mah.
+35000,3+1,125,45.0,Ankara,Çankaya,Remzi Oğuz Arık Mah.
+20500,2+1,65,,Ankara,Gölbaşı,Örencik Mah.
+22000,3+1,122,12.0,Ankara,Mamak,Ege Mah.
+16500,3+1,105,30.0,Ankara,Altındağ,Aydınlıkevler Mah.
+32000,4+1,180,2.0,Ankara,Yenimahalle,Karşıyaka Mah.
+15500,3+1,110,30.0,Ankara,Çankaya,Ertuğrulgazi Mah.
+18500,3+1,110,25.0,Ankara,Yenimahalle,Demetgül Mah.
+13500,2+1,80,20.0,Ankara,Etimesgut,Kazım Karabekir Mah.
+23500,3+1,120,25.0,Ankara,Yenimahalle,Ergazi Mah.
+28000,2+1,80,15.0,Ankara,Çankaya,Seyranbağları Mah.
+22500,3+1,100,35.0,Ankara,Çankaya,Nasuh Akar Mah.
+27500,1+1,75,12.0,Ankara,Çankaya,İlkbahar Mah.
+24000,3+1,120,29.0,Ankara,Yenimahalle,Ergazi Mah.
+21000,3+1,125,22.0,Ankara,Çankaya,Mürsel Uluç Mah.
+36000,3+1,160,15.0,Ankara,Çankaya,Birlik Mah.
+18000,3+1,115,20.0,Ankara,Etimesgut,Oğuzlar Mah.
+15000,2+1,88,40.0,Ankara,Çankaya,Ertuğrulgazi Mah.
+14000,3+1,115,25.0,Ankara,Mamak,Mehtap Mah.
+17000,3+1,130,29.0,Ankara,Keçiören,Şenlik Mah.
+20000,3+1,115,45.0,Ankara,Çankaya,Topraklık Mah.
+20000,3+1,135,18.0,Ankara,Etimesgut,Elvan Mah.
+40000,1+1,100,6.0,Ankara,Çankaya,İşçi Blokları Mah.
+15500,3+1,110,35.0,Ankara,Altındağ,Zübeyde Hanım Mah.
+18000,3+1,120,23.0,Ankara,Sincan,Selçuklu Mah.
+29000,3+1,125,24.0,Ankara,Çankaya,Çukurambar Mah.
+29000,3+1,110,35.0,Ankara,Çankaya,Emek Mah.
+37000,3+1,110,25.0,Ankara,Çankaya,Koru Mah.
+25000,3+1,130,30.0,Ankara,Yenimahalle,Kentkoop Mah.
+15500,1+1,44,3.0,Ankara,Gölbaşı,İncek Mah.
+20000,2+1,78,,Ankara,Altındağ,Aydınlıkevler Mah.
+27000,3+1,135,25.0,Ankara,Çankaya,Erzurum Mah.
+17500,3+1,120,16.0,Ankara,Etimesgut,Topçu Mah.
+17000,3+1,110,40.0,Ankara,Altındağ,Aydınlıkevler Mah.
+16000,3+1,135,15.0,Ankara,Keçiören,Uyanış Mah.
+16000,3+1,120,16.0,Ankara,Altındağ,Gültepe Mah.
+20000,3+1,110,42.0,Ankara,Çankaya,İleri Mah.
+7000,Stüdyo,50,38.0,Ankara,Çankaya,Göktürk Mah.
+21000,3+1,125,20.0,Ankara,Mamak,Demirlibahçe Mah.
+24000,1+1,80,4.0,Ankara,Çankaya,Birlik Mah.
+18500,2+1,100,45.0,Ankara,Çankaya,Cebeci Mah.
+19000,3+1,110,29.0,Ankara,Çankaya,İlkadım Mah.
+20000,3+1,130,20.0,Ankara,Keçiören,Basınevleri Mah.
+15500,2+1,95,15.0,Ankara,Etimesgut,Süvari Mah.
+25250,3+1,118,11.0,Ankara,Çankaya,Kırkkonaklar Mah.
+14000,3+1,120,36.0,Ankara,Keçiören,Şenlik Mah.
+22000,2+1,75,22.0,Ankara,Yenimahalle,Varlık Mah.
+14000,2+1,80,15.0,Ankara,Etimesgut,Süvari Mah.
+26000,3+1,115,22.0,Ankara,Etimesgut,Göksu Mah.
+20000,3+1,100,25.0,Ankara,Etimesgut,Şeyh Şamil Mah.
+30000,2+1,95,25.0,Ankara,Çankaya,Bayraktar Mah.
+20000,3+1,120,25.0,Ankara,Keçiören,İncirli Mah.
+20000,3+1,120,14.0,Ankara,Mamak,Durali Alıç Mah.
+18000,3+1,130,12.0,Ankara,Mamak,Yeşilbayır Mah.
+36000,3+1,120,35.0,Ankara,Çankaya,Emek Mah.
+20000,3+1,130,30.0,Ankara,Mamak,Aşık Veysel Mah.
+26000,3+1,105,35.0,Ankara,Çankaya,Kavaklıdere Mah.
+21500,1+1,45,1.0,Ankara,Çankaya,Konutkent Mah.
+24500,2+1,100,12.0,Ankara,Etimesgut,Alsancak Mah.
+22000,3+1,130,15.0,Ankara,Etimesgut,Turkuaz Mah.
+15500,3+1,115,30.0,Ankara,Keçiören,Şefkat Mah.
+22000,3+1,145,11.0,Ankara,Yenimahalle,Burç Mah.
+30000,3+1,120,12.0,Ankara,Çankaya,Seyranbağları Mah.
+42500,4+1,160,1.0,Ankara,Etimesgut,Ahi Mesut Mah.
+46000,4+1,238,1.0,Ankara,Keçiören,Ovacık Mah.
+15000,3+1,125,5.0,Ankara,Keçiören,Şehit Kubilay Mah.
+24000,2+1,80,60.0,Ankara,Çankaya,Kültür Mah.
+35000,2+1,110,28.0,Ankara,Çankaya,Devlet Mah.
+25000,3+1,145,25.0,Ankara,Yenimahalle,Ostim OSB Mah.
+22000,1+11,65,8.0,Ankara,Etimesgut,Şehit Osman Avcı Mah.
+15000,2+1,105,6.0,Ankara,Mamak,Derbent Mah.
+28000,3+1,135,25.0,Ankara,Etimesgut,Devlet Mah.
+21000,2+1,90,15.0,Ankara,Gölbaşı,Eymir Mah.
+20000,3+1,120,10.0,Ankara,Gölbaşı,Karşıyaka Mah.
+25000,3+1,135,6.0,Ankara,Mamak,Yeşilbayır Mah.
+16100,3+1,125,15.0,Ankara,Sincan,Atatürk Mah.
+22500,1+1,100,7.0,Ankara,Etimesgut,Bağlıca Mah.
+32000,2+1,75,8.0,Ankara,Çankaya,Yukarı Bahçelievler Mah.
+30000,3+1,150,22.0,Ankara,Yenimahalle,Kentkoop Mah.
+38000,3+1,135,26.0,Ankara,Çankaya,Yukarı Bahçelievler Mah.
+32000,2+1,80,40.0,Ankara,Çankaya,Yukarı Bahçelievler Mah.
+33000,3+1,125,16.0,Ankara,Çankaya,Hilal Mah.
+24750,2+1,100,45.0,Ankara,Çankaya,Maltepe Mah.
+25000,3+1,120,25.0,Ankara,Çankaya,100. Yıl Mah.
+19000,3+1,115,28.0,Ankara,Çankaya,Harbiye Mah.
+20000,3+1,135,,Ankara,Sincan,29 Ekim Mah.
+31000,3+1,130,35.0,Ankara,Çankaya,Bahçelievler Mah.
+13000,2+1,75,35.0,Ankara,Çankaya,Arka Topraklık Mah.
+40000,4+1,175,,Ankara,Yenimahalle,Yuvaköy Mah.
+13500,3+1,120,25.0,Ankara,Polatlı,Gazi Mah.
+20000,3+1,115,5.0,Ankara,Mamak,General Zeki Doğan Mah.
+37500,4+1,166,,Ankara,Yenimahalle,Serhat Mah.
+18000,3+1,130,4.0,Ankara,Altındağ,Feridun Çelik Mah.
+40000,3+1,130,5.0,Ankara,Gölbaşı,Taşpınar Mah.
+21500,1+1,65,,Ankara,Yenimahalle,Batı Sitesi Mah.
+18000,1+1,55,1.0,Ankara,Gölbaşı,İncek Mah.
+25000,3+1,130,23.0,Ankara,Çankaya,İlkadım Mah.
+74000,5+1,300,10.0,Ankara,Çankaya,Kazım Özalp Mah.
+56000,4+1,196,8.0,Ankara,Çankaya,İlkbahar Mah.
+28000,1+1,55,4.0,Ankara,Çankaya,Emek Mah.
+17750,1+1,65,10.0,Ankara,Etimesgut,Şeker Mah.
+15500,1+1,55,,Ankara,Çubuk,Esenboğa Merkez Mah.
+18000,2+1,90,25.0,Ankara,Çankaya,Bademlidere Mah.
+19000,3+1,135,5.0,Ankara,Altındağ,Doğantepe Mah.
+42000,3+1,130,35.0,Ankara,Çankaya,Aziziye Mah.
+15000,3+1,115,30.0,Ankara,Keçiören,Şenlik Mah.
+19500,3+1,135,22.0,Ankara,Keçiören,Aşağı Eğlence Mah.
+27000,1+1,50,,Ankara,Çankaya,Nasuh Akar Mah.
+35000,1+1,35,8.0,Ankara,Çankaya,Aziziye Mah.
+31000,1+1,110,35.0,Ankara,Çankaya,Öveçler Mah.
+21000,3+1,130,10.0,Ankara,Etimesgut,Yeşilova Mah.
+29900,3+1,165,10.0,Ankara,Etimesgut,Ayyıldız Mah.
+18000,2+1,110,35.0,Ankara,Çankaya,Umut Mah.
+30000,2+1,90,,Ankara,Çankaya,Kültür Mah.
+26500,3+1,118,41.0,Ankara,Çankaya,Kavaklıdere Mah.
+35000,2+1,175,21.0,Ankara,Çankaya,Büyükesat Mah.
+30000,3+1,155,30.0,Ankara,Çankaya,Ayrancı Mah.
+24000,2+1,105,26.0,Ankara,Çankaya,Şehit Cevdet Özdemir Mah.
+27000,3+1,150,10.0,Ankara,Yenimahalle,Ata Mah.
+17500,2+1,100,26.0,Ankara,Çankaya,Şehit Cevdet Özdemir Mah.
+12000,2+1,95,12.0,Ankara,Etimesgut,Atayurt Mah.
+15000,2+1,75,55.0,Ankara,Çankaya,Yıldızevler Mah.
+40000,2+1,90,,Ankara,Çankaya,Yukarı Bahçelievler Mah.
+17500,1+1,75,30.0,Ankara,Çankaya,Metin Akkuş Mah.
+47000,3+1,120,5.0,Ankara,Çankaya,Bahçelievler Mah.
+30000,2+1,95,18.0,Ankara,Çankaya,Birlik Mah.
+19500,1+1,62,13.0,Ankara,Etimesgut,Altay Mah.
+16500,3+1,130,15.0,Ankara,Polatlı,Gazi Mah.
+24500,3+1,105,40.0,Ankara,Çankaya,Bahçelievler Mah.
+18000,3+1,105,18.0,Ankara,Çankaya,Birlik Mah.
+30000,1+1,85,,Ankara,Yenimahalle,Emniyet Mah.
+20000,2+1,90,30.0,Ankara,Etimesgut,Altay Mah.
+20500,3+1,90,30.0,Ankara,Çankaya,Balgat Mah.
+21000,2+1,110,30.0,Ankara,Etimesgut,Atakent Mah.
+28000,3+1,140,25.0,Ankara,Çankaya,Büyükesat Mah.
+20000,3+1,100,29.0,Ankara,Çankaya,Şehit Cevdet Özdemir Mah.
+16000,3+1,120,10.0,Ankara,Mamak,Peyami Safa Mah.
+21000,2+1,90,12.0,Ankara,Gölbaşı,Eymir Mah.
+25000,3+1,125,25.0,Ankara,Çankaya,Oğuzlar Mah.
+37000,1+1,65,13.0,Ankara,Çankaya,Söğütözü Mah.
+19500,3+1,105,25.0,Ankara,Keçiören,Aşağı Eğlence Mah.
+20000,2+0,110,16.0,Ankara,Etimesgut,İstasyon Mah.
+36500,2+1,60,2.0,Ankara,Çankaya,Emek Mah.
+23000,2+1,80,45.0,Ankara,Çankaya,Oran Mah.
+18000,3+1,115,18.0,Ankara,Etimesgut,Atakent Mah.
+27500,3+1,140,15.0,Ankara,Yenimahalle,Turgut Özal Mah.
+43000,4+1,180,,Ankara,Keçiören,Yayla Mah.
+25000,3+1,120,30.0,Ankara,Keçiören,Kuşcağız Mah.
+20000,3+1,125,15.0,Ankara,Sincan,Andiçen Mah.
+26000,2+1,95,,Ankara,Gölbaşı,İncek Mah.
+25000,3+1,120,25.0,Ankara,Çankaya,Aşağı Öveçler Mah.
+27000,2+1,70,40.0,Ankara,Çankaya,Kültür Mah.
+55000,4+1,190,14.0,Ankara,Çankaya,Çukurambar Mah.
+28000,3+1,135,15.0,Ankara,Yenimahalle,Kardelen Mah.
+35000,4+1,165,12.0,Ankara,Keçiören,Ayvalı Mah.
+13750,3+1,100,25.0,Ankara,Keçiören,Bağlarbaşı Mah.
+40000,2+1,70,,Ankara,Çankaya,Kazım Özalp Mah.
+23000,3+1,130,17.0,Ankara,Keçiören,Etlik Mah.
+25000,3+1,110,35.0,Ankara,Yenimahalle,Barış Mah.
+55000,4+1,177,10.0,Ankara,Etimesgut,Göksu Mah.
+32500,1+1,65,32.0,Ankara,Çankaya,Kazım Özalp Mah.
+26000,1+1,130,5.0,Ankara,Mamak,General Zeki Doğan Mah.
+23000,1+1,55,22.0,Ankara,Etimesgut,Tunahan Mah.
+15000,3+1,120,19.0,Ankara,Mamak,General Zeki Doğan Mah.
+12500,3+1,120,16.0,Ankara,Mamak,Kutlu Mah.
+53000,2+1,120,3.0,Ankara,Çankaya,Yukarı Dikmen Mah.
+22000,3+1,115,21.0,Ankara,Çankaya,Keklik Pınarı Mah.
+12250,2+1,90,10.0,Ankara,Mamak,Zirvekent Mah.
+17000,3+1,125,25.0,Ankara,Keçiören,Esertepe Mah.
+67000,5+1,270,,Ankara,Çankaya,Alacaatlı Mah.
+50000,2+1,93,1.0,Ankara,Yenimahalle,İnönü Mah.
+20000,2+1,100,20.0,Ankara,Yenimahalle,Mehmet Akif Ersoy Mah.
+42500,1+1,110,3.0,Ankara,Çankaya,İlkbahar Mah.
+17000,3+1,120,25.0,Ankara,Mamak,Balkiraz Mah.
+30000,4+1,175,10.0,Ankara,Mamak,Bahçelerüstü Mah.
+26000,3+1,130,30.0,Ankara,Yenimahalle,Demetgül Mah.
+17500,2+1,95,15.0,Ankara,Çankaya,Aşıkpaşa Mah.
+34000,3+1,130,,Ankara,Gölbaşı,Karşıyaka Mah.
+17650,3+1,100,30.0,Ankara,Yenimahalle,İnönü Mah.
+16500,1+1,55,27.0,Ankara,Etimesgut,Tunahan Mah.
+29000,3+1,145,40.0,Ankara,Çankaya,Kavaklıdere Mah.
+35000,4+1,175,9.0,Ankara,Yenimahalle,Turgut Özal Mah.
+15000,1+1,94,15.0,Ankara,Etimesgut,Turkuaz Mah.
+20750,3+1,105,39.0,Ankara,Çankaya,Murat Mah.
+18000,3+1,130,24.0,Ankara,Keçiören,Ayvalı Mah.
+15000,1+1,65,1.0,Ankara,Akyurt,Beyazıt Mah.
+15000,3+1,110,25.0,Ankara,Mamak,Tuzluçayır Mah.
+37000,4+4,180,20.0,Ankara,Çankaya,Hilal Mah.
+28000,3+1,120,30.0,Ankara,Yenimahalle,Demetgül Mah.
+15000,3+1,130,22.0,Ankara,Yenimahalle,Anadolu Mah.
+45500,4+1,165,25.0,Ankara,Çankaya,Güzeltepe Mah.
+21000,3+1,113,35.0,Ankara,Çankaya,Aşağı Öveçler Mah.
+30000,2+1,95,40.0,Ankara,Çankaya,Yukarı Bahçelievler Mah.
+21000,3+1,120,25.0,Ankara,Yenimahalle,Yeni Batı Mah.
+21000,3+1,115,30.0,Ankara,Mamak,Demirlibahçe Mah.
+35000,3+1,180,25.0,Ankara,Yenimahalle,Varlık Mah.
+30000,3+1,140,25.0,Ankara,Yenimahalle,Yeniçağ Mah.
+36500,3+1,135,15.0,Ankara,Yenimahalle,Yeni Batı Mah.
+20000,2+1,85,35.0,Ankara,Çankaya,Seyranbağları Mah.
+40000,1+1,100,6.0,Ankara,Çankaya,İşçi Blokları Mah.
+40000,3+1,135,,Ankara,Gölbaşı,Karşıyaka Mah.
+24500,1+1,70,5.0,Ankara,Gölbaşı,İncek Mah.
+23000,2+1,105,25.0,Ankara,Çankaya,Harbiye Mah.
+19000,2+1,95,40.0,Ankara,Keçiören,Etlik Mah.
+18000,3+1,130,15.0,Ankara,Etimesgut,Atakent Mah.
+22000,3+1,125,28.0,Ankara,Altındağ,Aydınlıkevler Mah.
+15500,3+1,118,33.0,Ankara,Keçiören,Pınarbaşı Mah.
+61000,2+1,110,10.0,Ankara,Çankaya,Dodurga Mah.
+19000,3+1,115,28.0,Ankara,Çankaya,Harbiye Mah.
+20000,3+1,120,16.0,Ankara,Etimesgut,Süvari Mah.
+26000,1+1,45,,Ankara,Çankaya,Aziziye Mah.
+24000,2+1,100,1.0,Ankara,Çankaya,Kırkkonaklar Mah.
+17500,3+1,100,20.0,Ankara,Yenimahalle,Demetgül Mah.
+17000,1+1,60,30.0,Ankara,Yenimahalle,Demetgül Mah.
+21000,3+1,110,35.0,Ankara,Keçiören,Köşk Mah.
+12000,2+1,110,15.0,Ankara,Keçiören,Etlik Mah.
+28000,2+1,95,6.0,Ankara,Çankaya,Seyranbağları Mah.
+23000,2+1,90,35.0,Ankara,Çankaya,Çankaya Mah.
+14000,3+1,128,30.0,Ankara,Sincan,Osmanlı Mah.
+19000,3+1,120,38.0,Ankara,Yenimahalle,Demetevler Mah.
+26000,3+1,150,7.0,Ankara,Sincan,Mustafa Kemal Mah.
+29500,1+1,75,20.0,Ankara,Çankaya,Çukurambar Mah.
+13000,2+1,110,4.0,Ankara,Mamak,Küçük Kayaş Mah.
+20250,3+1,138,17.0,Ankara,Çankaya,Akpınar Mah.
+35750,4+1,160,25.0,Ankara,Yenimahalle,Mehmet Akif Ersoy Mah.
+18000,1+1,55,20.0,Ankara,Yenimahalle,Beştepe Mah.
+14500,3+1,125,20.0,Ankara,Polatlı,Zafer Mah.
+16650,3+1,120,17.0,Ankara,Sincan,Osmanlı Mah.
+23000,2+1,95,35.0,Ankara,Çankaya,İleri Mah.
+31000,3+1,130,45.0,Ankara,Çankaya,Yukarı Bahçelievler Mah.
+35000,2+1,70,,Ankara,Çankaya,Emek Mah.
+42000,3+1,130,35.0,Ankara,Çankaya,Aziziye Mah.
+68000,1+1,80,7.0,Ankara,Çankaya,Gaziosmanpaşa Mah.
+35000,2+1,90,,Ankara,Çankaya,Emek Mah.
+28500,2+1,70,6.0,Ankara,Çankaya,Maltepe Mah.
+18000,2+1,85,20.0,Ankara,Çankaya,Osman Temiz Mah.
+35000,3+1,120,45.0,Ankara,Çankaya,Güvenevler Mah.
+25000,3+1,110,31.0,Ankara,Çankaya,Seyranbağları Mah.
+20000,3+1,115,40.0,Ankara,Keçiören,Pınarbaşı Mah.
+20000,3+1,130,20.0,Ankara,Yenimahalle,Pamuklar Mah.
+22000,2+1,100,35.0,Ankara,Çankaya,Metin Oktay Mah.
+20000,3+1,115,17.0,Ankara,Mamak,Hürel Mah.
+17000,3+1,120,30.0,Ankara,Keçiören,Şenlik Mah.
+19000,2+1,90,42.0,Ankara,Çankaya,Tınaztepe Mah.
+31000,3+1,140,35.0,Ankara,Çankaya,Bahçelievler Mah.
+41500,3+1,130,30.0,Ankara,Çankaya,Koru Mah.
+23000,2+1,85,50.0,Ankara,Çankaya,100. Yıl Mah.
+25000,3+1,89,45.0,Ankara,Çankaya,Emek Mah.
+22000,2+1,110,24.0,Ankara,Çankaya,İlkadım Mah.
+25000,3+1,100,31.0,Ankara,Altındağ,Aydınlıkevler Mah.
+23000,2+1,85,35.0,Ankara,Çankaya,Çamlıtepe Mah.
+29000,1+1,80,4.0,Ankara,Çankaya,Kazım Özalp Mah.
+12000,1+1,60,,Ankara,Çubuk,Esenboğa Merkez Mah.
+14000,1+1,80,45.0,Ankara,Çankaya,Tınaztepe Mah.
+30000,1+1,88,1.0,Ankara,Yenimahalle,Emniyet Mah.
+41000,1+1,77,4.0,Ankara,Çankaya,Yukarı Dikmen Mah.
+15000,3+1,140,20.0,Ankara,Sincan,Ahi Evran Mah.
+70000,5+1,300,15.0,Ankara,Çankaya,Kazım Özalp Mah.
+18000,3+1,120,40.0,Ankara,Keçiören,Adnan Menderes Mah.
+15000,3+1,135,17.0,Ankara,Polatlı,Gazi Mah.
+24000,2+1,86,28.0,Ankara,Etimesgut,Şeyh Şamil Mah.
+22500,2+1,90,35.0,Ankara,Çankaya,Arka Topraklık Mah.
+37500,1+1,78,12.0,Ankara,Çankaya,Oran Mah.
+27500,3+1,170,11.0,Ankara,Çankaya,Sancak Mah.
+24000,2+1,90,35.0,Ankara,Çankaya,Emek Mah.
+15000,2+1,95,12.0,Ankara,Sincan,Tandoğan Mah.
+18000,3+1,130,15.0,Ankara,Sincan,Tandoğan Mah.
+21000,1+1,47,1.0,Ankara,Gölbaşı,İncek Mah.
+30000,3+1,140,15.0,Ankara,Çankaya,Cevizlidere Mah.
+37000,3+1,130,20.0,Ankara,Çankaya,Keklik Pınarı Mah.
+30000,3+1,140,22.0,Ankara,Keçiören,Ayvalı Mah.
+25000,3+1,130,25.0,Ankara,Çankaya,Gökkuşağı Mah.
+20000,3+1,150,7.0,Ankara,Yenimahalle,Burç Mah.
+15000,1+1,90,,Ankara,Keçiören,Ovacık Mah.
+16900,3+1,120,18.0,Ankara,Mamak,Saimekadın Mah.
+36000,3+1,120,38.0,Ankara,Çankaya,Çankaya Mah.
+17500,3+1,100,35.0,Ankara,Keçiören,Emrah Mah.
+30000,4+1,150,4.0,Ankara,Sincan,Törekent Mah.
+47500,4+1,140,30.0,Ankara,Çankaya,Yukarı Bahçelievler Mah.
+22000,1+1,80,45.0,Ankara,Çankaya,Yücetepe Mah.
+22000,3+1,90,27.0,Ankara,Etimesgut,Tunahan Mah.
+25000,3+1,160,,Ankara,Mamak,General Zeki Doğan Mah.
+15000,3+1,110,18.0,Ankara,Mamak,General Zeki Doğan Mah.
+59000,4+1,180,,Ankara,Çankaya,Alacaatlı Mah.
+18000,3+1,140,18.0,Ankara,Keçiören,Esertepe Mah.
+15000,3+1,125,25.0,Ankara,Mamak,Demirlibahçe Mah.
+25000,2+1,105,30.0,Ankara,Yenimahalle,Demetlale Mah.
+28000,3+1,110,12.0,Ankara,Altındağ,Aydınlıkevler Mah.
+12000,2+1,95,2.0,Ankara,Mamak,Diriliş Mah.
+35000,1+1,80,15.0,Ankara,Çankaya,İşçi Blokları Mah.
+18500,1+1,55,35.0,Ankara,Yenimahalle,Emniyet Mah.
+19500,3+1,120,19.0,Ankara,Çankaya,Huzur Mah.
+28500,3+1,140,50.0,Ankara,Çankaya,Güvenevler Mah.
+21000,4+1,170,13.0,Ankara,Keçiören,Uyanış Mah.
+25000,3+1,110,25.0,Ankara,Çankaya,Balgat Mah.
+17000,1+1,84,10.0,Ankara,Etimesgut,Yapracık Mah.
+40000,2+1,90,,Ankara,Çankaya,Bahçelievler Mah.
+27000,1+1,45,6.0,Ankara,Çankaya,Emek Mah.
+25500,3+1,110,20.0,Ankara,Çankaya,Huzur Mah.
+18500,3+1,120,30.0,Ankara,Keçiören,Ayvalı Mah.
+45000,1+1,60,,Ankara,Çankaya,Yukarı Bahçelievler Mah.
+22000,3+1,120,35.0,Ankara,Çankaya,İlkadım Mah.
+27000,3+1,110,45.0,Ankara,Çankaya,Ayrancı Mah.
+24000,3+1,115,30.0,Ankara,Yenimahalle,Yeni Batı Mah.
+20000,3+1,135,15.0,Ankara,Etimesgut,Süvari Mah.
+7500,1+1,65,8.0,Ankara,Mamak,Zirvekent Mah.
+27000,3+1,120,31.0,Ankara,Yenimahalle,Demetlale Mah.
+26000,2+1,65,4.0,Ankara,Çankaya,Mutlukent Mah.
+22000,3+1,135,20.0,Ankara,Gölbaşı,Şafak Mah.
+20000,2+1,100,25.0,Ankara,Çankaya,Aşağı Öveçler Mah.
+20000,1+1,85,22.0,Ankara,Çankaya,Kırkkonaklar Mah.
+19000,2+1,110,23.0,Ankara,Çankaya,Osman Temiz Mah.
+15000,3+1,108,30.0,Ankara,Mamak,Aşık Veysel Mah.
+20000,2+1,85,30.0,Ankara,Yenimahalle,Kentkoop Mah.
+14000,2+1,94,15.0,Ankara,Etimesgut,Turkuaz Mah.
+27000,3+1,125,45.0,Ankara,Çankaya,Çankaya Mah.
+27000,2+1,85,37.0,Ankara,Çankaya,Tınaztepe Mah.
+34000,1+1,50,2.0,Ankara,Yenimahalle,Mehmet Akif Ersoy Mah.
+21000,3+1,140,10.0,Ankara,Etimesgut,Alsancak Mah.
+20500,3+1,100,20.0,Ankara,Çankaya,Yukarı Öveçler Mah.
+15500,2+1,90,28.0,Ankara,Çankaya,Naci Çakır Mah.
+22000,3+1,130,12.0,Ankara,Mamak,Altıağaç Mah.
+15000,1+1,65,25.0,Ankara,Yenimahalle,Özevler Mah.
+26000,3+1,140,3.0,Ankara,Mamak,Cengizhan Mah.
+46000,3+1,150,40.0,Ankara,Çankaya,Aziziye Mah.
+22500,2+1,120,15.0,Ankara,Etimesgut,Ahi Mesut Mah.
+32500,3+1,140,40.0,Ankara,Çankaya,Çankaya Mah.
+30000,3+1,110,38.0,Ankara,Keçiören,Aşağı Eğlence Mah.
+25000,2+1,85,30.0,Ankara,Çankaya,Aşağı Öveçler Mah.
+27500,3+1,110,49.0,Ankara,Çankaya,Kültür Mah.
+21000,1+1,60,3.0,Ankara,Yenimahalle,Yuvaköy Mah.
+15000,3+1,105,25.0,Ankara,Çankaya,Kültür Mah.
+18000,3+1,115,50.0,Ankara,Çankaya,Cebeci Mah.
+12000,3+1,145,25.0,Ankara,Polatlı,Cumhuriyet Mah.
+16000,3+1,130,15.0,Ankara,Keçiören,Etlik Mah.
+16000,3+1,137,12.0,Ankara,Etimesgut,Yapracık Mah.
+15000,3+1,125,5.0,Ankara,Keçiören,Şehit Kubilay Mah.
+15000,3+1,130,16.0,Ankara,Altındağ,Karapürçek Mah.
+22000,2+1,90,35.0,Ankara,Yenimahalle,Beştepe Mah.
+27500,3+1,135,19.0,Ankara,Etimesgut,Ahi Mesut Mah.
+25000,3+1,110,20.0,Ankara,Çankaya,Bayraktar Mah.
+16500,3+1,125,10.0,Ankara,Mamak,Akşemsettin Mah.
+52000,3+1,145,12.0,Ankara,Çankaya,Dumlupınar Mah.
+26000,3+1,120,50.0,Ankara,Çankaya,Fidanlık Mah.
+35000,3+1,125,30.0,Ankara,Çankaya,Gaziosmanpaşa Mah.
+28000,3+1,105,35.0,Ankara,Çankaya,Fidanlık Mah.
+26000,3+1,160,19.0,Ankara,Yenimahalle,Varlık Mah.
+30000,2+1,50,30.0,Ankara,Çankaya,Küçükesat Mah.
+25000,2+1,90,30.0,Ankara,Çankaya,Tınaztepe Mah.
+54500,5+2,360,16.0,Ankara,Çankaya,Kırkkonaklar Mah.
+31000,2+1,99,40.0,Ankara,Çankaya,İşçi Blokları Mah.
+26500,1+1,55,5.0,Ankara,Yenimahalle,Mehmet Akif Ersoy Mah.
+25000,2+1,80,5.0,Ankara,Çankaya,Malazgirt Mah.
+15500,2+1,85,35.0,Ankara,Çankaya,Arka Topraklık Mah.
+17000,3+1,94,32.0,Ankara,Yenimahalle,Ergenekon Mah.
+25000,1+1,50,,Ankara,Gölbaşı,Kızılcaşar Mah.
+27500,1+1,45,1.0,Ankara,Çankaya,Gaziosmanpaşa Mah.
+22250,2+1,115,40.0,Ankara,Çankaya,Mebusevleri Mah.
+23750,2+1,90,20.0,Ankara,Çankaya,İlkadım Mah.
+21000,3+1,110,30.0,Ankara,Çankaya,Harbiye Mah.
+25000,1+1,60,56.0,Ankara,Çankaya,Remzi Oğuz Arık Mah.
+16000,3+1,125,25.0,Ankara,Sincan,Selçuklu Mah.
+23500,3+1,115,40.0,Ankara,Çankaya,Bayraktar Mah.
+27500,3+1,140,8.0,Ankara,Çankaya,Ön Cebeci Mah.
+15500,2+1,90,35.0,Ankara,Keçiören,Kavacık Subayevleri Mah.
+35000,2+1,90,55.0,Ankara,Çankaya,Çankaya Mah.
+25000,3+1,120,35.0,Ankara,Altındağ,Aydınlıkevler Mah.
+35000,2+1,95,,Ankara,Çankaya,Emek Mah.
+28500,2+1,70,8.0,Ankara,Çankaya,Maltepe Mah.
+30000,3+1,110,35.0,Ankara,Çankaya,Mebusevleri Mah.
+23500,2+1,69,20.0,Ankara,Etimesgut,Göksu Mah.
+27000,2+1,85,35.0,Ankara,Çankaya,Emek Mah.
+25000,3+1,125,36.0,Ankara,Çankaya,Barbaros Mah.
+15000,3+1,120,15.0,Ankara,Mamak,Misket Mah.
+18000,3+1,180,4.0,Ankara,Sincan,Alcı Mah.
+18000,1+1,90,38.0,Ankara,Çankaya,Emek Mah.
+35000,3+1,140,12.0,Ankara,Etimesgut,Yeni Bağlıca Mah.
+20750,3+1,140,13.0,Ankara,Mamak,Altınevler Mah.
+22000,3+1,115,25.0,Ankara,Çankaya,Çamlıtepe Mah.
+29000,3+1,145,15.0,Ankara,Çankaya,Ata Mah.
+23000,2+1,90,60.0,Ankara,Çankaya,Yukarı Bahçelievler Mah.
+35000,3+1,150,,Ankara,Gölbaşı,Seğmenler Mah.
+1700,1+1,65,1.0,Ankara,Çankaya,Çamlıtepe Mah.
+20000,2+1,100,60.0,Ankara,Altındağ,Aydınlıkevler Mah.
+25000,2+1,85,40.0,Ankara,Çankaya,Anıttepe Mah.
+30000,3+1,120,20.0,Ankara,Etimesgut,Eryaman Mah.
+28000,3+1,155,21.0,Ankara,Çankaya,Birlik Mah.
+15000,3+1,110,35.0,Ankara,Çankaya,Metin Oktay Mah.
+30000,3+1,150,19.0,Ankara,Çankaya,Birlik Mah.
+30000,1+1,80,,Ankara,Gölbaşı,İncek Mah.
+18000,3+1,130,10.0,Ankara,Sincan,Malazgirt Mah.
+25000,3+1,110,25.0,Ankara,Yenimahalle,Turgut Özal Mah.
+22000,3+1,130,15.0,Ankara,Keçiören,Esertepe Mah.
+24000,2+1,110,16.0,Ankara,Keçiören,İncirli Mah.
+30000,3+1,145,25.0,Ankara,Çankaya,Harbiye Mah.
+28000,3+1,180,12.0,Ankara,Yenimahalle,Pamuklar Mah.
+46000,4+1,200,33.0,Ankara,Çankaya,Kazım Özalp Mah.
+20000,2+1,100,18.0,Ankara,Mamak,General Zeki Doğan Mah.
+20000,3+1,190,,Ankara,Mamak,General Zeki Doğan Mah.
+20000,4+1,180,18.0,Ankara,Keçiören,Etlik Mah.
+25000,1+1,60,,Ankara,Gölbaşı,Taşpınar Mah.
+9500,3+1,110,30.0,Ankara,Polatlı,Cumhuriyet Mah.
+68500,3+1,160,5.0,Ankara,Çankaya,Çukurambar Mah.
+15000,3+1,120,8.0,Ankara,Sincan,Tandoğan Mah.
+16000,3+1,135,35.0,Ankara,Keçiören,Etlik Mah.
+16000,3+1,110,30.0,Ankara,Sincan,Gazi Osmanpaşa Mah.
+16000,3+1,110,35.0,Ankara,Yenimahalle,Kayalar Mah.
+15000,3+1,105,25.0,Ankara,Çankaya,Seyranbağları Mah.
+21000,2+1,80,24.0,Ankara,Mamak,Abidinpaşa Mah.
+29000,3+1,125,30.0,Ankara,Çankaya,Kavaklıdere Mah.
+10000,3+1,150,25.0,Ankara,Polatlı,Şentepe Mah.
+19000,2+1,90,30.0,Ankara,Çankaya,Umut Mah.
+18000,2+1,90,25.0,Ankara,Yenimahalle,Esentepe Mah.
+18000,3+1,115,35.0,Ankara,Keçiören,Şenlik Mah.
+40000,1+1,82,,Ankara,Yenimahalle,Emniyet Mah.
+50000,3+1,180,25.0,Ankara,Çankaya,Bahçelievler Mah.
+25000,2+0,110,30.0,Ankara,Etimesgut,Atakent Mah.
+20000,2+1,110,25.0,Ankara,Keçiören,Tepebaşı Mah.
+21000,3+1,130,25.0,Ankara,Keçiören,Ayvalı Mah.
+45000,1+1,60,,Ankara,Çankaya,Yukarı Bahçelievler Mah.
+20500,3+1,110,25.0,Ankara,Altındağ,Aydınlıkevler Mah.
+31000,3+1,140,35.0,Ankara,Çankaya,Bahçelievler Mah.
+22000,3+1,110,25.0,Ankara,Çankaya,Murat Mah.
+20000,2+1,100,35.0,Ankara,Çankaya,İleri Mah.
+19000,3+1,130,15.0,Ankara,Keçiören,Bademlik Mah.
+25000,3+1,110,35.0,Ankara,Çankaya,Oğuzlar Mah.
+18000,1+1,50,5.0,Ankara,Çankaya,Yaşamkent Mah.
+25000,3+1,100,3.0,Ankara,Mamak,Demirlibahçe Mah.
+22500,1+1,48,,Ankara,Çankaya,Anıttepe Mah.
+15500,3+1,110,15.0,Ankara,Etimesgut,30 Ağustos Mah.
+20000,3+1,125,36.0,Ankara,Çankaya,Tınaztepe Mah.
+22500,Stüdyo,35,2.0,Ankara,Çankaya,Kızılay Mah.
+17000,2+1,90,30.0,Ankara,Mamak,Balkiraz Mah.
+54000,4+1,190,18.0,Ankara,Çankaya,Çankaya Mah.
+15000,2+1,95,30.0,Ankara,Mamak,Balkiraz Mah.
+20000,3+1,120,20.0,Ankara,Etimesgut,Oğuzlar Mah.
+30000,3+1,150,35.0,Ankara,Çankaya,Kazım Özalp Mah.
+21000,2+1,90,17.0,Ankara,Yenimahalle,Varlık Mah.
+17500,1+1,75,45.0,Ankara,Çankaya,Fakülteler Mah.
+12000,2+1,85,11.0,Ankara,Etimesgut,Yapracık Mah.
+14000,2+1,85,25.0,Ankara,Mamak,Tuzluçayır Mah.
+36000,2+1,90,14.0,Ankara,Çankaya,Bahçelievler Mah.
+13500,3+1,110,25.0,Ankara,Mamak,Aşık Veysel Mah.
+20000,3+1,120,16.0,Ankara,Keçiören,Tepebaşı Mah.
+22750,1+3,120,27.0,Ankara,Altındağ,Zübeyde Hanım Mah.
+35000,3+1,120,28.0,Ankara,Çankaya,Yukarı Bahçelievler Mah.
+35000,3+1,125,28.0,Ankara,Çankaya,Tınaztepe Mah.
+31000,2+1,90,40.0,Ankara,Çankaya,100. Yıl Mah.
+31000,3+1,130,28.0,Ankara,Yenimahalle,Beştepe Mah.
+23000,1+1,65,4.0,Ankara,Çankaya,Çayyolu Mah.
+25000,3+1,135,50.0,Ankara,Yenimahalle,Demetevler Mah.
+15000,3+1,125,35.0,Ankara,Yenimahalle,Demetlale Mah.
+30000,3+1,135,22.0,Ankara,Çankaya,Cevizlidere Mah.
+16500,3+1,120,30.0,Ankara,Keçiören,Aşağı Eğlence Mah.
+22500,3+1,120,16.0,Ankara,Etimesgut,30 Ağustos Mah.
+23000,3+1,100,45.0,Ankara,Çankaya,Tınaztepe Mah.
+13999,3+1,120,46.0,Ankara,Keçiören,Kamil Ocak Mah.
+17500,3+1,125,14.0,Ankara,Keçiören,Basınevleri Mah.
+17500,2+1,95,30.0,Ankara,Keçiören,Tepebaşı Mah.
+27500,2+1,90,35.0,Ankara,Çankaya,Kızılay Mah.
+17000,3+1,115,26.0,Ankara,Yenimahalle,Demetgül Mah.
+31000,3+1,130,50.0,Ankara,Çankaya,Barbaros Mah.
+20000,3+1,120,15.0,Ankara,Keçiören,Yayla Mah.
+37000,3+1,160,20.0,Ankara,Çankaya,Sancak Mah.
+30000,3+1,115,40.0,Ankara,Çankaya,Maltepe Mah.
+25000,3+1,125,25.0,Ankara,Çankaya,Huzur Mah.
+85000,3+1,135,10.0,Ankara,Çankaya,Büyükesat Mah.
+35000,2+1,75,,Ankara,Yenimahalle,Varlık Mah.
+26000,2+1,100,1.0,Ankara,Çankaya,Osman Temiz Mah.
+13750,3+1,120,20.0,Ankara,Sincan,Mareşal Çakmak Mah.
+33000,2+1,89,39.0,Ankara,Çankaya,İşçi Blokları Mah.
+12000,2+1,85,28.0,Ankara,Sincan,Fatih Mah.
+25000,3+1,110,45.0,Ankara,Çankaya,Çiğdem Mah.
+28000,3+1,145,25.0,Ankara,Yenimahalle,Tepealtı Mah.
+22500,2+1,80,35.0,Ankara,Yenimahalle,Beştepe Mah.
+30000,3+1,130,35.0,Ankara,Çankaya,Anıttepe Mah.
+26000,4+1,145,23.0,Ankara,Çankaya,Kırkkonaklar Mah.
+30000,4+1,135,35.0,Ankara,Çankaya,Sağlık Mah.
+23000,3+1,130,20.0,Ankara,Çankaya,Bademlidere Mah.
+35000,2+1,80,40.0,Ankara,Çankaya,Emek Mah.
+42000,2+1,120,,Ankara,Gölbaşı,Kızılcaşar Mah.
+23000,3+1,110,35.0,Ankara,Çankaya,Murat Mah.
+10000,Stüdyo,20,25.0,Ankara,Çankaya,Osman Temiz Mah.
+15500,1+1,50,,Ankara,Mamak,Hürel Mah.
+25000,2+1,80,,Ankara,Gölbaşı,İncek Mah.
+35000,5+1,220,25.0,Ankara,Çankaya,Ata Mah.
+32000,3+1,115,30.0,Ankara,Çankaya,Bahçelievler Mah.
+47500,4+1,210,,Ankara,Keçiören,Ovacık Mah.
+25000,3+1,145,45.0,Ankara,Çankaya,Meşrutiyet Mah.
+22000,3+1,135,5.0,Ankara,Mamak,Cengizhan Mah.
+25000,3+1,200,,Ankara,Mamak,General Zeki Doğan Mah.
+29000,3+1,130,25.0,Ankara,Çankaya,Büyükesat Mah.
+28000,3+1,120,46.0,Ankara,Keçiören,Aşağı Eğlence Mah.
+68500,3+1,160,5.0,Ankara,Çankaya,Söğütözü Mah.
+18000,3+1,130,35.0,Ankara,Yenimahalle,Ergenekon Mah.
+18000,3+1,125,10.0,Ankara,Yenimahalle,Demetgül Mah.
+31000,1+1,55,,Ankara,Yenimahalle,Gazi Mah.
+26000,1+1,70,10.0,Ankara,Etimesgut,Şehit Osman Avcı Mah.
+32000,5+1,300,25.0,Ankara,Keçiören,Güçlükaya Mah.
+32000,1+1,100,30.0,Ankara,Çankaya,Koru Mah.
+13000,2+1,125,5.0,Ankara,Keçiören,Etlik Mah.
+14000,1+1,80,40.0,Ankara,Yenimahalle,Varlık Mah.
+19000,3+1,130,35.0,Ankara,Keçiören,Etlik Mah.
+36000,3+1,90,40.0,Ankara,Çankaya,Emek Mah.
+17500,3+1,110,35.0,Ankara,Keçiören,Kavacık Subayevleri Mah.
+27500,3+1,100,45.0,Ankara,Çankaya,Anıttepe Mah.
+25000,3+1,135,16.0,Ankara,Gölbaşı,Karşıyaka Mah.
+35000,1+1,42,8.0,Ankara,Çankaya,Aziziye Mah.
+30000,3+1,125,35.0,Ankara,Çankaya,Maltepe Mah.
+15000,3+1,110,40.0,Ankara,Yenimahalle,Yunus Emre Mah.
+15500,2+1,90,50.0,Ankara,Altındağ,Aydınlıkevler Mah.
+38000,1+1,86,,Ankara,Yenimahalle,Emniyet Mah.
+20000,3+1,125,25.0,Ankara,Keçiören,Esertepe Mah.
+32000,3+1,130,45.0,Ankara,Çankaya,Bahçelievler Mah.
+40000,1+1,80,3.0,Ankara,Çankaya,Yukarı Dikmen Mah.
+20000,3+1,110,25.0,Ankara,Keçiören,Tepebaşı Mah.
+16000,1+1,55,22.0,Ankara,Etimesgut,Tunahan Mah.
+22000,3+1,145,20.0,Ankara,Etimesgut,Güzelkent Mah.
+30000,2+1,110,,Ankara,Gölbaşı,Taşpınar Mah.
+16000,3+1,100,50.0,Ankara,Mamak,Demirlibahçe Mah.
+25000,2+1,94,13.0,Ankara,Etimesgut,Atayurt Mah.
+43000,4+0,200,10.0,Ankara,Yenimahalle,Varlık Mah.
+17999,1+1,70,15.0,Ankara,Sincan,Malazgirt Mah.
+28000,3+1,130,30.0,Ankara,Yenimahalle,Demetevler Mah.
+23000,3+1,120,30.0,Ankara,Keçiören,Şefkat Mah.
+18000,3+1,125,8.0,Ankara,Pursaklar,Yunus Emre Mah.
+20000,4+1,160,36.0,Ankara,Yenimahalle,Yeniçağ Mah.
+60000,4+1,200,13.0,Ankara,Çankaya,Birlik Mah.
+35000,3+1,150,11.0,Ankara,Etimesgut,Fatih Sultan Mah.
+35000,3+1,145,30.0,Ankara,Keçiören,Aşağı Eğlence Mah.
+40000,4+1,167,45.0,Ankara,Çankaya,100. Yıl Mah.
+26000,3+1,140,10.0,Ankara,Yenimahalle,Burç Mah.
+17500,3+1,110,26.0,Ankara,Keçiören,Bağlarbaşı Mah.
+19500,3+1,135,,Ankara,Altındağ,Gültepe Mah.
+18000,3+1,110,25.0,Ankara,Sincan,Fatih Mah.
+13500,3+1,135,23.0,Ankara,Sincan,Mustafa Kemal Mah.
+37000,4+1,180,2.0,Ankara,Çankaya,Yukarı Dikmen Mah.
+65000,3+1,160,10.0,Ankara,Çankaya,Yıldızevler Mah.
+42000,4+1,185,6.0,Ankara,Etimesgut,Göksu Mah.
+17500,3+1,110,25.0,Ankara,Altındağ,Zübeyde Hanım Mah.
+15850,3+1,135,5.0,Ankara,Mamak,Akşemsettin Mah.
+16000,3+1,85,,Ankara,Sincan,Fevzi Çakmak Mah.
+43000,4+1,220,,Ankara,Keçiören,Ovacık Mah.
+12000,2+1,110,10.0,Ankara,Keçiören,Uyanış Mah.
+30000,2+1,95,35.0,Ankara,Çankaya,İşçi Blokları Mah.
+40000,4+1,220,1.0,Ankara,Yenimahalle,Turgut Özal Mah.
+34000,1+1,80,15.0,Ankara,Çankaya,Hilal Mah.
+18500,3+1,125,16.0,Ankara,Etimesgut,Süvari Mah.
+25000,3+1,120,20.0,Ankara,Keçiören,Kalaba Mah.
+19000,3+1,120,15.0,Ankara,Etimesgut,Piyade Mah.
+24000,2+1,85,17.0,Ankara,Sincan,Mustafa Kemal Mah.
+25000,2+1,115,9.0,Ankara,Yenimahalle,Serhat Mah.
+25000,3+1,125,,Ankara,Mamak,Akşemsettin Mah.
+19000,3+1,125,37.0,Ankara,Keçiören,Yakacık Mah.
+16000,3+1,120,25.0,Ankara,Keçiören,Kamil Ocak Mah.
+27000,4+1,250,16.0,Ankara,Keçiören,Atapark Mah.
+39000,3+1,135,7.0,Ankara,Mamak,Cengizhan Mah.
+55000,4+1,260,15.0,Ankara,Çankaya,Hilal Mah.
+38000,2+1,100,25.0,Ankara,Çankaya,Prof. Dr. Ahmet Taner Kışlalı Mah.
+36000,2+1,295,31.0,Ankara,Çankaya,Kültür Mah.
+23000,3+1,110,31.0,Ankara,Çankaya,Maltepe Mah.
+35000,4+1,200,6.0,Ankara,Yenimahalle,Aşağı Yahyalar Mah.
+13500,2+1,90,7.0,Ankara,Etimesgut,Yukarıyurtçu Mah.
+17500,3+1,100,35.0,Ankara,Yenimahalle,Yunus Emre Mah.
+42000,4+1,220,4.0,Ankara,Keçiören,Ovacık Mah.
+32000,3+1,195,5.0,Ankara,Altındağ,Baraj Mah.
+32000,1+1,70,9.0,Ankara,Çankaya,Beytepe Mah.
+15000,3+1,132,15.0,Ankara,Altındağ,Gültepe Mah.
+27500,3+1,115,16.0,Ankara,Çankaya,Akpınar Mah.
+44000,4+1,180,24.0,Ankara,Çankaya,Keklik Pınarı Mah.
+16000,3+1,120,20.0,Ankara,Mamak,Peyami Safa Mah.
+16450,3+1,140,20.0,Ankara,Sincan,Atatürk Mah.
+32000,4+1,210,2.0,Ankara,Altındağ,Karapürçek Mah.
+22000,2+1,85,17.0,Ankara,Etimesgut,Eryaman Mah.
+22000,1+1,36,1.0,Ankara,Çankaya,Dodurga Mah.
+45000,3+1,155,25.0,Ankara,Çankaya,Gaziosmanpaşa Mah.
+30500,2+1,80,4.0,Ankara,Yenimahalle,Ergazi Mah.
+16000,3+1,125,30.0,Ankara,Sincan,Plevne Mah.
+35000,3+1,140,25.0,Ankara,Keçiören,Yakacık Mah.
+26000,1+1,61,9.0,Ankara,Gölbaşı,Kızılcaşar Mah.
+42000,3+1,225,5.0,Ankara,Keçiören,Osmangazi Mah.
+25000,3+1,150,15.0,Ankara,Yenimahalle,Turgut Özal Mah.
+43000,4+1,170,3.0,Ankara,Gölbaşı,İncek Mah.
+50000,4+1,235,14.0,Ankara,Çankaya,Alacaatlı Mah.
+14750,2+1,90,,Ankara,Sincan,Menderes Mah.
+16500,3+1,115,25.0,Ankara,Yenimahalle,Esentepe Mah.
+13000,3+1,130,15.0,Ankara,Mamak,Kusunlar Mah.
+33000,4+1,200,5.0,Ankara,Keçiören,Yükseltepe Mah.
+17000,2+1,110,15.0,Ankara,Etimesgut,Topçu Mah.
+10500,2+1,75,11.0,Ankara,Mamak,Zirvekent Mah.
+17000,3+0,145,5.0,Ankara,Keçiören,Yükseltepe Mah.
+22000,3+1,130,25.0,Ankara,Çankaya,Metin Akkuş Mah.
+27000,3+1,110,20.0,Ankara,Yenimahalle,Gayret Mah.
+14500,3+1,115,13.0,Ankara,Altındağ,Battalgazi Mah.
+37500,2+1,110,40.0,Ankara,Çankaya,Oğuzlar Mah.
+22650,1+1,45,,Ankara,Çankaya,Konutkent Mah.
+75000,4+1,168,,Ankara,Çankaya,Beytepe Mah.
+33000,3+1,120,,Ankara,Çankaya,Aşıkpaşa Mah.
+12750,1+1,60,2.0,Ankara,Çubuk,Esenboğa Merkez Mah.
+20000,3+1,135,25.0,Ankara,Yenimahalle,Ergenekon Mah.
+20000,3+1,145,,Ankara,Sincan,29 Ekim Mah.
+60000,2+1,129,3.0,Ankara,Çankaya,Beytepe Mah.
+27000,2+1,95,38.0,Ankara,Çankaya,Cebeci Mah.
+22500,3+1,130,25.0,Ankara,Sincan,Yunus Emre Mah.
+15000,2+1,130,2.0,Ankara,Şereflikoçhisar,Sanayi Mah.
+19000,2+1,90,30.0,Ankara,Çankaya,Çamlıtepe Mah.
+50000,4+1,208,2.0,Ankara,Çankaya,Alacaatlı Mah.
+18000,3+1,115,15.0,Ankara,Mamak,Kutlu Mah.
+15000,3+1,130,4.0,Ankara,Mamak,Fahri Korutürk Mah.
+35000,4+1,159,2.0,Ankara,Yenimahalle,Pamuklar Mah.
+45000,2+1,134,10.0,Ankara,Çankaya,İlkbahar Mah.
+15000,3+1,135,26.0,Ankara,Yenimahalle,Ergenekon Mah.
+27000,1+1,65,6.0,Ankara,Çankaya,Alacaatlı Mah.
+23000,3+1,138,6.0,Ankara,Yenimahalle,Ata Mah.
+17000,1+1,60,,Ankara,Gölbaşı,İncek Mah.
+16000,3+1,125,25.0,Ankara,Sincan,Fatih Mah.
+44000,1+1,55,,Ankara,Çankaya,Çukurambar Mah.
+31000,3+1,180,17.0,Ankara,Etimesgut,Piyade Mah.
+24990,3+1,160,9.0,Ankara,Mamak,Kartaltepe Mah.
+24000,3+1,135,28.0,Ankara,Çankaya,Aşağı Öveçler Mah.
+25000,3+1,175,22.0,Ankara,Etimesgut,Topçu Mah.
+26500,1+1,48,7.0,Ankara,Gölbaşı,Kızılcaşar Mah.
+14500,3+1,110,10.0,Ankara,Sincan,29 Ekim Mah.
+28000,3+1,110,,Ankara,Çankaya,Aşıkpaşa Mah.
+21000,2+1,90,30.0,Ankara,Çankaya,Sokullu Mehmet Paşa Mah.
+18000,3+0,135,10.0,Ankara,Mamak,Araplar Mah.
+22000,3+1,125,25.0,Ankara,Keçiören,Tepebaşı Mah.
+23500,1+1,72,20.0,Ankara,Etimesgut,Tunahan Mah.
+24000,3+1,105,30.0,Ankara,Keçiören,Kavacık Subayevleri Mah.
+37500,3+1,170,4.0,Ankara,Gölbaşı,İncek Mah.
+33000,4+1,185,,Ankara,Etimesgut,Göksu Mah.
+27500,1+1,65,2.0,Ankara,Gölbaşı,Kızılcaşar Mah.
+15500,3+1,120,28.0,Ankara,Sincan,Atatürk Mah.
+12000,2+1,75,30.0,Ankara,Mamak,General Zeki Doğan Mah.
+30000,3+1,145,5.0,Ankara,Mamak,Ege Mah.
+45000,4+1,165,,Ankara,Çankaya,Keklik Pınarı Mah.
+20000,2+1,85,25.0,Ankara,Yenimahalle,Tepealtı Mah.
+22000,3+1,140,35.0,Ankara,Altındağ,Aydınlıkevler Mah.
+15500,3+1,118,20.0,Ankara,Keçiören,Şehit Kubilay Mah.
+14500,2+1,100,25.0,Ankara,Altındağ,Gültepe Mah.
+29000,3+1,145,35.0,Ankara,Çankaya,Güvenevler Mah.
+13500,3+1,128,25.0,Ankara,Sincan,Mustafa Kemal Mah.
+17000,3+1,140,18.0,Ankara,Keçiören,Çaldıran Mah.
+13000,2+1,100,10.0,Ankara,Keçiören,Osmangazi Mah.
+41000,3+1,135,30.0,Ankara,Çankaya,Çayyolu Mah.
+18000,3+1,120,25.0,Ankara,Keçiören,Basınevleri Mah.
+18500,3+1,125,17.0,Ankara,Etimesgut,Alsancak Mah.
+13000,2+1,70,52.0,Ankara,Altındağ,Örnek Mah.
+16000,3+1,125,20.0,Ankara,Keçiören,Kamil Ocak Mah.
+35000,4+1,170,16.0,Ankara,Çankaya,Yaşamkent Mah.
+20000,3+1,125,,Ankara,Sincan,Menderes Mah.
+39000,4+1,200,3.0,Ankara,Keçiören,Ovacık Mah.
+21000,3+1,135,26.0,Ankara,Yenimahalle,Esentepe Mah.
+27000,3+1,155,17.0,Ankara,Çankaya,Akpınar Mah.
+17000,3+1,120,9.0,Ankara,Sincan,Menderes Mah.
+10000,1+1,45,,Ankara,Çubuk,Dumlupınar Mah.
+30500,4+1,125,40.0,Ankara,Çankaya,Anıttepe Mah.
+30000,3+1,150,4.0,Ankara,Altındağ,Hacettepe Mah.
+21000,2+1,100,,Ankara,Etimesgut,Yapracık Mah.
+25000,1+1,50,,Ankara,Çankaya,Fakülteler Mah.
+16000,3+1,115,30.0,Ankara,Keçiören,Şenlik Mah.
+26000,3+1,150,5.0,Ankara,Altındağ,Karapürçek Mah.
+18000,3+1,130,50.0,Ankara,Mamak,Abidinpaşa Mah.
+33000,3+1,129,30.0,Ankara,Çankaya,Konutkent Mah.
+21000,3+1,120,23.0,Ankara,Altındağ,Aydınlıkevler Mah.
+25000,3+1,140,10.0,Ankara,Etimesgut,Elvan Mah.
+14500,2+1,114,15.0,Ankara,Keçiören,Karakaya Mah.
+25000,3+1,130,13.0,Ankara,Keçiören,Atapark Mah.
+17000,3+1,120,25.0,Ankara,Yenimahalle,Karşıyaka Mah.
+16500,2+1,100,30.0,Ankara,Keçiören,Aşağı Eğlence Mah.
+17500,2+1,85,10.0,Ankara,Çankaya,Seyranbağları Mah.
+21500,2+1,110,,Ankara,Etimesgut,Topçu Mah.
+34000,2+1,137,12.0,Ankara,Çankaya,Büyükesat Mah.
+16000,3+1,115,30.0,Ankara,Mamak,Aşık Veysel Mah.
+35000,2+1,95,,Ankara,Çankaya,Emek Mah.
+26000,3+1,130,20.0,Ankara,Yenimahalle,Demetevler Mah.
+30000,2+1,75,32.0,Ankara,Yenimahalle,Gazi Mah.
+25000,3+1,120,30.0,Ankara,Çankaya,Bayraktar Mah.
+37950,3+1,142,26.0,Ankara,Çankaya,Kazım Özalp Mah.
+28500,4+1,180,20.0,Ankara,Çankaya,Kırkkonaklar Mah.
+17000,3+1,110,45.0,Ankara,Mamak,Balkiraz Mah.
+27000,2+1,110,35.0,Ankara,Çankaya,Bahçelievler Mah.
+22750,3+1,105,30.0,Ankara,Yenimahalle,Demetevler Mah.
+25000,1+1,55,,Ankara,Çankaya,Alacaatlı Mah.
+35000,2+1,100,3.0,Ankara,Çankaya,Alacaatlı Mah.
+21000,3+1,140,8.0,Ankara,Keçiören,Yükseltepe Mah.
+21000,3+1,120,30.0,Ankara,Altındağ,Yıldıztepe Mah.
+32000,3+1,135,30.0,Ankara,Çankaya,Naci Çakır Mah.
+15000,1+1,52,,Ankara,Gölbaşı,İncek Mah.
+35000,3+1,120,45.0,Ankara,Çankaya,Ayrancı Mah.
+22000,2+1,90,17.0,Ankara,Yenimahalle,Varlık Mah.
+35000,1+1,50,6.0,Ankara,Çankaya,Aziziye Mah.
+18500,3+1,130,15.0,Ankara,Polatlı,Şehitlik Mah.
+17000,2+1,110,1.0,Ankara,Sincan,Menderes Mah.
+38000,2+1,75,,Ankara,Çankaya,Emek Mah.
+17500,3+1,120,15.0,Ankara,Mamak,General Zeki Doğan Mah.
+32500,3+1,160,1.0,Ankara,Mamak,Durali Alıç Mah.
+18500,3+1,120,22.0,Ankara,Çankaya,Metin Akkuş Mah.
+39000,2+1,135,22.0,Ankara,Çankaya,Çukurambar Mah.
+14000,1+1,60,,Ankara,Sincan,Yeniçimşit Mah.
+26000,1+1,70,5.0,Ankara,Çankaya,Büyükesat Mah.
+23500,3+1,140,18.0,Ankara,Etimesgut,Ahi Mesut Mah.
+25000,3+1,135,25.0,Ankara,Çankaya,Ehlibeyt Mah.
+45000,2+1,65,,Ankara,Çankaya,Maltepe Mah.
+25000,3+1,100,30.0,Ankara,Çankaya,Oğuzlar Mah.
+25000,1+1,80,13.0,Ankara,Gölbaşı,Kızılcaşar Mah.
+41000,2+1,65,1.0,Ankara,Çankaya,Maltepe Mah.
+44000,3+1,130,10.0,Ankara,Çankaya,İlkbahar Mah.
+10500,3+1,115,25.0,Ankara,Polatlı,Zafer Mah.
+16000,3+1,120,30.0,Ankara,Keçiören,Ayvalı Mah.
+34000,2+1,110,30.0,Ankara,Çankaya,Söğütözü Mah.
+15500,3+1,140,20.0,Ankara,Çubuk,Atatürk Mah.
+21000,3+1,130,13.0,Ankara,Mamak,Altınevler Mah.
+23500,3+1,135,12.0,Ankara,Keçiören,Atapark Mah.
+33000,4+1,150,40.0,Ankara,Çankaya,Emek Mah.
+25000,2+1,100,38.0,Ankara,Çankaya,İşçi Blokları Mah.
+15000,3+1,120,22.0,Ankara,Sincan,Akşemsettin Mah.
+25000,3+1,120,30.0,Ankara,Yenimahalle,İnönü Mah.
+30000,3+1,130,34.0,Ankara,Çankaya,Kavaklıdere Mah.
+36000,4+1,170,18.0,Ankara,Çankaya,Ata Mah.
+13000,2+1,85,12.0,Ankara,Mamak,Hürel Mah.
+25000,3+1,140,12.0,Ankara,Keçiören,Sancaktepe Mah.
+19500,1+1,48,,Ankara,Gölbaşı,İncek Mah.
+25000,3+1,165,,Ankara,Mamak,General Zeki Doğan Mah.
+17500,3+1,115,15.0,Ankara,Mamak,General Zeki Doğan Mah.
+40000,5+1,250,20.0,Ankara,Keçiören,Ayvalı Mah.
+22000,3+1,165,16.0,Ankara,Yenimahalle,Ergenekon Mah.
+59000,4+1,180,,Ankara,Çankaya,Alacaatlı Mah.
+20000,3+1,135,34.0,Ankara,Yenimahalle,Demetlale Mah.
+13500,3+1,110,35.0,Ankara,Mamak,Balkiraz Mah.
+17000,3+1,110,25.0,Ankara,Etimesgut,Kazım Karabekir Mah.
+28000,1+1,50,7.0,Ankara,Çankaya,Anıttepe Mah.
+30000,3+1,135,50.0,Ankara,Çankaya,Kazım Özalp Mah.
+25000,1+1,48,,Ankara,Keçiören,Aşağı Eğlence Mah.
+35000,3+1,130,35.0,Ankara,Çankaya,Emek Mah.
+29000,3+1,155,19.0,Ankara,Çankaya,Cevizlidere Mah.
+27000,3+1,135,22.0,Ankara,Çankaya,Aşağı Öveçler Mah.
+29500,5+1,280,10.0,Ankara,Keçiören,Uyanış Mah.
+21000,1+1,75,5.0,Ankara,Çankaya,Mürsel Uluç Mah.
+25000,3+1,118,12.0,Ankara,Mamak,Demirlibahçe Mah.
+28500,3+1,120,30.0,Ankara,Çankaya,Kavaklıdere Mah.
+9000,1+1,55,12.0,Ankara,Sincan,Gazi Mah.
+18500,3+1,105,38.0,Ankara,Keçiören,Aşağı Eğlence Mah.
+27000,3+1,130,20.0,Ankara,Keçiören,İncirli Mah.
+45000,5+1,300,15.0,Ankara,Çankaya,Büyükesat Mah.
+43000,2+1,105,,Ankara,Çankaya,Bahçelievler Mah.
+30000,1+1,40,,Ankara,Çankaya,Yukarı Bahçelievler Mah.
+17000,3+1,120,20.0,Ankara,Keçiören,Kamil Ocak Mah.
+35000,3+1,130,35.0,Ankara,Çankaya,Mebusevleri Mah.
+22500,1+1,55,,Ankara,Gölbaşı,Karşıyaka Mah.
+35000,2+1,100,40.0,Ankara,Çankaya,Kavaklıdere Mah.
+16000,2+1,80,1.0,Ankara,Çubuk,Esenboğa Merkez Mah.
+35500,3+1,130,20.0,Ankara,Çankaya,Maltepe Mah.
+35000,4+1,180,21.0,Ankara,Yenimahalle,Yunus Emre Mah.
+23000,2+1,75,40.0,Ankara,Çankaya,Maltepe Mah.
+19000,2+1,95,35.0,Ankara,Çankaya,Seyranbağları Mah.
+25000,3+1,145,45.0,Ankara,Çankaya,Bahçelievler Mah.
+20000,3+1,122,25.0,Ankara,Keçiören,Aşağı Eğlence Mah.
+17500,3+1,100,24.0,Ankara,Keçiören,Kavacık Subayevleri Mah.
+19000,3+1,135,13.0,Ankara,Etimesgut,Turkuaz Mah.
+22500,2+1,90,30.0,Ankara,Etimesgut,İstasyon Mah.
+17500,2+1,120,15.0,Ankara,Keçiören,Etlik Mah.
+24000,2+1,115,15.0,Ankara,Çankaya,Kırkkonaklar Mah.
+20500,3+1,100,15.0,Ankara,Altındağ,Güneşevler Mah.
+17000,2+1,110,12.0,Ankara,Yenimahalle,Anadolu Mah.
+25000,3+1,125,10.0,Ankara,Keçiören,Esertepe Mah.
+25000,3+1,125,10.0,Ankara,Keçiören,Esertepe Mah.
+18500,3+1,130,10.0,Ankara,Sincan,29 Ekim Mah.
+16250,2+1,90,17.0,Ankara,Keçiören,Ayvalı Mah.
+15750,1+1,60,26.0,Ankara,Etimesgut,Şeyh Şamil Mah.
+15000,1+1,65,14.0,Ankara,Sincan,Fevzi Çakmak Mah.
+28000,3+1,120,28.0,Ankara,Çankaya,Naci Çakır Mah.
+16000,3+1,105,30.0,Ankara,Yenimahalle,Ergenekon Mah.
+30000,4+1,170,25.0,Ankara,Çankaya,Karapınar Mah.
+37500,4+1,250,20.0,Ankara,Çankaya,Sancak Mah.
+23000,1+1,50,5.0,Ankara,Çankaya,Şehit Cevdet Özdemir Mah.
+18000,3+1,115,30.0,Ankara,Keçiören,Etlik Mah.
+53000,4+1,172,6.0,Ankara,Gölbaşı,Taşpınar Mah.
+16500,3+1,115,8.0,Ankara,Sincan,Fevzi Çakmak Mah.
+11000,2+1,100,10.0,Ankara,Altındağ,Karapürçek Mah.
+41000,4+1,210,13.0,Ankara,Yenimahalle,Aşağı Yahyalar Mah.
+15000,2+1,100,45.0,Ankara,Altındağ,Aydınlıkevler Mah.
+13500,2+1,105,10.0,Ankara,Keçiören,Osmangazi Mah.
+19500,3+1,130,25.0,Ankara,Keçiören,Basınevleri Mah.
+40000,4+1,195,3.0,Ankara,Keçiören,Ovacık Mah.
+36500,3+1,140,18.0,Ankara,Çankaya,Şehit Cengiz Karaca Mah.
+17500,3+1,147,20.0,Ankara,Keçiören,Karakaya Mah.
+22000,3+1,120,28.0,Ankara,Çankaya,Harbiye Mah.
+17000,3+1,125,15.0,Ankara,Etimesgut,Süvari Mah.
+15000,3+1,135,5.0,Ankara,Sincan,Alcı Mah.
+45000,3+1,125,16.0,Ankara,Çankaya,Koru Mah.
+13500,3+1,115,30.0,Ankara,Keçiören,Bağlarbaşı Mah.
+30000,2+1,60,55.0,Ankara,Çankaya,Emek Mah.
+19000,3+1,125,5.0,Ankara,Mamak,Kutlu Mah.
+15000,2+1,85,45.0,Ankara,Altındağ,Örnek Mah.
+16000,2+1,115,4.0,Ankara,Mamak,Durali Alıç Mah.
+23500,2+1,110,30.0,Ankara,Çankaya,Harbiye Mah.
+21000,3+1,140,7.0,Ankara,Mamak,Ortaköy Mah.
+25000,3+1,120,7.0,Ankara,Çankaya,Aşıkpaşa Mah.
+20000,3+1,127,22.0,Ankara,Keçiören,Kavacık Subayevleri Mah.
+20000,3+1,145,,Ankara,Sincan,29 Ekim Mah.
+27500,3+1,110,30.0,Ankara,Yenimahalle,Yunus Emre Mah.
+22000,3+1,135,7.0,Ankara,Mamak,Akşemsettin Mah.
+20500,3+1,115,30.0,Ankara,Çankaya,Harbiye Mah.
+24500,3+1,120,35.0,Ankara,Yenimahalle,Demetevler Mah.
+30000,3+1,130,18.0,Ankara,Çankaya,Çiğdem Mah.
+20000,3+1,110,35.0,Ankara,Çankaya,Ön Cebeci Mah.
+40000,4+1,200,7.0,Ankara,Yenimahalle,Turgut Özal Mah.
+19500,2+1,100,25.0,Ankara,Çankaya,Büyükesat Mah.
+24500,3+1,110,30.0,Ankara,Mamak,Abidinpaşa Mah.
+18000,1+1,55,8.0,Ankara,Etimesgut,Şehit Osman Avcı Mah.
+27000,2+1,65,,Ankara,Gölbaşı,Taşpınar Mah.
+25000,3+1,130,15.0,Ankara,Yenimahalle,Batı Sitesi Mah.
+35500,3+1,131,20.0,Ankara,Çankaya,Sancak Mah.
+37950,3+1,142,27.0,Ankara,Çankaya,Kazım Özalp Mah.
+20000,3+0,115,30.0,Ankara,Yenimahalle,Yeni Batı Mah.
+33000,3+1,118,25.0,Ankara,Çankaya,Mebusevleri Mah.
+42500,4+1,175,18.0,Ankara,Çankaya,Keklik Pınarı Mah.
+25500,3+1,135,30.0,Ankara,Çankaya,Gaziosmanpaşa Mah.
+18000,3+1,135,20.0,Ankara,Keçiören,Etlik Mah.
+15000,3+1,120,8.0,Ankara,Keçiören,Şehit Kubilay Mah.
+15000,3+1,118,12.0,Ankara,Etimesgut,Yapracık Mah.
+18500,3+1,110,9.0,Ankara,Mamak,Durali Alıç Mah.
+25000,2+1,75,1.0,Ankara,Gölbaşı,Kızılcaşar Mah.
+23000,3+1,110,45.0,Ankara,Çankaya,Tınaztepe Mah.
+60000,3+1,185,15.0,Ankara,Çankaya,Yıldızevler Mah.
+32500,3+1,135,49.0,Ankara,Çankaya,Ümit Mah.
+18000,3+1,125,16.0,Ankara,Keçiören,Yayla Mah.
+19000,3+1,135,35.0,Ankara,Yenimahalle,Demetevler Mah.
+26000,2+1,95,15.0,Ankara,Etimesgut,Devlet Mah.
+35000,4+1,160,20.0,Ankara,Çankaya,Birlik Mah.
+14000,3+1,115,16.0,Ankara,Sincan,29 Ekim Mah.
+40000,4+1,200,,Ankara,Yenimahalle,Ata Mah.
+25000,1+1,55,,Ankara,Çankaya,Ahlatlıbel Mah.
+27000,4+1,150,15.0,Ankara,Keçiören,Etlik Mah.
+21500,4+1,170,,Ankara,Mamak,Şahap Gürler Mah.
+9000,2+1,100,30.0,Ankara,Keçiören,19 Mayıs Mah.
+85000,4+1,232,5.0,Ankara,Çankaya,İlkbahar Mah.
+40000,4+1,220,15.0,Ankara,Çankaya,Akpınar Mah.
+60000,1+1,75,2.0,Ankara,Çankaya,Çukurambar Mah.
+19000,3+1,140,35.0,Ankara,Keçiören,Emrah Mah.
+13500,1+1,45,,Ankara,Çubuk,Esenboğa Merkez Mah.
+19000,2+1,100,30.0,Ankara,Mamak,General Zeki Doğan Mah.
+35000,4+1,185,15.0,Ankara,Çankaya,Birlik Mah.
+14000,2+1,90,45.0,Ankara,Çankaya,Çamlıtepe Mah.
+22000,3+1,115,35.0,Ankara,Keçiören,Kavacık Subayevleri Mah.
+11000,2+1,85,11.0,Ankara,Etimesgut,Yapracık Mah.
+35000,3+1,130,35.0,Ankara,Keçiören,Aşağı Eğlence Mah.
+17500,3+1,110,50.0,Ankara,Mamak,Demirlibahçe Mah.
+15500,3+1,120,28.0,Ankara,Sincan,Atatürk Mah.
+17500,3+1,130,33.0,Ankara,Mamak,Balkiraz Mah.
+10000,3+1,110,50.0,Ankara,Altındağ,Aydınlıkevler Mah.
+43000,4+1,170,16.0,Ankara,Yenimahalle,Kardelen Mah.
+40000,3+1,110,35.0,Ankara,Çankaya,İlkadım Mah.
+16000,2+1,100,,Ankara,Sincan,Menderes Mah.
+17500,2+1,100,5.0,Ankara,Etimesgut,Topçu Mah.
+24000,3+1,115,20.0,Ankara,Çankaya,Bağcılar Mah.
+30000,3+1,120,30.0,Ankara,Keçiören,Aşağı Eğlence Mah.
+28500,3+1,135,20.0,Ankara,Çankaya,Küçükesat Mah.
+33000,4+1,180,5.0,Ankara,Yenimahalle,Aşağı Yahyalar Mah.
+15900,3+1,115,25.0,Ankara,Etimesgut,İstasyon Mah.
+20000,3+1,135,20.0,Ankara,Sincan,Andiçen Mah.
+11500,1+1,50,,Ankara,Çubuk,Dumlupınar Mah.
+18000,3+1,120,25.0,Ankara,Keçiören,Güçlükaya Mah.
+18500,2+1,110,15.0,Ankara,Keçiören,Kalaba Mah.
+23000,3+1,130,10.0,Ankara,Pursaklar,Yunus Emre Mah.
+23000,1+1,55,1.0,Ankara,Gölbaşı,Taşpınar Mah.
+28000,3+1,140,24.0,Ankara,Keçiören,Basınevleri Mah.
+21000,3+1,140,17.0,Ankara,Etimesgut,Piyade Mah.
+17500,1+1,35,2.0,Ankara,Çankaya,Devlet Mah.
+25000,3+1,120,20.0,Ankara,Çankaya,Sokullu Mehmet Paşa Mah.
+20500,1+1,55,25.0,Ankara,Etimesgut,Şeyh Şamil Mah.
+28000,3+1,90,30.0,Ankara,Çankaya,Şehit Cevdet Özdemir Mah.
+22000,3+1,125,25.0,Ankara,Çankaya,Çiğdem Mah.
+22000,1+1,65,,Ankara,Gölbaşı,Karşıyaka Mah.
+16000,1+1,54,,Ankara,Gölbaşı,İncek Mah.
+30000,3+1,130,20.0,Ankara,Çankaya,Dodurga Mah.
+35000,3+1,120,27.0,Ankara,Çankaya,Sokullu Mehmet Paşa Mah.
+37000,2+1,85,51.0,Ankara,Çankaya,Yücetepe Mah.
+32000,3+1,130,20.0,Ankara,Çankaya,Ata Mah.
+26000,3+1,110,45.0,Ankara,Çankaya,Ayrancı Mah.
+15500,3+1,110,22.0,Ankara,Yenimahalle,Ergenekon Mah.
+35000,3+1,150,4.0,Ankara,Yenimahalle,Turgut Özal Mah.
+25000,2+1,80,45.0,Ankara,Çankaya,Maltepe Mah.
+22000,2+1,105,45.0,Ankara,Çankaya,100. Yıl Mah.
+29500,1+1,45,2.0,Ankara,Çankaya,Gaziosmanpaşa Mah.
+21500,2+1,80,40.0,Ankara,Çankaya,Çamlıtepe Mah.
+32000,1+1,98,,Ankara,Yenimahalle,Emniyet Mah.
+28000,3+1,125,28.0,Ankara,Çankaya,Aşağı Öveçler Mah.
+50000,3+2,187,,Ankara,Keçiören,Ovacık Mah.
+20000,Stüdyo,50,15.0,Ankara,Çankaya,İşçi Blokları Mah.
+31000,2+1,80,3.0,Ankara,Yenimahalle,Ergazi Mah.
+38000,2+1,75,,Ankara,Çankaya,Emek Mah.
+13000,3+1,130,17.0,Ankara,Keçiören,Bağlarbaşı Mah.
+20000,3+1,110,45.0,Ankara,Altındağ,Aydınlıkevler Mah.
+15400,2+1,100,45.0,Ankara,Altındağ,Aydınlıkevler Mah.
+29000,3+1,120,38.0,Ankara,Çankaya,Ayrancı Mah.
+15000,3+1,125,21.0,Ankara,Sincan,Akşemsettin Mah.
+30000,3+1,135,35.0,Ankara,Çankaya,İlkadım Mah.
+16000,3+1,120,7.0,Ankara,Keçiören,Şehit Kubilay Mah.
+32000,3+1,140,17.0,Ankara,Çankaya,Aşağı Öveçler Mah.
+31000,3+1,125,31.0,Ankara,Çankaya,İşçi Blokları Mah.
+24000,3+1,135,25.0,Ankara,Çankaya,Harbiye Mah.
+18500,3+1,120,15.0,Ankara,Etimesgut,Süvari Mah.
+27000,1+1,82,,Ankara,Çankaya,Beytepe Mah.
+13000,3+1,145,,Ankara,Mamak,Zirvekent Mah.
+40000,1+1,55,,Ankara,Çankaya,Maltepe Mah.
+16000,1+1,65,33.0,Ankara,Etimesgut,Eryaman Mah.
+17000,3+1,115,29.0,Ankara,Yenimahalle,Ergazi Mah.
+23000,2+1,100,45.0,Ankara,Yenimahalle,Emniyet Mah.
+15000,2+1,90,16.0,Ankara,Yenimahalle,Tepealtı Mah.
+18500,2+1,75,40.0,Ankara,Çankaya,Emek Mah.
+37500,3+1,95,2.0,Ankara,Çankaya,Anıttepe Mah.
+13500,1+1,45,,Ankara,Çubuk,Dumlupınar Mah.
+15000,3+1,120,27.0,Ankara,Sincan,Ulubatlı Hasan Mah.
+18000,3+1,115,25.0,Ankara,Keçiören,Çiçekli Mah.
+17500,3+1,120,20.0,Ankara,Keçiören,Adnan Menderes Mah.
+30000,1+1,50,,Ankara,Çankaya,Kazım Özalp Mah.
+21000,1+1,48,,Ankara,Gölbaşı,İncek Mah.
+12000,2+1,135,20.0,Ankara,Mamak,General Zeki Doğan Mah.
+17000,3+1,125,15.0,Ankara,Mamak,General Zeki Doğan Mah.
+26000,3+1,165,,Ankara,Yenimahalle,Kuzey Yıldızı Mah.
+18500,3+1,130,35.0,Ankara,Yenimahalle,Demetgül Mah.
+26000,3+1,125,20.0,Ankara,Çankaya,Malazgirt Mah.
+11500,2+1,85,42.0,Ankara,Altındağ,Aydınlıkevler Mah.
+14000,3+1,110,32.0,Ankara,Mamak,Demirlibahçe Mah.
+22000,5+1,110,35.0,Ankara,Çankaya,Oğuzlar Mah.
+16000,3+1,110,20.0,Ankara,Mamak,Tuzluçayır Mah.
+9500,Stüdyo,48,29.0,Ankara,Çankaya,İlkadım Mah.
+20000,1+1,55,,Ankara,Sincan,Yeniçimşit Mah.
+17000,3+1,120,30.0,Ankara,Keçiören,Etlik Mah.
+45000,4+1,200,35.0,Ankara,Çankaya,Kazım Özalp Mah.
+18000,3+1,135,2.0,Ankara,Altındağ,Feridun Çelik Mah.
+21000,2+1,92,30.0,Ankara,Etimesgut,Altay Mah.
+29000,4+1,190,5.0,Ankara,Pursaklar,Saray Fatih Mah.
+18000,3+1,105,35.0,Ankara,Çankaya,Keklik Pınarı Mah.
+30000,5+1,250,25.0,Ankara,Çankaya,Murat Mah.
+2000,1+1,120,1.0,Ankara,Çankaya,Çamlıtepe Mah.
+9000,1+1,42,,Ankara,Çubuk,Esenboğa Merkez Mah.
+43000,2+1,80,,Ankara,Çankaya,Aziziye Mah.
+15000,1+1,50,1.0,Ankara,Çubuk,Yıldırım Beyazıt Mah.
+39000,5+1,235,21.0,Ankara,Çankaya,Birlik Mah.
+20000,2+1,90,35.0,Ankara,Çankaya,Ön Cebeci Mah.
+22000,3+1,110,25.0,Ankara,Keçiören,İncirli Mah.
+7500,2+1,55,20.0,Ankara,Etimesgut,Atakent Mah.
+35000,2+1,85,45.0,Ankara,Çankaya,Remzi Oğuz Arık Mah.
+26500,4+1,145,15.0,Ankara,Çankaya,Şehit Cengiz Karaca Mah.
+14000,3+1,135,5.0,Ankara,Altındağ,Başpınar Mah.
+44000,4+1,175,25.0,Ankara,Çankaya,Keklik Pınarı Mah.
+35000,3+1,115,30.0,Ankara,Çankaya,Yukarı Bahçelievler Mah.
+15000,3+1,130,28.0,Ankara,Keçiören,Çaldıran Mah.
+44500,4+1,198,,Ankara,Etimesgut,Bağlıca Mah.
+22000,3+1,125,25.0,Ankara,Keçiören,Kavacık Subayevleri Mah.
+34000,2+1,90,1.0,Ankara,Çankaya,Büyükesat Mah.
+30000,3+1,100,40.0,Ankara,Çankaya,Emek Mah.
+19000,3+1,135,8.0,Ankara,Keçiören,Şehit Kubilay Mah.
+15500,3+1,130,5.0,Ankara,Altındağ,Beşikkaya Mah.
+48500,4+1,230,4.0,Ankara,Keçiören,Atapark Mah.
+35000,3+1,110,,Ankara,Gölbaşı,İncek Mah.
+35000,3+1,135,29.0,Ankara,Çankaya,Yukarı Dikmen Mah.
+63000,4+1,170,,Ankara,Çankaya,İlkbahar Mah.
+36000,1+1,50,5.0,Ankara,Çankaya,Kavaklıdere Mah.
+42500,4+1,200,,Ankara,Keçiören,Yayla Mah.
+30250,3+1,170,5.0,Ankara,Mamak,Ege Mah.
+15500,3+1,115,8.0,Ankara,Mamak,Cengizhan Mah.
+28000,3+1,165,8.0,Ankara,Yenimahalle,Pamuklar Mah.
+25500,3+1,120,19.0,Ankara,Etimesgut,Şeyh Şamil Mah.
+19500,2+1,95,35.0,Ankara,Çankaya,Topraklık Mah.
+17000,2+1,95,,Ankara,Keçiören,Çiçekli Mah.
+23000,2+1,90,30.0,Ankara,Etimesgut,Altay Mah.
+35000,3+1,145,32.0,Ankara,Çankaya,İşçi Blokları Mah.
+19000,3+1,130,15.0,Ankara,Yenimahalle,Kayalar Mah.
+25000,3+1,130,20.0,Ankara,Yenimahalle,Demetgül Mah.
+21000,1+1,90,25.0,Ankara,Keçiören,Aşağı Eğlence Mah.
+21000,3+1,115,25.0,Ankara,Keçiören,Etlik Mah.
+20500,3+1,135,25.0,Ankara,Keçiören,Etlik Mah.
+25000,3+1,125,25.0,Ankara,Çankaya,Metin Akkuş Mah.
+20000,2+1,110,10.0,Ankara,Yenimahalle,Yunus Emre Mah.
+21000,3+1,100,30.0,Ankara,Çankaya,Arka Topraklık Mah.
+42000,3+1,166,3.0,Ankara,Yenimahalle,Yeni Batı Mah.
+20500,4+1,140,17.0,Ankara,Keçiören,Ayvalı Mah.
+48000,3+1,140,25.0,Ankara,Çankaya,Üniversiteler Mah.
+27000,3+1,115,20.0,Ankara,Keçiören,Etlik Mah.
+21000,3+1,125,4.0,Ankara,Keçiören,Yükseltepe Mah.
+14900,2+1,100,13.0,Ankara,Keçiören,Şehit Kubilay Mah.
+25000,1+1,57,,Ankara,Gölbaşı,Gaziosmanpaşa Mah.
+15000,2+1,110,45.0,Ankara,Altındağ,Aydınlıkevler Mah.
+23000,2+1,95,20.0,Ankara,Çankaya,Huzur Mah.
+15500,3+1,110,20.0,Ankara,Keçiören,Uyanış Mah.
+22000,2+1,100,30.0,Ankara,Yenimahalle,Demetgül Mah.
+28750,1+1,75,,Ankara,Yenimahalle,Mehmet Akif Ersoy Mah.
+26000,3+1,155,15.0,Ankara,Keçiören,Tepebaşı Mah.
+30000,1+1,60,1.0,Ankara,Yenimahalle,İnönü Mah.
+22000,3+1,140,15.0,Ankara,Çankaya,Şehit Cengiz Karaca Mah.
+22900,2+1,105,28.0,Ankara,Çankaya,Ayrancı Mah.
+12500,3+1,110,23.0,Ankara,Keçiören,Bağlarbaşı Mah.
+25500,4+1,170,15.0,Ankara,Keçiören,Basınevleri Mah.
+22500,2+1,90,30.0,Ankara,Yenimahalle,Kentkoop Mah.
+30000,5+1,270,18.0,Ankara,Keçiören,Pınarbaşı Mah.
+17000,2+1,90,19.0,Ankara,Çankaya,Aşıkpaşa Mah.
+21500,1+1,60,12.0,Ankara,Etimesgut,Altay Mah.
+27000,2+1,110,8.0,Ankara,Çankaya,Kırkkonaklar Mah.
+32500,4+1,150,30.0,Ankara,Çankaya,Çankaya Mah.
+35000,3+1,140,30.0,Ankara,Çankaya,Ön Cebeci Mah.
+15000,3+1,135,14.0,Ankara,Keçiören,Esertepe Mah.
+20000,3+1,120,4.0,Ankara,Mamak,Ekin Mah.
+21500,1+1,55,11.0,Ankara,Etimesgut,Şehit Osman Avcı Mah.
+26000,2+1,100,25.0,Ankara,Çankaya,İlkadım Mah.
+31500,4+1,185,2.0,Ankara,Yenimahalle,Kuzey Yıldızı Mah.
+35000,5+1,250,20.0,Ankara,Çankaya,Aşıkpaşa Mah.
+21000,3+1,140,30.0,Ankara,Sincan,Ertuğrulgazi Mah.
+26000,3+1,125,24.0,Ankara,Çankaya,Şehit Cengiz Karaca Mah.
+22000,3+1,145,17.0,Ankara,Etimesgut,Topçu Mah.
+28000,4+1,145,25.0,Ankara,Çankaya,Kırkkonaklar Mah.
+15000,3+1,114,17.0,Ankara,Sincan,29 Ekim Mah.
+31000,1+1,38,,Ankara,Etimesgut,Bağlıca Mah.
+32500,3+1,130,50.0,Ankara,Çankaya,Ümit Mah.
+23999,3+1,115,,Ankara,Altındağ,Güneşevler Mah.
+20000,5+1,245,15.0,Ankara,Mamak,Tuzluçayır Mah.
+80000,2+1,94,2.0,Ankara,Çankaya,Çukurambar Mah.
+41500,1+1,65,,Ankara,Çankaya,Anıttepe Mah.
+28001,3+1,120,45.0,Ankara,Çankaya,Remzi Oğuz Arık Mah.
+21000,3+1,122,8.0,Ankara,Mamak,Mutlu Mah.
+25000,1+1,45,,Ankara,Çankaya,Maltepe Mah.
+32000,3+1,160,40.0,Ankara,Çankaya,Küçükesat Mah.
+19500,2+1,115,5.0,Ankara,Çankaya,İleri Mah.
+25000,3+1,125,7.0,Ankara,Mamak,Durali Alıç Mah.
+23000,2+1,75,40.0,Ankara,Çankaya,Korkutreis Mah.
+22000,2+1,100,24.0,Ankara,Yenimahalle,Emniyet Mah.
+26000,3+1,120,25.0,Ankara,Keçiören,Aşağı Eğlence Mah.
+30000,1+1,65,10.0,Ankara,Çankaya,Aziziye Mah.
+25000,3+1,120,38.0,Ankara,Çankaya,İlkadım Mah.
+19500,4+1,155,12.0,Ankara,Sincan,Menderes Mah.
+40000,1+1,90,6.0,Ankara,Çankaya,İşçi Blokları Mah.
+50000,3+1,126,50.0,Ankara,Çankaya,Barbaros Mah.
+17400,3+1,128,18.0,Ankara,Mamak,Şahintepe Mah.
+17000,3+1,110,15.0,Ankara,Mamak,Mutlu Mah.
+16500,3+1,130,10.0,Ankara,Mamak,Derbent Mah.
+32000,3+1,135,20.0,Ankara,Çankaya,Dumlupınar Mah.
+25000,3+1,125,19.0,Ankara,Çankaya,Cevizlidere Mah.
+16000,2+1,110,25.0,Ankara,Çankaya,İlkadım Mah.
+25000,2+1,90,30.0,Ankara,Çankaya,Maltepe Mah.
+19000,3+1,125,10.0,Ankara,Mamak,Derbent Mah.
+32000,3+1,145,25.0,Ankara,Keçiören,Aşağı Eğlence Mah.
+19250,2+1,105,4.0,Ankara,Keçiören,Yükseltepe Mah.
+17000,3+1,137,12.0,Ankara,Etimesgut,Atayurt Mah.
+28500,3+1,135,20.0,Ankara,Çankaya,Tınaztepe Mah.
+65000,4+1,269,7.0,Ankara,Çankaya,İlkbahar Mah.
+35500,2+1,116,2.0,Ankara,Etimesgut,Devlet Mah.
+14000,2+1,90,30.0,Ankara,Mamak,General Zeki Doğan Mah.
+32000,3+1,110,35.0,Ankara,Çankaya,Mebusevleri Mah.
+35000,Stüdyo,35,2.0,Ankara,Çankaya,Kızılay Mah.
+40000,4+1,155,12.0,Ankara,Etimesgut,Yeni Bağlıca Mah.
+39999,2+1,110,35.0,Ankara,Çankaya,Emek Mah.
+18000,2+1,95,25.0,Ankara,Çankaya,Bayraktar Mah.
+30000,2+1,80,40.0,Ankara,Çankaya,Emek Mah.
+16750,3+1,115,20.0,Ankara,Etimesgut,Süvari Mah.
+30000,2+1,90,35.0,Ankara,Çankaya,Büyükesat Mah.
+28000,3+1,120,40.0,Ankara,Çankaya,Kavaklıdere Mah.
+38000,2+1,95,,Ankara,Keçiören,Aşağı Eğlence Mah.
+17000,3+1,125,33.0,Ankara,Altındağ,Aydınlıkevler Mah.
+21000,2+1,95,,Ankara,Etimesgut,Yapracık Mah.
+18500,3+1,110,18.0,Ankara,Etimesgut,Atakent Mah.
+47000,2+1,140,30.0,Ankara,Çankaya,Çankaya Mah.
+18000,3+1,130,16.0,Ankara,Yenimahalle,Demetgül Mah.
+16000,2+1,100,17.0,Ankara,Sincan,Tandoğan Mah.
+22000,2+1,90,35.0,Ankara,Çankaya,İşçi Blokları Mah.
+37000,4+1,150,35.0,Ankara,Çankaya,Çankaya Mah.
+20000,3+1,150,3.0,Ankara,Mamak,Akşemsettin Mah.
+37000,2+1,90,31.0,Ankara,Çankaya,Aziziye Mah.
+32000,1+1,40,,Ankara,Çankaya,Gaziosmanpaşa Mah.
+21000,1+1,60,3.0,Ankara,Gölbaşı,Eymir Mah.
+18000,2+1,100,30.0,Ankara,Çankaya,Çamlıtepe Mah.
+15000,2+1,85,50.0,Ankara,Yenimahalle,Gayret Mah.
+16500,2+1,90,31.0,Ankara,Keçiören,Aşağı Eğlence Mah.
+26500,1+1,65,5.0,Ankara,Gölbaşı,Eymir Mah.
+19000,3+1,95,38.0,Ankara,Çankaya,İleri Mah.
+15000,2+1,70,26.0,Ankara,Yenimahalle,Esentepe Mah.
+7500,Stüdyo,40,1.0,Ankara,Çubuk,Esenboğa Merkez Mah.
+16000,3+1,118,12.0,Ankara,Etimesgut,Atayurt Mah.
+37000,3+1,135,40.0,Ankara,Çankaya,Güvenevler Mah.
+14500,3+1,130,12.0,Ankara,Keçiören,Esertepe Mah.
+23000,3+1,125,30.0,Ankara,Çankaya,İlkadım Mah.
+22000,2+1,135,10.0,Ankara,Yenimahalle,Çarşı Mah.
+13000,2+1,95,15.0,Ankara,Etimesgut,Turkuaz Mah.
+28000,4+1,170,30.0,Ankara,Çankaya,Büyükesat Mah.
+31000,3+1,120,29.0,Ankara,Çankaya,Keklik Pınarı Mah.
+15000,2+1,90,20.0,Ankara,Yenimahalle,Tepealtı Mah.
+23000,3+1,120,35.0,Ankara,Çankaya,Kültür Mah.
+31000,1+1,50,7.0,Ankara,Çankaya,Bahçelievler Mah.
+16500,3+1,120,25.0,Ankara,Etimesgut,Oğuzlar Mah.
+25000,3+1,120,25.0,Ankara,Çankaya,Aşağı Öveçler Mah.
+10300,2+1,90,10.0,Ankara,Mamak,Zirvekent Mah.
+36000,2+1,90,,Ankara,Mamak,Ege Mah.
+33000,1+1,64,5.0,Ankara,Çankaya,Çukurambar Mah.
+45000,3+1,130,5.0,Ankara,Yenimahalle,Emniyet Mah.
+35000,2+1,100,,Ankara,Çankaya,Bahçelievler Mah.
+20000,2+1,100,45.0,Ankara,Çankaya,Cebeci Mah.
+18000,2+1,100,30.0,Ankara,Yenimahalle,Karşıyaka Mah.
+25000,3+1,135,26.0,Ankara,Yenimahalle,Demetgül Mah.
+52500,4+1,240,2.0,Ankara,Gölbaşı,Taşpınar Mah.
+22000,3+1,85,40.0,Ankara,Çankaya,Emek Mah.
+20000,1+1,60,,Ankara,Gölbaşı,Taşpınar Mah.
+17000,3+1,115,26.0,Ankara,Sincan,Fatih Mah.
+1800,1+1,120,1.0,Ankara,Çankaya,Çamlıtepe Mah.
+10500,3+1,105,12.0,Ankara,Polatlı,Mehmet Akif Mah.
+18000,2+1,90,25.0,Ankara,Yenimahalle,Işınlar Mah.
+26000,3+1,110,3.0,Ankara,Keçiören,Ovacık Mah.
+14000,2+1,90,10.0,Ankara,Altındağ,Karacaören Mah.
+25000,3+1,140,18.0,Ankara,Çankaya,Birlik Mah.
+25000,1+1,65,,Ankara,Kahramankazan,Saray Mah.
+27500,2+1,85,30.0,Ankara,Çankaya,Maltepe Mah.
+25000,3+1,130,16.0,Ankara,Keçiören,Ayvalı Mah.
+26000,2+1,95,36.0,Ankara,Çankaya,Emek Mah.
+55000,3+1,165,40.0,Ankara,Çankaya,Çankaya Mah.
+52000,2+1,110,7.0,Ankara,Çankaya,Büyükesat Mah.
+16000,3+1,110,9.0,Ankara,Mamak,Gülveren Mah.
+34000,3+1,135,20.0,Ankara,Çankaya,Balgat Mah.
+38000,1+1,45,,Ankara,Çankaya,Çankaya Mah.
+22000,1+1,60,8.0,Ankara,Etimesgut,Eryaman Mah.
+19000,2+1,100,35.0,Ankara,Yenimahalle,Gazi Mah.
+14000,2+1,110,18.0,Ankara,Keçiören,Ayvalı Mah.
+18500,3+1,150,24.0,Ankara,Mamak,Kartaltepe Mah.
+28000,3+1,110,40.0,Ankara,Çankaya,Güzeltepe Mah.
+30000,3+1,130,20.0,Ankara,Çankaya,Oğuzlar Mah.
+11500,2+1,90,25.0,Ankara,Mamak,Tuzluçayır Mah.
+30000,2+1,90,1.0,Ankara,Gölbaşı,Taşpınar Mah.
+25000,3+1,120,40.0,Ankara,Çankaya,Remzi Oğuz Arık Mah.
+13000,2+1,86,12.0,Ankara,Etimesgut,Atayurt Mah.
+35000,3+1,180,28.0,Ankara,Çankaya,Sancak Mah.
+35000,3+1,120,35.0,Ankara,Çankaya,Koru Mah.
+26000,3+1,110,45.0,Ankara,Çankaya,Kavaklıdere Mah.
+17000,2+1,75,20.0,Ankara,Çankaya,Seyranbağları Mah.
+36500,2+1,135,1.0,Ankara,Çankaya,Kırkkonaklar Mah.
+15500,3+1,112,16.0,Ankara,Mamak,Bahçeleriçi Mah.
+27000,4+1,190,25.0,Ankara,Keçiören,İncirli Mah.
+18000,3+1,120,25.0,Ankara,Keçiören,Ayvalı Mah.
+55000,3+1,160,11.0,Ankara,Çankaya,Aziziye Mah.
+14000,2+1,95,25.0,Ankara,Sincan,İstasyon Mah.
+48000,4+1,220,4.0,Ankara,Keçiören,Atapark Mah.
+32500,3+1,130,25.0,Ankara,Yenimahalle,Demetgül Mah.
+30000,2+1,110,1.0,Ankara,Çankaya,Kültür Mah.
+18500,2+1,110,10.0,Ankara,Keçiören,Yayla Mah.
+22000,2+1,95,,Ankara,Etimesgut,Atayurt Mah.
+18000,2+1,100,45.0,Ankara,Keçiören,Aşağı Eğlence Mah.
+26500,3+1,145,10.0,Ankara,Mamak,Ege Mah.
+22000,2+1,120,35.0,Ankara,Çankaya,Sağlık Mah.
+43000,4+1,205,11.0,Ankara,Çankaya,Yaşamkent Mah.
+22000,3+1,90,26.0,Ankara,Etimesgut,Tunahan Mah.
+18500,3+1,115,30.0,Ankara,Keçiören,Şefkat Mah.
+20000,3+1,135,9.0,Ankara,Keçiören,Şehit Kubilay Mah.
+17000,3+1,125,25.0,Ankara,Keçiören,Tepebaşı Mah.
+53000,4+1,175,10.0,Ankara,Etimesgut,Göksu Mah.
+12500,3+1,120,30.0,Ankara,Keçiören,Ayvalı Mah.
+63000,4+1,195,16.0,Ankara,Çankaya,Beytepe Mah.
+28500,3+1,120,25.0,Ankara,Keçiören,Kavacık Subayevleri Mah.
+29000,3+1,145,18.0,Ankara,Keçiören,Aşağı Eğlence Mah.
+16500,2+1,110,25.0,Ankara,Keçiören,Ayvalı Mah.
+15500,3+1,110,30.0,Ankara,Keçiören,Aşağı Eğlence Mah.
+13000,2+1,120,25.0,Ankara,Keçiören,Kavacık Subayevleri Mah.
+25000,3+1,155,21.0,Ankara,Yenimahalle,Ostim OSB Mah.
+26000,3+1,140,25.0,Ankara,Keçiören,Ayvalı Mah.
+23500,3+1,120,25.0,Ankara,Yenimahalle,Demetgül Mah.
+35000,2+1,90,,Ankara,Altındağ,Hacettepe Mah.
+25000,3+1,135,18.0,Ankara,Mamak,Kartaltepe Mah.
+17000,3+1,140,4.0,Ankara,Altındağ,Battalgazi Mah.
+16500,3+0,117,15.0,Ankara,Etimesgut,Atayurt Mah.
+27000,3+1,100,30.0,Ankara,Çankaya,Harbiye Mah.
+15500,3+1,135,15.0,Ankara,Sincan,Malazgirt Mah.
+16000,3+1,125,30.0,Ankara,Keçiören,Etlik Mah.
+40000,4+1,180,13.0,Ankara,Çankaya,Cevizlidere Mah.
+11000,3+1,109,35.0,Ankara,Keçiören,Kavacık Subayevleri Mah.
+25000,1+1,58,5.0,Ankara,Yenimahalle,Ergazi Mah.
+24000,1+1,50,1.0,Ankara,Yenimahalle,Yeni Batı Mah.
+25000,3+1,150,18.0,Ankara,Çankaya,Kırkkonaklar Mah.
+16500,3+1,115,12.0,Ankara,Keçiören,Esertepe Mah.
+18000,3+1,110,35.0,Ankara,Çankaya,Ertuğrulgazi Mah.
+43000,3+1,140,5.0,Ankara,Etimesgut,Eryaman Mah.
+37500,2+1,132,,Ankara,Gölbaşı,Kızılcaşar Mah.
+25000,4+1,130,12.0,Ankara,Keçiören,19 Mayıs Mah.
+14000,3+1,115,16.0,Ankara,Keçiören,Etlik Mah.
+22500,3+1,100,1.0,Ankara,Gölbaşı,İncek Mah.
+15500,3+1,110,15.0,Ankara,Altındağ,Battalgazi Mah.
+30000,3+1,150,20.0,Ankara,Çankaya,Harbiye Mah.
+25000,3+1,140,15.0,Ankara,Çankaya,Şehit Cengiz Karaca Mah.
+10000,3+1,155,2.0,Ankara,Sincan,Alcı Mah.
+60000,1+1,75,,Ankara,Çankaya,Çukurambar Mah.
+23750,2+1,75,15.0,Ankara,Etimesgut,Göksu Mah.
+51500,4+1,185,5.0,Ankara,Çankaya,Ata Mah.
+32000,3+1,140,35.0,Ankara,Çankaya,Çankaya Mah.
+10000,1+1,20,15.0,Ankara,Sincan,Pınarbaşı Mah.
+33000,2+1,120,25.0,Ankara,Çankaya,Prof. Dr. Ahmet Taner Kışlalı Mah.
+21000,2+1,120,40.0,Ankara,Çankaya,Esatoğlu Mah.
+10000,2+1,80,15.0,Ankara,Mamak,Zirvekent Mah.
+27000,3+1,145,27.0,Ankara,Çankaya,Harbiye Mah.
+23500,3+1,120,,Ankara,Keçiören,Sanatoryum
+34000,2+1,82,,Ankara,Etimesgut,Eryaman
+37500,3+1,170,,Ankara,Çankaya,Öveçler
+21500,1+1,50,,Ankara,Gölbaşı,Merkez
+24000,1+1,65,,Ankara,Etimesgut,Çarşı
+43000,3+1,165,,Ankara,Çankaya,Kırkkonaklar
+26500,1+1,60,,Ankara,Çankaya,Gaziosmanpaşa(Gop)
+30000,1+1,40,,Ankara,Çankaya,Kızılay
+27000,3+1,125,,Ankara,Çankaya,Öveçler
+21000,3+1,120,,Ankara,Yenimahalle,Demetevler
+15000,2+1,70,,Ankara,Altındağ,Merkez
+25000,2+1,105,,Ankara,Çankaya,Kırkkonaklar
+34000,3+1,120,,Ankara,Çankaya,Bahçelievler
+42000,4+1,185,,Ankara,Etimesgut,Merkez
+47000,2+1,130,,Ankara,Çankaya,Çayyolu/Ümitköy
+21500,2+1,90,,Ankara,Yenimahalle,Merkez
+55000,2+1,120,,Ankara,Çankaya,Ayrancı
+25000,1+1,65,,Ankara,Çankaya,Çayyolu/Ümitköy
+19750,2+1,100,,Ankara,Çankaya,Dikmen
+21000,1+1,45,,Ankara,Çankaya,Çayyolu/Ümitköy
+20000,3+1,135,,Ankara,Yenimahalle,Demetevler
+30000,1+1,100,,Ankara,Çankaya,Merkez
+34000,2+1,130,,Ankara,Çankaya,Yıldız
+18000,2+1,90,,Ankara,Yenimahalle,Batıkent
+35000,3+1,120,,Ankara,Çankaya,Yıldız
+33000,2+1,100,,Ankara,Çankaya,Cebeci
+26500,1+1,48,,Ankara,Gölbaşı,Merkez
+36500,1.5+1,97,,Ankara,Çankaya,Yıldız
+32500,1+1,60,,Ankara,Çankaya,Gaziosmanpaşa(Gop)
+17000,1+1,70,,Ankara,Çankaya,Çayyolu/Ümitköy
+32500,1+1,60,,Ankara,Çankaya,Gaziosmanpaşa(Gop)
+26500,3+1,165,,Ankara,Yenimahalle,Merkez
+63000,4+1,180,,Ankara,Çankaya,Çayyolu/Ümitköy
+45500,2+1,85,,Ankara,Çankaya,Çayyolu/Ümitköy
+25000,1+1,55,,Ankara,Çankaya,Cebeci
+40000,5+1,220,,Ankara,Yenimahalle,Batıkent
+53000,3+1,135,,Ankara,Çankaya,Yıldız
+30000,1+1,85,,Ankara,Yenimahalle,A.O.Çiftliği(Aoç)
+16500,3+1,110,,Ankara,Keçiören,Merkez
+21000,3+1,120,,Ankara,Keçiören,Etlik / İncirli
+19000,3+1,128,,Ankara,Keçiören,Etlik / İncirli
+17500,2+1,120,,Ankara,Keçiören,Etlik / İncirli
+33000,2+1,105,,Ankara,Gölbaşı,Merkez
+22000,3+1,125,,Ankara,Çankaya,Öveçler
+23500,3+1,135,,Ankara,Keçiören,Esertepe / Yayla
+15000,2+1,110,,Ankara,Sincan,Merkez
+25500,3+1,115,,Ankara,Yenimahalle,Batıkent
+19000,3+1,145,,Ankara,Sincan,Yenikent
+16500,1+1,51,,Ankara,Gölbaşı,Merkez
+20000,3+1,135,,Ankara,Sincan,Merkez
+24500,3+1,120,,Ankara,Çankaya,Dikmen
+40000,1+1,78,,Ankara,Çankaya,Balgat
+18500,3+1,110,,Ankara,Çankaya,Dikmen
+18500,3+1,130,,Ankara,Mamak,Boğaziçi
+13500,2+1,110,,Ankara,Sincan,Yenikent
+36000,1+1,76,,Ankara,Çankaya,Dikmen
+13750,3+1,125,,Ankara,Sincan,Merkez
+17500,2+1,95,,Ankara,Mamak,Boğaziçi
+12500,3+1,128,,Ankara,Keçiören,Sanatoryum
+16000,3+1,118,,Ankara,Sincan,Merkez
+18000,3+1,134,,Ankara,Keçiören,Etlik / İncirli
+26000,1+1,45,,Ankara,Çankaya,Kızılay
+25000,2+1,85,,Ankara,Gölbaşı,Merkez
+38900,3+1,176,,Ankara,Çankaya,Çayyolu/Ümitköy
+40000,2+1,120,,Ankara,Çankaya,Dikmen
+20000,1+1,55,,Ankara,Etimesgut,Eryaman
+32000,3+1,120,,Ankara,Çankaya,Merkez
+90000,4+1,180,,Ankara,Çankaya,Dikmen
+20000,4+1,150,,Ankara,Keçiören,Ufuktepe
+31000,3+1,120,,Ankara,Çankaya,Merkez
+22000,3+1,100,,Ankara,Etimesgut,Eryaman
+40000,3+1,125,,Ankara,Çankaya,Çayyolu/Ümitköy
+14500,3+1,120,,Ankara,Keçiören,Etlik / İncirli
+13500,3+1,125,,Ankara,Altındağ,Ulubey
+18000,3+1,110,,Ankara,Keçiören,Aktepe
+18000,3+1,120,,Ankara,Çankaya,Öveçler
+19000,2+1,95,,Ankara,Keçiören,Etlik / İncirli
+25000,2+1,115,,Ankara,Yenimahalle,Ostim
+28000,3+1,150,,Ankara,Çankaya,Dikmen
+15500,3+1,135,,Ankara,Mamak,Boğaziçi
+18500,3+1,120,,Ankara,Sincan,Merkez
+16500,3+1,120,,Ankara,Pursaklar,Merkez
+21000,3+1,145,,Ankara,Keçiören,Esertepe / Yayla
+28000,3+1,145,,Ankara,Çankaya,Öveçler
+13500,4+1,140,,Ankara,Altındağ,Yeşilöz
+11500,1+1,90,,Ankara,Mamak,Boğaziçi
+19500,3+1,130,,Ankara,Keçiören,Etlik / İncirli
+25000,3+1,165,,Ankara,Mamak,Boğaziçi
+23000,2+1,90,,Ankara,Gölbaşı,Merkez
+60000,4+1,185,,Ankara,Çankaya,Balgat
+36000,1+1,68,,Ankara,Keçiören,Etlik / İncirli
+45000,2+1,105,,Ankara,Çankaya,Çayyolu/Ümitköy
+23000,3+1,160,,Ankara,Sincan,Yenikent
+32500,2+1,115,,Ankara,Yenimahalle,A.O.Çiftliği(Aoç)
+20000,2+1,100,,Ankara,Etimesgut,Eryaman
+20500,3+1,155,,Ankara,Sincan,Yenikent
+24999,3+1,120,,Ankara,Çankaya,Öveçler
+20000,1+1,60,,Ankara,Gölbaşı,Merkez
+43500,4+1,164,,Ankara,Çankaya,Balgat
+20000,3+1,142,,Ankara,Keçiören,Esertepe / Yayla
+35000,5+1,220,,Ankara,Çankaya,Öveçler
+16500,3+1,135,,Ankara,Pursaklar,Merkez
+20000,3+1,110,,Ankara,Yenimahalle,Şentepe
+21000,3+1,135,,Ankara,Keçiören,Esertepe / Yayla
+16500,3+1,125,,Ankara,Keçiören,Etlik / İncirli
+24000,3+1,132,,Ankara,Gölbaşı,Merkez
+35000,4+1,220,,Ankara,Keçiören,Esertepe / Yayla
+20500,3+1,135,,Ankara,Keçiören,Etlik / İncirli
+13000,3+1,130,,Ankara,Keçiören,Etlik / İncirli
+30000,1+1,50,,Ankara,Çankaya,Gaziosmanpaşa(Gop)
+27000,1+1,60,,Ankara,Gölbaşı,Merkez
+29000,3+1,105,,Ankara,Çankaya,Balgat
+36000,4+1,170,,Ankara,Çankaya,Öveçler
+15500,2+1,95,,Ankara,Etimesgut,Çarşı
+18000,3+1,145,,Ankara,Sincan,Merkez
+16000,2+1,105,,Ankara,Sincan,Merkez
+25000,3+1,130,,Ankara,Keçiören,Ufuktepe
+28000,3+1,120,,Ankara,Etimesgut,Merkez
+30000,3+1,130,,Ankara,Çankaya,Anıttepe
+22000,3+1,130,,Ankara,Mamak,Boğaziçi
+19000,3+1,125,,Ankara,Keçiören,Etlik / İncirli
+29500,3+1,110,,Ankara,Çankaya,Dikmen
+24000,3+1,100,,Ankara,Çankaya,Gaziosmanpaşa(Gop)
+15000,1+1,55,,Ankara,Etimesgut,Eryaman
+15500,3+1,130,,Ankara,Keçiören,Etlik / İncirli
+18500,2+1,100,,Ankara,Çankaya,Kızılay
+24500,1+1,65,,Ankara,Çankaya,Dikmen
+14000,3+1,130,,Ankara,Akyurt,Merkez
+26000,3+1,140,,Ankara,Çankaya,Balgat
+25000,3+1,105,,Ankara,Yenimahalle,Merkez
+14000,2+1,100,,Ankara,Sincan,Yenikent
+28000,3+1,160,,Ankara,Pursaklar,Merkez
+22000,4+1,185,,Ankara,Keçiören,Esertepe / Yayla
+25000,3+1,125,,Ankara,Yenimahalle,Demetevler
+25000,3+1,160,,Ankara,Sincan,Fatih
+53000,4+1,222,,Ankara,Gölbaşı,Merkez
+25000,3+1,145,,Ankara,Çankaya,Bahçelievler
+13500,1+1,90,,Ankara,Keçiören,Şenlik/Güçlükaya
+30000,2+1,98,,Ankara,Çankaya,Balgat
+15500,3+1,110,,Ankara,Mamak,Misket
+20000,3+1,135,,Ankara,Altındağ,Merkez
+27500,3+1,115,,Ankara,Çankaya,Balgat
+37200,1+1,55,,Ankara,Çankaya,Merkez
+24000,3+1,130,,Ankara,Keçiören,Etlik / İncirli
+12500,3+1,110,,Ankara,Keçiören,Şenlik/Güçlükaya
+21500,1+1,62,,Ankara,Etimesgut,Eryaman
+16500,3+1,125,,Ankara,Keçiören,Ufuktepe
+27000,3+1,156,,Ankara,Etimesgut,Çarşı
+20000,2+1,115,,Ankara,Yenimahalle,Batıkent
+16500,3+1,110,,Ankara,Mamak,Akdere
+27500,1+1,60,,Ankara,Yenimahalle,Batıkent
+45000,4+1,220,,Ankara,Etimesgut,Çarşı
+30000,2+1,90,,Ankara,Yenimahalle,Batıkent
+30000,3+1,158,,Ankara,Keçiören,Esertepe / Yayla
+11900,3+1,100,,Ankara,Sincan,Merkez
+29000,2+1,90,,Ankara,Yenimahalle,Merkez
+30000,3+1,158,,Ankara,Çankaya,Yıldız
+26000,2.5+1,130,,Ankara,Yenimahalle,Ostim
+15500,2+1,100,,Ankara,Etimesgut,Çarşı
+15000,3+1,140,,Ankara,Etimesgut,Çarşı
+23000,1+1,47,,Ankara,Gölbaşı,Merkez
+35000,1+1,90,,Ankara,Çankaya,Çayyolu/Ümitköy
+25000,3+1,110,,Ankara,Yenimahalle,Batıkent
+25000,3+1,100,,Ankara,Yenimahalle,Demetevler
+33000,2+1,55,,Ankara,Çankaya,Gaziosmanpaşa(Gop)
+20000,3+1,130,,Ankara,Keçiören,Sanatoryum
+30000,4+1,120,,Ankara,Çankaya,Zafertepe
+18500,Stüdyo (1+0),35,,Ankara,Etimesgut,Eryaman
+37000,3+1,160,,Ankara,Etimesgut,Çarşı
+55000,5+2,350,,Ankara,Çankaya,Çayyolu/Ümitköy
+12500,3+1,85,,Ankara,Keçiören,Kalaba
+26000,4+1,240,,Ankara,Keçiören,Kalaba
+32000,2+1,110,,Ankara,Çankaya,Merkez
+20000,1+1,45,,Ankara,Gölbaşı,Merkez
+19000,3+1,130,,Ankara,Mamak,Misket
+12000,2+1,95,,Ankara,Nallıhan,Merkez
+16750,1+1,45,,Ankara,Gölbaşı,Merkez
+30000,3+1,160,,Ankara,Yenimahalle,Şentepe
+35000,3+1,200,,Ankara,Mamak,Kayaş
+40000,3+1,148,,Ankara,Çankaya,Yıldız
+56500,3+1,135,,Ankara,Çankaya,Yıldız
+22000,3+1,140,,Ankara,Yenimahalle,Şentepe
+13900,2+1,90,,Ankara,Mamak,Akdere
+24500,1+1,55,,Ankara,Gölbaşı,Merkez
+20000,1+1,50,,Ankara,Gölbaşı,Merkez
+23000,1+1,50,,Ankara,Gölbaşı,Merkez
+15000,3+1,125,,Ankara,Mamak,Misket
+38000,4+1,175,,Ankara,Çankaya,Öveçler
+20000,2+1,100,,Ankara,Keçiören,Sanatoryum
+24000,1+1,60,,Ankara,Etimesgut,Çarşı
+28000,3+1,120,,Ankara,Yenimahalle,Batıkent
+25000,3+1,150,,Ankara,Yenimahalle,Merkez
+35000,1+1,72,,Ankara,Çankaya,Balgat
+12000,2+0,65,,Ankara,Çubuk,Merkez
+19500,3+1,130,,Ankara,Pursaklar,Merkez
+24500,1+1,65,,Ankara,Etimesgut,Merkez
+21000,1+1,70,,Ankara,Etimesgut,Eryaman
+23000,2+1,110,,Ankara,Sincan,Fatih
+25000,2+1,90,,Ankara,Çankaya,Kızılay
+19000,3+1,130,,Ankara,Kızılcahamam,Merkez
+25000,2+1,90,,Ankara,Çankaya,Kızılay
+19000,3+1,130,,Ankara,Kızılcahamam,Merkez
+25000,3+1,140,,Ankara,Sincan,Merkez
+36000,2+1,95,,Ankara,Gölbaşı,Merkez
+20000,3+1,110,,Ankara,Yenimahalle,Merkez
+16000,3+1,120,,Ankara,Mamak,Boğaziçi
+32000,3+1,170,,Ankara,Yenimahalle,Merkez
+15000,3+1,115,,Ankara,Mamak,Misket
+25000,2+1,100,,Ankara,Çankaya,Öveçler
+22000,2+1,100,,Ankara,Yenimahalle,A.O.Çiftliği(Aoç)
+17500,3+1,130,,Ankara,Sincan,Merkez
+17000,3+1,115,,Ankara,Keçiören,Sanatoryum
+18000,3+1,115,,Ankara,Çankaya,Dikmen
+25500,1+1,35,,Ankara,Gölbaşı,Merkez
+18500,3+1,120,,Ankara,Sincan,Merkez
+17000,3+1,110,,Ankara,Çankaya,Zafertepe
+48000,6+2,320,,Ankara,Yenimahalle,Batıkent
+27000,3+1,115,,Ankara,Yenimahalle,Batıkent
+16000,3+1,130,,Ankara,Sincan,Merkez
+14500,2+1,90,,Ankara,Sincan,Merkez
+22500,3+1,110,,Ankara,Keçiören,Etlik / İncirli
+17000,3+1,105,,Ankara,Yenimahalle,Merkez
+26000,3+1,125,,Ankara,Sincan,Merkez
+26500,2+1,110,,Ankara,Çankaya,Dikmen
+35000,2+1,85,,Ankara,Çankaya,Küçükesat
+29990,3+1,140,,Ankara,Çankaya,Bahçelievler
+15500,3+1,130,,Ankara,Sincan,Temelli
+8000,2.5+1,100,,Ankara,Yenimahalle,Merkez
+27000,4+1,180,,Ankara,Pursaklar,Merkez
+32000,3+1,140,,Ankara,Çankaya,Bahçelievler
+17000,3+1,120,,Ankara,Mamak,Gülveren
+36500,3+1,160,,Ankara,Çankaya,Dikmen
+27000,3+1,110,,Ankara,Çankaya,Kırkkonaklar
+25000,3+1,110,,Ankara,Çankaya,Dikmen
+32500,2+1,113,,Ankara,Etimesgut,Çarşı
+18000,3+1,130,,Ankara,Etimesgut,Çarşı
+35000,2+1,116,,Ankara,Etimesgut,Merkez
+19000,3+1,120,,Ankara,Keçiören,Aktepe
+14000,1+1,55,,Ankara,Sincan,Merkez
+35500,4+1,170,,Ankara,Çankaya,Yıldız
+22000,2+1,90,,Ankara,Yenimahalle,Demetevler
+42000,2+1,130,,Ankara,Gölbaşı,Merkez
+30000,2+1,85,,Ankara,Etimesgut,Eryaman
+28000,3+1,150,,Ankara,Çankaya,Yıldız
+29000,3+1,155,,Ankara,Keçiören,Etlik / İncirli
+17000,Stüdyo (1+0),45,,Ankara,Yenimahalle,Demetevler
+40000,2+1,75,,Ankara,Çankaya,Bahçelievler
+25000,4+1,200,,Ankara,Etimesgut,Merkez
+17500,3+1,145,,Ankara,Keçiören,Ufuktepe
+37000,2+1,100,,Ankara,Çankaya,Gaziosmanpaşa(Gop)
+20000,1+1,70,,Ankara,Etimesgut,Eryaman
+30000,4+1,170,,Ankara,Keçiören,Ufuktepe
+15000,3+1,135,,Ankara,Çubuk,Merkez
+35000,3+1,140,,Ankara,Mamak,Kayaş
+31000,3+1,120,,Ankara,Etimesgut,Merkez
+20900,3+1,135,,Ankara,Keçiören,Esertepe / Yayla
+30000,3+1,155,,Ankara,Yenimahalle,Batıkent
+42000,4+1,180,,Ankara,Yenimahalle,Merkez
+25000,1+1,75,,Ankara,Çankaya,Merkez
+36000,2+1,90,,Ankara,Çankaya,Bahçelievler
+18000,3+1,125,,Ankara,Keçiören,Esertepe / Yayla
+30000,2+1,120,,Ankara,Keçiören,Sanatoryum
+25900,3+1,128,,Ankara,Çankaya,Balgat
+30000,5+1,210,,Ankara,Keçiören,Etlik / İncirli
+85000,4+1,195,,Ankara,Yenimahalle,A.O.Çiftliği(Aoç)
+35000,1+1,70,,Ankara,Çankaya,Öveçler
+25000,3+1,120,,Ankara,Çankaya,Bahçelievler
+36000,4+1,174,,Ankara,Çankaya,Dikmen
+42500,4+1,200,,Ankara,Yenimahalle,Merkez
+32000,2+1,85,,Ankara,Gölbaşı,Merkez
+17500,1+1,55,,Ankara,Sincan,Merkez
+22500,6+1,230,,Ankara,Keçiören,Esertepe / Yayla
+13500,2+1,120,,Ankara,Sincan,Merkez
+18500,2+1,100,,Ankara,Sincan,Yenikent
+17500,3+1,120,,Ankara,Keçiören,Sanatoryum
+21000,3+1,140,,Ankara,Keçiören,Ufuktepe
+20000,3+1,137,,Ankara,Etimesgut,Merkez
+16000,2+1,100,,Ankara,Sincan,Merkez
+22500,3+1,135,,Ankara,Yenimahalle,Merkez
+100000,4+1,199,,Ankara,Çankaya,Çayyolu/Ümitköy
+18000,3+1,125,,Ankara,Pursaklar,Merkez
+38000,3+1,105,,Ankara,Çankaya,Çayyolu/Ümitköy
+26000,1+1,70,,Ankara,Çankaya,Çayyolu/Ümitköy
+28000,4+1,175,,Ankara,Yenimahalle,Merkez
+14500,2+1,67,,Ankara,Çubuk,Merkez
+25000,3+1,110,,Ankara,Sincan,Fatih
+48000,4+1,195,,Ankara,Yenimahalle,Batıkent
+19000,1+1,35,,Ankara,Çankaya,Çayyolu/Ümitköy
+55000,4+1,196,,Ankara,Etimesgut,Çarşı
+20000,2+1,75,,Ankara,Çankaya,Anıttepe
+61000,4+1,210,,Ankara,Çankaya,Çayyolu/Ümitköy
+13500,3+1,115,,Ankara,Sincan,Merkez
+18000,3+1,100,,Ankara,Mamak,Demirlibahçe
+22000,1+1,50,,Ankara,Çankaya,Çayyolu/Ümitköy
+9000,1+1,42,,Ankara,Çubuk,Merkez
+22000,3+1,120,,Ankara,Sincan,Merkez
+6000,3+1,180,,Ankara,Yenimahalle,Demetevler
+18000,3+1,135,,Ankara,Sincan,Yenikent
+42500,4+1,160,,Ankara,Etimesgut,Çarşı
+24250,3+1,125,,Ankara,Altındağ,Hasköy
+30000,3+1,120,,Ankara,Çankaya,Dikmen
+32000,2+1,95,,Ankara,Çankaya,Bahçelievler
+17000,3+1,140,,Ankara,Kahramankazan,Kazan
+10000,2+1,90,,Ankara,Yenimahalle,Şentepe
+16000,3+1,145,,Ankara,Mamak,Misket
+21000,1+1,52,,Ankara,Yenimahalle,Batıkent
+20000,3+1,115,,Ankara,Sincan,Merkez
+14000,1+1,45,,Ankara,Çubuk,Merkez
+35500,3+1,125,,Ankara,Yenimahalle,Merkez
+17000,3+1,110,,Ankara,Mamak,Boğaziçi
+21000,2+1,110,,Ankara,Etimesgut,Çarşı
+28750,2+1,95,,Ankara,Yenimahalle,İstasyon
+35500,3+1,120,,Ankara,Çankaya,Gaziosmanpaşa(Gop)
+17500,3+1,120,,Ankara,Yenimahalle,Batıkent
+11000,3+1,160,,Ankara,Sincan,Temelli
+25000,3+1,135,,Ankara,Çankaya,Cebeci
+25000,2+1,110,,Ankara,Etimesgut,Çarşı
+40000,3+1,105,,Ankara,Çankaya,Ayrancı
+29500,3+1,140,,Ankara,Yenimahalle,Demetevler
+12000,3+1,110,,Ankara,Kahramankazan,Kazan
+20000,2+1,65,,Ankara,Gölbaşı,Merkez
+15000,2+1,90,,Ankara,Yenimahalle,Merkez
+27000,1+1,65,,Ankara,Yenimahalle,Batıkent
+20500,2+1,120,,Ankara,Çankaya,Öveçler
+33000,4+2,220,,Ankara,Mamak,Akdere
+55000,4.5+2,220,,Ankara,Gölbaşı,Merkez
+23500,3+1,140,,Ankara,Gölbaşı,Merkez
+15000,1+1,55,,Ankara,Çubuk,Merkez
+25000,3+1,135,,Ankara,Çankaya,Dikmen
+26000,3+1,150,,Ankara,Çankaya,Balgat
+24000,2+1,100,,Ankara,Altındağ,Merkez
+24750,3+1,150,,Ankara,Kızılcahamam,Merkez
+17500,3+1,90,,Ankara,Keçiören,Aktepe
+12750,3+1,110,,Ankara,Keçiören,Etlik / İncirli
+17000,2+1,97,,Ankara,Sincan,Merkez
+27000,1+1,60,,Ankara,Çankaya,Gaziosmanpaşa(Gop)
+22000,1+1,55,,Ankara,Yenimahalle,Batıkent
+22000,1+1,65,,Ankara,Gölbaşı,Merkez
+27000,2+1,75,,Ankara,Çankaya,Kırkkonaklar
+20000,2+1,92,,Ankara,Sincan,Merkez
+21000,3+1,130,,Ankara,Keçiören,Etlik / İncirli
+27000,3+1,160,,Ankara,Çankaya,Gaziosmanpaşa(Gop)
+13000,2+1,90,,Ankara,Keçiören,Ufuktepe
+44000,4+1,225,,Ankara,Etimesgut,Çarşı
+38000,3+1,155,,Ankara,Çankaya,Öveçler
+32000,3+1,150,,Ankara,Çankaya,Balgat
+13000,3+1,100,,Ankara,Altındağ,Merkez
+45000,4+1,220,,Ankara,Çankaya,Dikmen
+30000,2+1,105,,Ankara,Etimesgut,Eryaman
+55000,4+1,185,,Ankara,Yenimahalle,Batıkent
+36000,4+1,155,,Ankara,Çankaya,Balgat
+23400,3+1,125,,Ankara,Keçiören,Ufuktepe
+22750,3+1,135,,Ankara,Mamak,Boğaziçi
+21000,3+1,120,,Ankara,Yenimahalle,Batıkent
+21000,2+1,80,,Ankara,Mamak,Gülveren
+21000,1+1,53,,Ankara,Yenimahalle,Merkez
+10500,3+1,130,,Ankara,Polatlı,Çarşı
+21000,2+1,90,,Ankara,Yenimahalle,Merkez
+17000,3+1,115,,Ankara,Sincan,Merkez
+17000,2+1,105,,Ankara,Etimesgut,Merkez
+34000,1+1,52,,Ankara,Gölbaşı,Merkez
+37500,1+1,55,,Ankara,Çankaya,Gaziosmanpaşa(Gop)
+24000,3+1,120,,Ankara,Keçiören,Etlik / İncirli
+40000,4+1,185,,Ankara,Yenimahalle,Batıkent
+22000,3+1,110,,Ankara,Altındağ,Merkez
+14000,3+1,135,,Ankara,Altındağ,Ulubey
+20500,1+1,70,,Ankara,Pursaklar,Merkez
+17000,2+1,90,,Ankara,Yenimahalle,Merkez
+25000,3+1,115,,Ankara,Keçiören,Şenlik/Güçlükaya
+28000,1+1,60,,Ankara,Çankaya,Anıttepe
+50000,4+1,190,,Ankara,Çankaya,Çayyolu/Ümitköy
+32000,3+1,150,,Ankara,Etimesgut,Çarşı
+22500,3+1,110,,Ankara,Gölbaşı,Merkez
+20000,2+1,90,,Ankara,Keçiören,Şenlik/Güçlükaya
+19000,1+1,65,,Ankara,Etimesgut,Eryaman
+60000,4+1,195,,Ankara,Çankaya,Çayyolu/Ümitköy
+36000,3+1,125,,Ankara,Çankaya,Dikmen
+10500,1+1,65,,Ankara,Çubuk,Merkez
+18000,1+1,55,,Ankara,Gölbaşı,Merkez
+33000,2+1,89,,Ankara,Çankaya,Balgat
+23750,1+1,55,,Ankara,Yenimahalle,Batıkent
+12000,1+1,45,,Ankara,Çankaya,Dikmen
+14000,3+1,135,,Ankara,Akyurt,Merkez
+37000,4+1,170,,Ankara,Yenimahalle,Merkez
+17500,1+1,70,,Ankara,Çubuk,Merkez
+22500,1+1,40,,Ankara,Çankaya,Çayyolu/Ümitköy
+19500,2+1,95,,Ankara,Gölbaşı,Merkez
+10000,Stüdyo (1+0),26,,Ankara,Çankaya,Cebeci
+44000,4+1,200,,Ankara,Çankaya,Merkez
+38000,2+1,105,,Ankara,Etimesgut,Eryaman
+25000,1+1,60,,Ankara,Çankaya,Çayyolu/Ümitköy
+45000,4+1,185,,Ankara,Çankaya,Merkez
+30000,2+1,56,,Ankara,Çankaya,Çayyolu/Ümitköy
+14000,2+1,100,,Ankara,Çankaya,Yıldız
+20000,3+1,120,,Ankara,Sincan,Merkez
+21000,5+1,180,,Ankara,Mamak,Boğaziçi
+15500,2+1,80,,Ankara,Yenimahalle,Merkez
+14500,3+1,110,,Ankara,Keçiören,Aktepe
+24000,3+1,130,,Ankara,Keçiören,Etlik / İncirli
+23000,2+1,95,,Ankara,Yenimahalle,Merkez
+23000,2+1,95,,Ankara,Yenimahalle,Merkez
+20500,1+1,60,,Ankara,Etimesgut,Eryaman
+19000,2+1,96,,Ankara,Mamak,Merkez
+23500,3.5+1,214,,Ankara,Sincan,Merkez
+17500,1+1,52,,Ankara,Etimesgut,Eryaman
+20000,2+1,75,,Ankara,Etimesgut,Eryaman
+21000,3+1,120,,Ankara,Mamak,Akdere
+73000,6+1,363,,Ankara,Gölbaşı,Merkez
+85000,4+1,260,,Ankara,Çankaya,Bilkent/Bilkentplaza/Beytepe
+16000,2+1,115,,Ankara,Keçiören,Etlik / İncirli
+23000,1+1,57,,Ankara,Etimesgut,Eryaman
+28000,2+1,70,,Ankara,Gölbaşı,Merkez
+25000,1+1,60,,Ankara,Gölbaşı,Merkez
+23500,3+1,120,,Ankara,Gölbaşı,Merkez
+15000,3+1,110,,Ankara,Sincan,Fatih
+18000,3+1,110,,Ankara,Altındağ,Merkez
+32000,2+1,140,,Ankara,Çankaya,Dikmen
+15000,3+1,130,,Ankara,Sincan,Merkez
+15000,3+1,120,,Ankara,Altındağ,Merkez
+12000,2+1,110,,Ankara,Mamak,Boğaziçi
+15000,3+1,120,,Ankara,Sincan,Merkez
+25750,3+1,140,,Ankara,Etimesgut,Çarşı
+23000,3+1,130,,Ankara,Keçiören,Ufuktepe
+15000,3+1,125,,Ankara,Çubuk,Merkez
+23000,3.5+1,145,,Ankara,Mamak,Boğaziçi
+16500,1+1,60,,Ankara,Gölbaşı,Merkez
+27500,1+1,50,,Ankara,Çankaya,Kırkkonaklar
+23000,3+1,125,,Ankara,Yenimahalle,Demetevler
+17500,3+1,115,,Ankara,Keçiören,Merkez
+20250,3+1,135,,Ankara,Yenimahalle,Merkez
+13500,3+1,113,,Ankara,Keçiören,Ufuktepe
+45000,3.5+1,214,,Ankara,Çankaya,Kavaklıdere
+19000,3+1,130,,Ankara,Keçiören,Aktepe
+25750,1+1,65,,Ankara,Çankaya,Yıldız
+19000,3+1,120,,Ankara,Keçiören,Aktepe
+38000,3+1,185,,Ankara,Yenimahalle,Batıkent
+30000,1+1,75,,Ankara,Gölbaşı,Merkez
+23500,3+1,115,,Ankara,Yenimahalle,Batıkent
+16000,3+1,120,,Ankara,Yenimahalle,Demetevler
+22000,1+1,70,,Ankara,Etimesgut,Merkez
+20000,3+1,116,,Ankara,Mamak,Gülveren
+20000,Stüdyo (1+0),60,,Ankara,Çankaya,Çayyolu/Ümitköy
+37000,4+1,180,,Ankara,Çankaya,Merkez
+23000,3+1,123,,Ankara,Sincan,Merkez
+25000,2+1,92,,Ankara,Etimesgut,Merkez
+75000,3+1,250,,Ankara,Çankaya,Ayrancı
+23500,3+1,140,,Ankara,Keçiören,Aktepe
+27000,3+1,120,,Ankara,Çankaya,Cebeci
+60000,4+1,260,,Ankara,Etimesgut,Çarşı
+36000,3+1,145,,Ankara,Etimesgut,Eryaman
+16000,1+1,70,,Ankara,Çubuk,Merkez
+18000,3+1,137,,Ankara,Etimesgut,Merkez
+21500,1+1,50,,Ankara,Çankaya,Çayyolu/Ümitköy
+22500,4+1,200,,Ankara,Yenimahalle,Merkez
+23000,2+1,90,,Ankara,Etimesgut,Eryaman
+19000,2+1,115,,Ankara,Sincan,Yenikent
+20000,3+1,130,,Ankara,Çankaya,Dikmen
+20000,3+1,110,,Ankara,Sincan,Merkez
+20000,3+1,120,,Ankara,Altındağ,Hasköy
+17500,2+1,95,,Ankara,Mamak,Demirlibahçe
+15000,3+1,120,,Ankara,Keçiören,Esertepe / Yayla
+28000,3+1,130,,Ankara,Yenimahalle,Demetevler
+45000,4+1,192,,Ankara,Yenimahalle,Batıkent
+21500,1+1,60,,Ankara,Etimesgut,Eryaman
+25000,2+1,120,,Ankara,Çankaya,Kavaklıdere
+33000,1+1,75,,Ankara,Yenimahalle,A.O.Çiftliği(Aoç)
+17750,2+1,150,,Ankara,Keçiören,Esertepe / Yayla
+35000,3+1,135,,Ankara,Çankaya,Öveçler
+16500,3+1,110,,Ankara,Yenimahalle,Şentepe
+35000,3+1,110,,Ankara,Çankaya,Çayyolu/Ümitköy
+20250,1+1,55,,Ankara,Etimesgut,Eryaman
+18000,3+1,120,,Ankara,Sincan,Merkez
+20000,3+1,125,,Ankara,Etimesgut,Çarşı
+23000,3+1,110,,Ankara,Yenimahalle,Karşıyaka
+23000,2+1,115,,Ankara,Yenimahalle,A.O.Çiftliği(Aoç)
+23000,2+1,85,,Ankara,Etimesgut,Eryaman
+20000,3+1,145,,Ankara,Keçiören,Esertepe / Yayla
+22000,2.5+1,120,,Ankara,Keçiören,Etlik / İncirli
+17500,3.5+1,130,,Ankara,Keçiören,Bağlum
+42500,2+1,99,,Ankara,Keçiören,Etlik / İncirli
+13750,3+1,125,,Ankara,Keçiören,Ufuktepe
+18000,3+1,135,,Ankara,Sincan,Yenikent
+14500,2+1,95,,Ankara,Sincan,Merkez
+25000,1+1,60,,Ankara,Yenimahalle,Batıkent
+11500,2+1,75,,Ankara,Sincan,Fatih
+17500,2+1,115,,Ankara,Kahramankazan,Kazan
+18000,3+1,115,,Ankara,Altındağ,Merkez
+25000,1+1,90,,Ankara,Mamak,Boğaziçi
+36000,3+1,135,,Ankara,Keçiören,Etlik / İncirli
+46000,4+1,220,,Ankara,Çankaya,Merkez
+36000,2+1,105,,Ankara,Çankaya,Çayyolu/Ümitköy
+22000,2+1,80,,Ankara,Gölbaşı,Merkez
+22000,3+1,165,,Ankara,Keçiören,Bağlum
+8250,1+1,65,,Ankara,Mamak,Merkez
+16500,3+1,115,,Ankara,Sincan,Fatih
+28000,3+1,125,,Ankara,Keçiören,Esertepe / Yayla
+14000,2+1,90,,Ankara,Mamak,Merkez
+16500,3+1,130,,Ankara,Keçiören,Bağlum
+36000,2+1,105,,Ankara,Gölbaşı,Merkez
+14950,3+1,100,,Ankara,Altındağ,Hasköy
+38500,4+1,150,,Ankara,Yenimahalle,Merkez
+21000,3+1,120,,Ankara,Keçiören,Şenlik/Güçlükaya
+13000,3+1,110,,Ankara,Mamak,Merkez
+17000,3+1,120,,Ankara,Altındağ,Merkez
+16500,3+1,90,,Ankara,Yenimahalle,Merkez
+21000,3+1,135,,Ankara,Etimesgut,Merkez
+28000,1+1,60,,Ankara,Gölbaşı,Merkez
+16500,1+1,70,,Ankara,Polatlı,Çarşı
+43500,4+1,220,,Ankara,Etimesgut,Merkez
+18500,3+1,110,,Ankara,Yenimahalle,Merkez
+17000,2+1,90,,Ankara,Keçiören,Etlik / İncirli
+12900,3+1,100,,Ankara,Keçiören,Sanatoryum
+16000,2+1,94,,Ankara,Etimesgut,Merkez
+8500,2+1,75,,Ankara,Altındağ,Merkez
+38000,4+1,190,,Ankara,Pursaklar,Merkez
+30000,3+1,110,,Ankara,Mamak,Abidinpaşa
+20000,3+1,120,,Ankara,Mamak,Boğaziçi
+25550,3+1,120,,Ankara,Mamak,Akdere
+25000,3+1,130,,Ankara,Çankaya,Öveçler
+26000,3+1,155,,Ankara,Pursaklar,Merkez
+18000,3+1,130,,Ankara,Keçiören,Bağlum
+16000,3+1,105,,Ankara,Sincan,Merkez
+25000,3+1,115,,Ankara,Çankaya,Dikmen
+25000,2+1,90,,Ankara,Yenimahalle,A.O.Çiftliği(Aoç)
+15000,2+1,100,,Ankara,Keçiören,Merkez
+15000,1+1,85,,Ankara,Keçiören,Şenlik/Güçlükaya
+28000,2+1,90,,Ankara,Çankaya,Çayyolu/Ümitköy
+33000,4.5+1,200,,Ankara,Yenimahalle,Merkez
+23000,2.5+1,110,,Ankara,Çankaya,Ayrancı
+34500,4+1,150,,Ankara,Çankaya,Kırkkonaklar
+14000,3+1,120,,Ankara,Yenimahalle,Karşıyaka
+95000,3+1,158,,Ankara,Çankaya,Hürriyet
+17500,3+1,130,,Ankara,Yenimahalle,Demetevler
+13500,1+1,55,,Ankara,Sincan,Merkez
+15000,3+1,160,,Ankara,Sincan,Temelli
+14000,3.5+1,135,,Ankara,Mamak,Misket
+19000,2+1,110,,Ankara,Etimesgut,Çarşı
+20000,3+1,125,,Ankara,Etimesgut,Çarşı
+25000,1+1,43,,Ankara,Çankaya,Çayyolu/Ümitköy
+15500,3+1,120,,Ankara,Sincan,Merkez
+33000,3+1,135,,Ankara,Keçiören,Etlik / İncirli
+25000,2+1,100,,Ankara,Çankaya,Öveçler
+20000,3+1,110,,Ankara,Keçiören,Şenlik/Güçlükaya
+20000,1+1,55,,Ankara,Mamak,Akdere
+53000,3+1,165,,Ankara,Yenimahalle,Demetevler
+24000,2+1,80,,Ankara,Çankaya,Kızılay
+15000,2+1,100,,Ankara,Elmadağ,Merkez
+19750,3+1,120,,Ankara,Keçiören,Esertepe / Yayla
+21000,1+1,70,,Ankara,Çankaya,Cebeci
+22500,3+1,116,,Ankara,Keçiören,Aktepe
+14000,3+1,149,,Ankara,Sincan,Temelli
+24000,3+1,160,,Ankara,Altındağ,Ulubey
+25000,3+1,150,,Ankara,Mamak,Merkez
+33000,1+1,50,,Ankara,Çankaya,Çayyolu/Ümitköy
+21000,1+1,55,,Ankara,Etimesgut,Eryaman
+16500,3+1,120,,Ankara,Mamak,Misket
+16000,2+1,85,,Ankara,Mamak,Misket
+26500,1+1,60,,Ankara,Gölbaşı,Merkez
+20500,3+1,130,,Ankara,Yenimahalle,Demetevler
+25750,2+1,110,,Ankara,Sincan,Merkez
+43500,2+1,130,,Ankara,Çankaya,Çayyolu/Ümitköy
+34000,3+1,130,,Ankara,Çankaya,Bahçelievler
+18000,3+1,160,,Ankara,Mamak,Merkez
+19000,1+1,55,,Ankara,Çankaya,Zafertepe
+20900,1+1,55,,Ankara,Yenimahalle,İstasyon
+16000,3+1,135,,Ankara,Etimesgut,Merkez
+10000,1+1,55,,Ankara,Çubuk,Merkez
+28000,3+1,105,,Ankara,Etimesgut,Eryaman
+33000,3+1,165,,Ankara,Yenimahalle,Şentepe
+22000,1+1,68,,Ankara,Etimesgut,Çarşı
+45000,1+1,45,,Ankara,Çankaya,Tunalı Hilmi
+70000,2+1,94,,Ankara,Çankaya,Balgat
+25000,3+1,155,,Ankara,Yenimahalle,Batıkent
+29000,3+1,125,,Ankara,Çankaya,Balgat
+23000,2+1,131,,Ankara,Sincan,Fatih
+9500,1+1,65,,Ankara,Çubuk,Merkez
+16500,3+1,120,,Ankara,Sincan,Fatih
+16000,3+1,145,,Ankara,Altındağ,Merkez
+24000,3+1,130,,Ankara,Çankaya,Dikmen
+40000,4+1,180,,Ankara,Keçiören,Sanatoryum
+20000,3+1,116,,Ankara,Keçiören,Aktepe
+25000,1+1,50,,Ankara,Gölbaşı,Merkez
+55000,3+1,180,,Ankara,Çankaya,Çayyolu/Ümitköy
+32000,3+1,110,,Ankara,Etimesgut,Eryaman
+16000,2+1,80,,Ankara,Keçiören,Sanatoryum
+39500,1+1,75,,Ankara,Çankaya,Bahçelievler
+38000,4+1,220,,Ankara,Keçiören,Sanatoryum
+20500,3+1,120,,Ankara,Çankaya,Dikmen
+50000,3+1,220,,Ankara,Çankaya,Tunalı Hilmi
+20000,4+1,145,,Ankara,Mamak,Merkez
+28000,3+1,115,,Ankara,Mamak,Boğaziçi
+25000,2+1,110,,Ankara,Yenimahalle,Demetevler
+20000,2+1,75,,Ankara,Çankaya,Cebeci
+40000,4+1,200,,Ankara,Çankaya,Yıldız
+21000,1+1,70,,Ankara,Yenimahalle,Batıkent
+28750,3+1,150,,Ankara,Yenimahalle,Merkez
+40000,1+1,55,,Ankara,Etimesgut,Çarşı
+26000,1+1,35,,Ankara,Çankaya,Cebeci
+45999,4+1,165,,Ankara,Etimesgut,Çarşı
+30000,1+1,85,,Ankara,Keçiören,Ufuktepe
+22500,3+1,145,,Ankara,Polatlı,Çarşı
+35000,3+1,135,,Ankara,Çankaya,Ayrancı
+40000,4+2,250,,Ankara,Keçiören,Sanatoryum
+23000,3+1,140,,Ankara,Sincan,Temelli
+15000,3+1,120,,Ankara,Mamak,Boğaziçi
+25500,2+1,110,,Ankara,Polatlı,Çarşı
+20000,3+1,145,,Ankara,Kahramankazan,Kazan
+15000,2+1,81,,Ankara,Yenimahalle,Demetevler
+30000,3+1,135,,Ankara,Etimesgut,Çarşı
+65000,4+1,220,,Ankara,Çankaya,Çayyolu/Ümitköy
+35000,3+1,125,,Ankara,Çankaya,Çayyolu/Ümitköy
+10000,3+1,145,,Ankara,Şereflikoçhisar,Merkez
+12000,3+1,145,,Ankara,Şereflikoçhisar,Merkez
+29000,1+1,50,,Ankara,Çankaya,Dikmen
+45000,2+1,90,,Ankara,Çankaya,Dikmen
+15450,1+1,50,,Ankara,Gölbaşı,Merkez
+25000,3+1,160,,Ankara,Keçiören,Ufuktepe
+15500,3+1,125,,Ankara,Keçiören,Ufuktepe
+32500,3+1,125,,Ankara,Çankaya,Ayrancı
+24200,3+1,125,,Ankara,Çankaya,Merkez
+26500,3+1,150,,Ankara,Yenimahalle,Batıkent
+13500,2+1,95,,Ankara,Mamak,Boğaziçi
+17800,2+1,85,,Ankara,Keçiören,Aktepe
+22500,3+1,150,,Ankara,Mamak,Boğaziçi
+30000,5+1,180,,Ankara,Keçiören,Etlik / İncirli
+36000,4+1,150,,Ankara,Çankaya,Kırkkonaklar
+20000,3+1,130,,Ankara,Yenimahalle,Batıkent
+15500,3+1,115,,Ankara,Mamak,Boğaziçi
+17000,2+1,72,,Ankara,Çubuk,Merkez
+35000,3+1,135,,Ankara,Çankaya,Kırkkonaklar
+21450,3+1,120,,Ankara,Altındağ,Hasköy
+21500,1+1,80,,Ankara,Keçiören,Etlik / İncirli
+22000,3+1,130,,Ankara,Çankaya,Dikmen
+35000,3+1,110,,Ankara,Çankaya,Çayyolu/Ümitköy
+18500,3+1,135,,Ankara,Mamak,Boğaziçi
+37500,2+1,130,,Ankara,Çankaya,Yıldız
+20000,1+1,55,,Ankara,Çankaya,Çayyolu/Ümitköy
+25000,1+1,55,,Ankara,Çankaya,Çayyolu/Ümitköy
+27500,3+1,125,,Ankara,Çankaya,Ayrancı
+25000,3+1,140,,Ankara,Keçiören,Esertepe / Yayla
+14500,3+1,135,,Ankara,Altındağ,Merkez
+21000,1+1,62,,Ankara,Kahramankazan,Kazan
+16000,2+1,105,,Ankara,Keçiören,Etlik / İncirli
+25000,3+1,130,,Ankara,Gölbaşı,Merkez
+16750,3+1,145,,Ankara,Keçiören,Aktepe
+19250,3+1,105,,Ankara,Sincan,Fatih
+36000,3+1,165,,Ankara,Etimesgut,Çarşı
+15000,2+1,100,,Ankara,Keçiören,Ufuktepe
+12500,2+1,98,,Ankara,Akyurt,Merkez
+35000,4+1,180,,Ankara,Etimesgut,Merkez
+38000,3+1,160,,Ankara,Çankaya,Yıldız
+40000,3+1,140,,Ankara,Çankaya,Dikmen
+22500,3+1,135,,Ankara,Sincan,Merkez
+40000,3+1,140,,Ankara,Çankaya,Dikmen
+22500,3+1,135,,Ankara,Sincan,Merkez
+35000,2+1,120,,Ankara,Çankaya,Kavaklıdere
+24000,1+1,75,,Ankara,Çankaya,Bahçelievler
+14000,3+1,120,,Ankara,Kahramankazan,Kazan
+16000,3+1,155,,Ankara,Elmadağ,Merkez
+14000,3+1,130,,Ankara,Kahramankazan,Kazan
+13000,3+1,135,,Ankara,Altındağ,Ulubey
+16000,1+1,80,,Ankara,Keçiören,Ufuktepe
+25750,4+1,175,,Ankara,Altındağ,Yeşilöz
+26000,1+1,55,,Ankara,Çankaya,Dikmen
+27000,3+1,160,,Ankara,Yenimahalle,Şentepe
+28500,2+1,100,,Ankara,Yenimahalle,Batıkent
+17500,3+1,120,,Ankara,Mamak,Akdere
+17500,3+1,120,,Ankara,Çankaya,Sıhhiye/Zafer
+18500,3+1,150,,Ankara,Mamak,Merkez
+22000,3+1,135,,Ankara,Keçiören,Etlik / İncirli
+18500,3+1,120,,Ankara,Keçiören,Etlik / İncirli
+30000,1+1,88,,Ankara,Çankaya,Yıldız
+15850,3+1,110,,Ankara,Keçiören,Aktepe
+18500,1+1,60,,Ankara,Gölbaşı,Merkez
+20000,3+1,145,,Ankara,Mamak,Boğaziçi
+20000,3+1,130,,Ankara,Mamak,Abidinpaşa
+20000,2+1,70,,Ankara,Çankaya,Merkez
+21000,3+1,110,,Ankara,Etimesgut,Çarşı
+16500,2+1,120,,Ankara,Keçiören,Esertepe / Yayla
+18000,3+1,125,,Ankara,Keçiören,Etlik / İncirli
+26000,3+1,156,,Ankara,Keçiören,Etlik / İncirli
+37500,4+1,215,,Ankara,Keçiören,Esertepe / Yayla
+30750,2+1,85,,Ankara,Etimesgut,Eryaman
+22000,2+1,90,,Ankara,Çankaya,Sıhhiye
+32500,2+1,85,,Ankara,Gölbaşı,Merkez
+62500,3+1,138,,Ankara,Çankaya,Yıldız
+32000,3+1,140,,Ankara,Çankaya,Ayrancı
+16000,3+1,135,,Ankara,Yenimahalle,Demetevler
+15000,4+1,140,,Ankara,Mamak,Boğaziçi
+17000,3+1,160,,Ankara,Mamak,Merkez
+25000,3+1,130,,Ankara,Etimesgut,Çarşı
+27500,1+1,55,,Ankara,Çankaya,Çayyolu/Ümitköy
+10500,2+1,95,,Ankara,Yenimahalle,Merkez
+16000,3+1,120,,Ankara,Keçiören,Aktepe
+52000,5+1,280,,Ankara,Yenimahalle,Merkez
+31000,1+1,60,,Ankara,Gölbaşı,Merkez
+30000,3+1,130,,Ankara,Yenimahalle,Merkez
+50000,4+1,260,,Ankara,Çankaya,Merkez
+24000,1+1,45,,Ankara,Gölbaşı,Merkez
+30000,1+1,92,,Ankara,Etimesgut,Çarşı
+15000,3+1,120,,Ankara,Sincan,Merkez
+36000,2+1,75,,Ankara,Çankaya,Bahçelievler
+30000,1+1,82,,Ankara,Çankaya,Merkez
+33000,3+1,130,,Ankara,Çankaya,Ayrancı
+36000,2+1,105,,Ankara,Etimesgut,Eryaman
+25000,3+1,130,,Ankara,Altındağ,Hasköy
+14000,2+1,90,,Ankara,Mamak,Merkez
+19000,5+1,240,,Ankara,Keçiören,Esertepe / Yayla
+35000,1+1,55,,Ankara,Çankaya,Sıhhiye
+30000,1+1,40,,Ankara,Çankaya,Cebeci
+30000,1+1,40,,Ankara,Çankaya,Cebeci
+32000,1+1,85,,Ankara,Çankaya,Bilkent/Bilkentplaza/Beytepe
+19000,2+1,85,,Ankara,Çankaya,Küçükesat
+14000,1+1,60,,Ankara,Çubuk,Merkez
+14500,3+1,125,,Ankara,Sincan,Merkez
+23000,1+1,50,,Ankara,Gölbaşı,Merkez
+19000,3+1,110,,Ankara,Yenimahalle,Karşıyaka
+20000,3+1,105,,Ankara,Etimesgut,Eryaman
+22500,3+1,120,,Ankara,Keçiören,Etlik / İncirli
+15500,2+1,97,,Ankara,Sincan,Merkez
+20000,1+1,60,,Ankara,Gölbaşı,Merkez
+37000,3+1,132,,Ankara,Keçiören,Etlik / İncirli
+11500,1+1,55,,Ankara,Keçiören,Etlik / İncirli
+35000,1+1,42,,Ankara,Çankaya,Ayrancı
+58000,4+1,186,,Ankara,Çankaya,Çayyolu/Ümitköy
+34000,2+1,75,,Ankara,Çankaya,Merkez
+54000,3.5+1,115,,Ankara,Yenimahalle,Batıkent
+22000,1+1,55,,Ankara,Etimesgut,Eryaman
+52000,3+1,155,,Ankara,Çankaya,Yıldız
+23000,3+1,130,,Ankara,Çankaya,Dikmen
+18250,3+1,130,,Ankara,Keçiören,Etlik / İncirli
+130000,4.5+1,220,,Ankara,Çankaya,Balgat
+22000,1+1,49,,Ankara,Çankaya,Çayyolu/Ümitköy
+40000,3+1,154,,Ankara,Mamak,Boğaziçi
+15000,Stüdyo (1+0),35,,Ankara,Etimesgut,Eryaman
+47000,3+1,160,,Ankara,Çankaya,Bahçelievler
+30000,1+1,60,,Ankara,Yenimahalle,A.O.Çiftliği(Aoç)
+17000,3+1,120,,Ankara,Keçiören,Bağlum
+20000,3+1,125,,Ankara,Keçiören,Etlik / İncirli
+13500,2+1,85,,Ankara,Çankaya,Dikmen
+14900,2+1,85,,Ankara,Keçiören,Esertepe / Yayla
+18400,1+1,54,,Ankara,Etimesgut,Eryaman
+25000,3+1,140,,Ankara,Yenimahalle,Batıkent
+16500,1+1,47,,Ankara,Gölbaşı,Merkez
+19950,3+1,135,,Ankara,Keçiören,Sanatoryum
+14250,3+1,120,,Ankara,Mamak,Boğaziçi
+18500,2+1,130,,Ankara,Yenimahalle,Batıkent
+15750,3+1,130,,Ankara,Akyurt,Merkez
+14000,3+1,130,,Ankara,Pursaklar,Altınova
+35000,3+1,130,,Ankara,Mamak,Boğaziçi
+24950,2+1,90,,Ankara,Yenimahalle,Demetevler
+25000,2+1,120,,Ankara,Çankaya,Zafertepe
+27500,2+1,105,,Ankara,Çankaya,Cebeci
+17000,3+1,120,,Ankara,Etimesgut,Çarşı
+34000,1+1,70,,Ankara,Çankaya,Balgat
+27500,2+1,65,,Ankara,Çankaya,Merkez
+32000,3+1,130,,Ankara,Yenimahalle,Karşıyaka
+14250,2+1,85,,Ankara,Altındağ,Merkez
+29500,1+1,65,,Ankara,Gölbaşı,Merkez
+29750,3+1,135,,Ankara,Çankaya,Dikmen
+20000,2+1,90,,Ankara,Mamak,Boğaziçi
+16000,3+1,140,,Ankara,Altındağ,Ulubey
+18500,3+1,125,,Ankara,Yenimahalle,Demetevler
+60000,4+1,300,,Ankara,Çankaya,Yıldız
+11000,1+1,50,,Ankara,Çubuk,Merkez
+18500,3+1,130,,Ankara,Keçiören,Ufuktepe
+19500,2+1,85,,Ankara,Çankaya,Merkez
+25500,3+1,115,,Ankara,Yenimahalle,Batıkent
+23000,2+1,110,,Ankara,Çankaya,Küçükesat
+19000,3+1,128,,Ankara,Mamak,Merkez
+39000,3+1,180,,Ankara,Çankaya,Yıldız
+25500,3+1,125,,Ankara,Etimesgut,Eryaman
+31000,3+1,120,,Ankara,Çankaya,Ayrancı
+12500,2+1,100,,Ankara,Altındağ,Merkez
+22000,1+1,75,,Ankara,Çankaya,Bahçelievler
+14000,3+1,115,,Ankara,Keçiören,Esertepe / Yayla
+45000,2+1,75,,Ankara,Çankaya,Ayrancı
+25000,1+1,50,,Ankara,Gölbaşı,Merkez
+55000,4+1,240,,Ankara,Keçiören,Sanatoryum
+24000,2+1,75,,Ankara,Çankaya,Bahçelievler
+25000,3+1,120,,Ankara,Çankaya,Dikmen
+15500,3+1,120,,Ankara,Keçiören,Sanatoryum
+30000,4+1,150,,Ankara,Pursaklar,Merkez
+35000,2+1,90,,Ankara,Çankaya,Çayyolu/Ümitköy
+18000,Stüdyo (1+0),35,,Ankara,Çankaya,Balgat
+28000,5+1,250,,Ankara,Keçiören,Esertepe / Yayla
+18350,3+1,120,,Ankara,Etimesgut,Çarşı
+22000,1+1,45,,Ankara,Etimesgut,Çarşı
+25000,4+1,145,,Ankara,Keçiören,Aktepe
+36000,2+1,80,,Ankara,Çankaya,Tunalı Hilmi
+23000,3.5+1,150,,Ankara,Altındağ,Ulubey
+32000,4+1,200,,Ankara,Altındağ,Hasköy
+33000,4+1,190,,Ankara,Etimesgut,Merkez
+14750,3+1,130,,Ankara,Pursaklar,Altınova
+20000,3+1,125,,Ankara,Gölbaşı,Merkez
+26000,1+1,70,,Ankara,Etimesgut,Eryaman
+14000,3+1,119,,Ankara,Keçiören,Aktepe
+31000,3+1,145,,Ankara,Mamak,Boğaziçi
+25000,2+1,70,,Ankara,Çankaya,Sıhhiye/Zafer
+30000,2.5+1,142,,Ankara,Yenimahalle,Merkez
+30000,3+1,150,,Ankara,Keçiören,Ufuktepe
+30000,3+1,125,,Ankara,Çankaya,Ayrancı
+20500,3+1,125,,Ankara,Keçiören,Esertepe / Yayla
+15000,3+1,115,,Ankara,Sincan,Merkez
+30000,3+1,125,,Ankara,Çankaya,Ayrancı
+20500,3+1,125,,Ankara,Keçiören,Esertepe / Yayla
+15000,3+1,115,,Ankara,Sincan,Merkez
+29000,1+1,70,,Ankara,Mamak,Boğaziçi
+11750,3+1,130,,Ankara,Polatlı,Çarşı
+17500,1+1,65,,Ankara,Çubuk,Merkez
+30000,3+1,120,,Ankara,Çankaya,Balgat
+15000,3+1,100,,Ankara,Mamak,Abidinpaşa
+21000,2+1,85,,Ankara,Etimesgut,Merkez
+30000,2+1,100,,Ankara,Çankaya,Anıttepe
+29000,2+1,85,,Ankara,Çankaya,Çayyolu/Ümitköy
+32000,3+1,130,,Ankara,Çankaya,Ayrancı
+18750,3+1,140,,Ankara,Çankaya,Zafertepe
+22500,3+1,125,,Ankara,Keçiören,Sanatoryum
+35000,3+1,130,,Ankara,Çankaya,Bahçelievler
+17000,2+1,100,,Ankara,Keçiören,Ufuktepe
+33000,3+1,125,,Ankara,Çankaya,Çayyolu/Ümitköy
+19000,2+1,105,,Ankara,Keçiören,Merkez
+15000,2+1,85,,Ankara,Çubuk,Merkez
+18000,3+1,120,,Ankara,Mamak,Akdere
+45000,4+1,200,,Ankara,Keçiören,Sanatoryum
+18500,3+1,140,,Ankara,Yenimahalle,Demetevler
+15000,3+1,115,,Ankara,Sincan,Merkez
+28000,3+1,120,,Ankara,Keçiören,Esertepe / Yayla
+19500,3+1,120,,Ankara,Mamak,Boğaziçi
+70000,4+1,190,,Ankara,Çankaya,Yıldız
+66000,4+1,216,,Ankara,Yenimahalle,Merkez
+35000,3+1,150,,Ankara,Çankaya,Yıldız
+36000,1+1,64,,Ankara,Çankaya,Zafertepe
+30000,2+1,78,,Ankara,Çankaya,Zafertepe
+9000,2+1,85,,Ankara,Mamak,Merkez
+17500,3+1,115,,Ankara,Altındağ,Ulubey
+16500,3+1,145,,Ankara,Mamak,Merkez
+12000,3+1,150,,Ankara,Çubuk,Merkez
+19500,3+1,135,,Ankara,Keçiören,Etlik / İncirli
+19500,3+1,120,,Ankara,Keçiören,Esertepe / Yayla
+55000,4+1,240,,Ankara,Çankaya,Gaziosmanpaşa(Gop)
+47000,4+1,230,,Ankara,Çankaya,Çayyolu/Ümitköy
+50000,3+1,160,,Ankara,Çankaya,Gaziosmanpaşa(Gop)
+45000,5+1,280,,Ankara,Çankaya,Dikmen
+20350,3+1,120,,Ankara,Mamak,Akdere
+16500,Stüdyo (1+0),120,,Ankara,Etimesgut,Çarşı
+19000,2+1,85,,Ankara,Etimesgut,Çarşı
+16500,3+1,125,,Ankara,Mamak,Akdere
+16000,3+1,125,,Ankara,Mamak,Akdere
+20000,3+1,120,,Ankara,Keçiören,Merkez
+20000,1+1,50,,Ankara,Gölbaşı,Merkez
+35000,2+1,130,,Ankara,Mamak,Boğaziçi
+21000,3+1,120,,Ankara,Altındağ,Hasköy
+32000,1+1,97,,Ankara,Çankaya,Çayyolu/Ümitköy
+11000,1+1,65,,Ankara,Mamak,Merkez
+11000,1+1,65,,Ankara,Mamak,Merkez
+26500,2+1,83,,Ankara,Mamak,Boğaziçi
+20000,3+1,125,,Ankara,Sincan,Merkez
+16500,3+1,120,,Ankara,Mamak,Akdere
+20000,3+1,120,,Ankara,Etimesgut,Çarşı
+17500,3+1,100,,Ankara,Yenimahalle,Demetevler
+20000,2+1,90,,Ankara,Çankaya,Yıldız
+45000,1+1,95,,Ankara,Çankaya,Yıldız
+15000,2+1,100,,Ankara,Keçiören,Sanatoryum
+18000,2+1,110,,Ankara,Keçiören,Sanatoryum
+22000,3+1,150,,Ankara,Gölbaşı,Merkez
+34000,5+1,210,,Ankara,Yenimahalle,Merkez
+22000,1+1,60,,Ankara,Etimesgut,Eryaman
+14500,3+1,120,,Ankara,Sincan,Merkez
+19000,2+1,90,,Ankara,Polatlı,Merkez
+20000,2.5+1,135,,Ankara,Mamak,Boğaziçi
+20000,4+1,185,,Ankara,Mamak,Akdere
+23000,4+1,145,,Ankara,Keçiören,Aktepe
+63000,4+1,185,,Ankara,Çankaya,Merkez
+25000,1+1,55,,Ankara,Gölbaşı,Merkez
+20500,3+1,135,,Ankara,Keçiören,Sanatoryum
+42000,4+1,225,,Ankara,Keçiören,Sanatoryum
+32000,2+1,75,,Ankara,Çankaya,Bahçelievler
+95000,4.5+1,400,,Ankara,Çankaya,Yıldız
+20000,2+1,100,,Ankara,Çankaya,Öveçler
+16500,3+1,115,,Ankara,Sincan,Yenikent
+8500,3+1,135,,Ankara,Sincan,Temelli
+14250,3+1,125,,Ankara,Sincan,Merkez
+18000,2+1,110,,Ankara,Etimesgut,Çarşı
+27500,1+1,65,,Ankara,Çankaya,Öveçler
+14750,3+1,110,,Ankara,Mamak,Akdere
+20000,3+1,125,,Ankara,Etimesgut,Merkez
+22000,3+1,110,,Ankara,Yenimahalle,Merkez
+14500,1+1,80,,Ankara,Keçiören,Kalaba
+19500,Stüdyo (1+0),35,,Ankara,Çankaya,Çayyolu/Ümitköy
+20000,2+1,95,,Ankara,Mamak,Merkez
+30000,3+1,150,,Ankara,Yenimahalle,Merkez
+32000,3+1,150,,Ankara,Etimesgut,Çarşı
+12500,2+1,100,,Ankara,Mamak,Boğaziçi
+24500,3+1,90,,Ankara,Gölbaşı,Merkez
+24500,1+1,60,,Ankara,Yenimahalle,Batıkent
+29500,1+1,65,,Ankara,Yenimahalle,Batıkent
+75000,5+1,265,,Ankara,Çankaya,Dikmen
+15000,3+1,110,,Ankara,Mamak,Akdere
+19000,3+1,130,,Ankara,Keçiören,Kalaba
+20000,2+1,70,,Ankara,Yenimahalle,İstasyon
+13000,2+1,100,,Ankara,Keçiören,Aktepe
+29000,2+1,103,,Ankara,Yenimahalle,Ostim
+15000,3+1,110,,Ankara,Keçiören,Şenlik/Güçlükaya
+13500,2+1,100,,Ankara,Keçiören,Etlik / İncirli
+27450,3+1,145,,Ankara,Mamak,Boğaziçi
+19000,1+1,70,,Ankara,Gölbaşı,Merkez
+18000,1+1,50,,Ankara,Etimesgut,Eryaman
+14000,2+1,85,,Ankara,Mamak,Merkez
+17500,2+1,80,,Ankara,Etimesgut,Çarşı
+50000,3+1,160,,Ankara,Çankaya,Ayrancı
+15500,3+1,125,,Ankara,Mamak,Hüseyingazi
+33000,3+1,140,,Ankara,Mamak,Boğaziçi
+13000,3+1,140,,Ankara,Altındağ,Ulubey
+30000,1+1,65,,Ankara,Çankaya,Balgat
+25750,2+1,87,,Ankara,Sincan,Merkez
+26500,4.5+1,160,,Ankara,Sincan,Yenikent
+22500,1+1,55,,Ankara,Çankaya,Kızılay
+25000,2+1,85,,Ankara,Etimesgut,Eryaman
+23000,2+1,90,,Ankara,Çankaya,Balgat
+18000,3+1,120,,Ankara,Pursaklar,Merkez
+16500,3+1,120,,Ankara,Keçiören,Aktepe
+55500,4+1,177,,Ankara,Etimesgut,Merkez
+65000,5+1,270,,Ankara,Gölbaşı,Merkez
+22250,1+1,55,,Ankara,Çankaya,Çayyolu/Ümitköy
+25250,1+1,55,,Ankara,Çankaya,Kavaklıdere
+22000,3+1,145,,Ankara,Çankaya,Merkez
+31000,3+1,150,,Ankara,Mamak,Boğaziçi
+44999,4+1,190,,Ankara,Etimesgut,Çarşı
+18750,3+1,145,,Ankara,Polatlı,Çarşı
+25500,2+1,65,,Ankara,Yenimahalle,Demetevler
+26000,3+1,135,,Ankara,Yenimahalle,Batıkent
+24000,2+1,114,,Ankara,Sincan,Fatih
+21500,3+1,160,,Ankara,Yenimahalle,Merkez
+32000,3+1,130,,Ankara,Keçiören,Esertepe / Yayla
+27500,2+1,80,,Ankara,Çankaya,Ayrancı
+23500,1+1,60,,Ankara,Etimesgut,Merkez
+24500,3+1,130,,Ankara,Keçiören,Etlik / İncirli
+28500,2+1,85,,Ankara,Etimesgut,Eryaman
+16000,2+1,90,,Ankara,Çankaya,Yıldız
+26000,3+1,145,,Ankara,Yenimahalle,Şentepe
+22500,1+1,60,,Ankara,Yenimahalle,Batıkent
+23000,1+1,70,,Ankara,Çankaya,Çayyolu/Ümitköy
+17000,1+1,55,,Ankara,Çubuk,Merkez
+20500,3+1,110,,Ankara,Keçiören,Etlik / İncirli
+30000,1+1,84,,Ankara,Yenimahalle,A.O.Çiftliği(Aoç)
+15500,2+1,110,,Ankara,Keçiören,Esertepe / Yayla
+85000,4.5+1,232,,Ankara,Çankaya,Yıldız
+19000,3+1,140,,Ankara,Kahramankazan,Kazan
+29000,4+1,150,,Ankara,Çankaya,Dikmen
+40000,4+1,190,,Ankara,Etimesgut,Çarşı
+35000,2+1,90,,Ankara,Gölbaşı,Merkez
+22900,3+1,135,,Ankara,Yenimahalle,Merkez
+21000,3+1,120,,Ankara,Sincan,Merkez
+19000,3+1,115,,Ankara,Keçiören,Etlik / İncirli
+26300,3+1,145,,Ankara,Yenimahalle,Batıkent
+21000,2+1,120,,Ankara,Keçiören,Etlik / İncirli
+20000,3+1,140,,Ankara,Sincan,Yenikent
+44000,3+1,94,,Ankara,Çankaya,Gaziosmanpaşa(Gop)
+21000,1+1,60,,Ankara,Çankaya,Çayyolu/Ümitköy
+42000,3+1,145,,Ankara,Çankaya,Çayyolu/Ümitköy
+20000,2+1,110,,Ankara,Çankaya,Zafertepe
+35000,2+1,105,,Ankara,Çankaya,Gaziosmanpaşa(Gop)
+25000,4.5+1,220,,Ankara,Mamak,Boğaziçi
+17500,1+1,65,,Ankara,Mamak,Gülveren
+35000,2+1,72,,Ankara,Yenimahalle,Batıkent
+37000,1+1,84,,Ankara,Yenimahalle,A.O.Çiftliği(Aoç)
+20500,3+1,140,,Ankara,Sincan,Merkez
+25000,3+1,140,,Ankara,Yenimahalle,Karşıyaka
+17000,3+1,120,,Ankara,Altındağ,Merkez
+18000,1+1,50,,Ankara,Etimesgut,Eryaman
+8000,2.5+1,125,,Ankara,Çubuk,Merkez
+52000,3+1,125,,Ankara,Çankaya,Çayyolu/Ümitköy
+18000,3+1,135,,Ankara,Altındağ,Hasköy
+15000,3+1,120,,Ankara,Mamak,Akdere
+65000,4+1,195,,Ankara,Çankaya,Balgat
+42000,4+1,180,,Ankara,Çankaya,Dikmen
+23500,1+1,52,,Ankara,Gölbaşı,Merkez
+37500,2+1,82,,Ankara,Çankaya,Çayyolu/Ümitköy
+25500,2+1,100,,Ankara,Çankaya,Tunalı Hilmi
+20000,3+1,130,,Ankara,Sincan,Merkez
+37000,1+1,70,,Ankara,Çankaya,Ayrancı
+23000,1+1,50,,Ankara,Gölbaşı,Merkez
+27000,4+1,160,,Ankara,Mamak,Misket
+20000,3+1,150,,Ankara,Sincan,Yenikent
+31000,3+1,100,,Ankara,Etimesgut,Eryaman
+17000,1+1,55,,Ankara,Etimesgut,Eryaman
+20000,3+1,130,,Ankara,Keçiören,Esertepe / Yayla
+30500,1+1,70,,Ankara,Çankaya,Dikmen
+22400,2+1,115,,Ankara,Keçiören,Etlik / İncirli
+17500,3+1,110,,Ankara,Gölbaşı,Merkez
+33000,2+1,85,,Ankara,Yenimahalle,A.O.Çiftliği(Aoç)
+16000,3+1,110,,Ankara,Keçiören,Aktepe
+18000,3+1,110,,Ankara,Yenimahalle,Merkez
+30000,3+1,145,,Ankara,Çankaya,Dikmen
+17000,1+1,90,,Ankara,Şereflikoçhisar,Merkez
+20000,1+1,55,,Ankara,Gölbaşı,Merkez
+48500,2+1,145,,Ankara,Çankaya,Yıldız
+20000,3+1,105,,Ankara,Çankaya,Öveçler
+70000,2+1,138,,Ankara,Çankaya,Balgat
+17000,3+1,125,,Ankara,Keçiören,Ufuktepe
+42000,3+1,120,,Ankara,Çankaya,Gaziosmanpaşa(Gop)
+71000,6+2,364,,Ankara,Gölbaşı,Merkez
+23000,3+1,125,,Ankara,Keçiören,Ufuktepe
+21500,3+1,130,,Ankara,Çankaya,Dikmen
+39000,4+1,200,,Ankara,Etimesgut,Çarşı
